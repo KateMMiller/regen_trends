@@ -1,0 +1,792 @@
+---
+output: 
+  html_document: 
+    fig_caption: yes
+    anchor_sections: no
+---
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(echo = TRUE, 
+                      warning = FALSE, message = FALSE,
+                      fig.width = 8, fig.height = 6)
+options(knitr.kable.NA = '')
+```
+
+#### GLMM Model Selection {.tabset .tabset-pills}
+```{r, results = 'hide', warning = 'hide', include = FALSE}
+library(tidyverse)
+library(lme4) # for lmer
+library(sjPlot) # for cleaned up anova table
+library(car) # for VIF
+library(AICcmodavg) # for delta AIC
+options(scipen = 100, digits = 4)
+
+comb_df <- read.csv("./data/regression_data_2016-2019.csv") %>% 
+  mutate(DBI2 = ifelse(DBI <= 3, 3, DBI)) %>% 
+  rename(physio = Physiographic_Class, prov = PROVINCE)
+
+summary(comb_df)
+
+```
+##### Model Selection {.tabset}
+###### Seedlings
+
+```{r eval = F}
+library(tidyverse)
+library(lme4) # for lmer
+library(sjPlot) # for cleaned up anova table
+library(car) # for VIF
+library(AICcmodavg) # for delta AIC
+
+options(scipen = 100, digits = 4)
+
+comb_df <- read.csv("./data/regression_data_2016-2019.csv") %>% 
+  mutate(DBI2 = ifelse(DBI <= 3, 3, DBI)) %>% 
+  rename(physio = Physiographic_Class, prov = PROVINCE)
+
+```
+
+<details open><summary class = 'drop'>Model Selection</summary>
+```{r, echo = T}
+# Calc constant for log transforming with 0s
+miny_sd <- min(comb_df$Seed_Dens_NatCan[comb_df$Seed_Dens_NatCan > 0])
+
+# Null model
+seed_null <- lmer(log(Seed_Dens_NatCan + miny_sd) ~ 1 + (1|Park), data = comb_df)
+
+# Stressor only model
+seed_stress <- lmer(log(Seed_Dens_NatCan + miny_sd) ~ 
+                      as_factor(DBI2) + scale(avg.cover) + scale(hummod300m) + (1|Park), 
+                    data = comb_df)
+
+# Climate change and EcoProv/physiographic model
+seed_clim <- lmer(log(Seed_Dens_NatCan + miny_sd) ~ scale(tmax) + scale(precip) + 
+                    factor(prov) + factor(physio) + (1|Park),
+                     data = comb_df)
+
+# Structure only model
+seed_fstr <- lmer(log(Seed_Dens_NatCan + miny_sd) ~ 
+                    stage_fac + scale(QMD) +
+                    scale(Tree_Dens_Total) + scale(cancov) + (1|Park), 
+                  data = comb_df)
+
+# Combination model
+seed_comb <- lmer(log(Seed_Dens_NatCan + miny_sd) ~ 
+                    as_factor(DBI2) + scale(avg.cover) + factor(physio) +  
+                    scale(Tree_Dens_Total) + scale(cancov) + (1|Park), 
+                  data = comb_df)
+
+# Combination interaction
+seed_comb_int <- lmer(log(Seed_Dens_NatCan + miny_sd) ~ 
+                    as_factor(DBI2)*scale(avg.cover) + factor(physio) +  
+                    scale(Tree_Dens_Total) + scale(cancov) + (1|Park), 
+                  data = comb_df)
+
+# AIC table
+seed_aic <- AIC(seed_null, seed_stress, seed_clim, seed_fstr, seed_comb, seed_comb_int) %>% 
+  arrange(AIC) #comb
+```
+
+<b>AIC Seedling Model table</b>
+```{r, echo = FALSE}
+seed_aic
+```
+
+</details>
+<br>
+<details open><summary class='drop'>Model diagnostics</summary>
+```{r}
+vif(seed_comb) 
+
+plot(seed_comb)
+
+qqnorm(residuals(seed_comb))
+
+hist(residuals(seed_comb)) 
+```
+</details>
+
+###### Saplings
+<details open><summary class='drop'>Model Selection</summary>
+```{r}
+# Calc constant for log transforming with 0s
+miny_sp <- min(comb_df$Sap_Dens_NatCan[comb_df$Sap_Dens_NatCan > 0])
+
+sap_null <- lmer(log(Sap_Dens_NatCan + miny_sp) ~ 1 + (1|Park), data = comb_df)
+
+# Stressor only model
+sap_stress <- lmer(log(Sap_Dens_NatCan + miny_sp) ~ 
+                   as_factor(DBI2) + scale(avg.cover) + scale(hummod300m) + (1|Park), 
+                   data = comb_df)
+
+# Climate change and EcoProv/physiographic model
+sap_clim <- lmer(log(Sap_Dens_NatCan + miny_sp) ~ scale(tmax) + scale(precip) + 
+                    factor(prov) + factor(physio) + (1|Park),
+                     data = comb_df)
+
+# Structure only model
+sap_fstr <- lmer(log(Sap_Dens_NatCan + miny_sp) ~ stage_fac + scale(QMD) + 
+                     scale(Tree_Dens_Total) + scale(cancov) +(1|Park), 
+                  data = comb_df)
+
+# Combination model
+sap_comb <- lmer(log(Sap_Dens_NatCan + miny_sp) ~ as_factor(DBI2) + scale(avg.cover) + 
+                    scale(Tree_Dens_Total) + scale(cancov) + factor(physio) +
+                    (1|Park), 
+                  data = comb_df)
+
+sap_comb_int <- lmer(log(Sap_Dens_NatCan + miny_sp) ~ 
+                    as_factor(DBI2)*scale(avg.cover) + factor(physio) +  
+                    scale(Tree_Dens_Total) + scale(cancov) + (1|Park), 
+                  data = comb_df)
+
+# AIC table
+sap_aic <- AIC(sap_null, sap_stress, sap_clim, sap_fstr, sap_comb, sap_comb_int) %>% 
+  arrange(AIC)# comb also best model
+```
+
+<b>AIC Sapling Model table </b>
+```{r, echo = FALSE}
+sap_aic
+```
+</details>
+<br>
+<details open><summary class='drop'>Model diagnostics </summary>
+```{r}
+vif(sap_comb)
+plot(sap_comb)
+qqnorm(residuals(sap_comb))
+hist(residuals(sap_comb)) 
+```
+</details>
+
+<details open><summary class='drop'>Model Output</summary>
+```{r, echo = F}
+tab_model(sap_comb, show.se = TRUE, digits = 2)
+```
+</details>
+
+###### Stocking Index
+<details open><summary class='drop'>Model Selection</summary>
+```{r}
+# Calc constant for log transforming with 0s
+miny_st <- min(comb_df$stock_final[comb_df$stock_final > 0])
+
+# Null model
+stock_null <- lmer(log(stock_final + miny_st) ~ 1 + (1|Park), data = comb_df)
+
+# Stressor only model
+stock_stress <- lmer(log(stock_final + miny_st) ~ as_factor(DBI2) + scale(avg.cover) + 
+                       scale(hummod300m) + (1|Park), 
+                    data = comb_df)
+
+# Climate change and EcoProv/physiographic model
+stock_clim <- lmer(log(stock_final + miny_st) ~ scale(tmax) + scale(precip) + 
+                    factor(prov) + factor(physio) + (1|Park),
+                     data = comb_df)
+
+# Structure only model
+stock_fstr <- lmer(log(stock_final + miny_st) ~ stage_fac + scale(QMD) + 
+                     scale(cancov) + scale(Tree_Dens_Total) + (1|Park), 
+                 data = comb_df)
+
+# Combination model
+stock_comb <- lmer(log(stock_final + miny_st) ~ as_factor(DBI2) + scale(avg.cover) + scale(cancov) + 
+                     scale(Tree_Dens_Total) + factor(physio) + (1|Park), 
+                 data = comb_df)
+
+stock_comb_int <- lmer(log(stock_final + miny_st) ~ 
+                    as_factor(DBI2)*scale(avg.cover) + factor(physio) +  
+                    scale(Tree_Dens_Total) +  scale(cancov) + (1|Park), 
+                  data = comb_df)
+
+# AIC table
+stock_aic <- AIC(stock_null, stock_stress, stock_clim, stock_fstr, stock_comb, stock_comb_int) %>% 
+  arrange(AIC) #stock_comb is best
+```
+
+<b>AIC Stocking Index Model table </b>
+```{r, echo = FALSE}
+stock_aic
+```
+</details>
+<br>
+<details open><summary class='drop'>Model diagnostics </summary>
+```{r}
+vif(stock_comb)
+
+plot(stock_comb)
+
+qqnorm(residuals(stock_comb))
+
+hist(residuals(stock_comb)) 
+
+```
+</details>
+
+<details open><summary class='drop'>Model Output</summary>
+```{r}
+tab_model(stock_comb, show.se = TRUE, digits = 2)
+```
+</details>
+<br>
+
+###### Sorensen Seedlings
+
+<details open><summary class = 'drop'>Model Selection</summary>
+```{r, echo = T}
+
+# Null model
+sorseed_null <- lmer(Sor_seed ~ 1 + (1|Park), data = comb_df)
+
+# Stressor only model
+sorseed_stress <- lmer(Sor_seed ~ as_factor(DBI2) + scale(avg.cover) + 
+                         scale(hummod300m) + (1|Park), 
+                    data = comb_df)
+
+# Climate change and EcoProv/physiographic model
+sorseed_clim <- lmer(Sor_seed ~ scale(tmax) + scale(precip) + 
+                    factor(prov) + factor(physio) + (1|Park),
+                     data = comb_df)
+
+# Structure only model
+sorseed_fstr <- lmer(Sor_seed ~ stage_fac + scale(QMD) + 
+                    scale(Tree_Dens_Total) + scale(cancov) + (1|Park), 
+                  data = comb_df)
+
+# Combination model
+sorseed_comb <- lmer(Sor_seed ~ #scale(precip) + scale(tmax) +
+                    as_factor(DBI2) + scale(avg.cover) + scale(cancov) + 
+                     scale(Tree_Dens_Total) + #scale(Tree_BA_Total)  high VIF when included
+                     factor(physio) + (1|Park), 
+                 data = comb_df)
+
+# Combination interaction
+sorseed_comb_int <- lmer(Sor_seed  ~ 
+                      as_factor(DBI2)*scale(avg.cover) + factor(physio) +  
+                    scale(Tree_Dens_Total) + scale(cancov) + (1|Park), 
+                  data = comb_df)
+
+# AIC table
+sorseed_aic <- AIC(sorseed_null, sorseed_stress, sorseed_clim, sorseed_fstr, 
+                   sorseed_comb, sorseed_comb_int) %>% arrange(AIC)
+# stress model best 
+```
+
+<b>AIC Sorensen Seedling Model table</b>
+```{r, echo = FALSE}
+sorseed_aic
+```
+
+</details>
+<br>
+<details open><summary class='drop'>Model diagnostics </summary>
+```{r}
+vif(sorseed_stress)
+
+plot(sorseed_stress)
+
+qqnorm(residuals(sorseed_stress))
+
+hist(residuals(sorseed_stress)) 
+
+```
+</details>
+
+<details open><summary class='drop'>Model Output</summary>
+```{r}
+tab_model(sorseed_stress, show.se = TRUE, digits = 2)
+```
+</details>
+<br>
+
+
+###### Sorensen Saplings
+
+<details open><summary class = 'drop'>Model Selection</summary>
+```{r, echo = T}
+
+# Null model
+sorsap_null <- lmer(Sor_sap ~ 1 + (1|Park), data = comb_df)
+
+# Stressor only model
+sorsap_stress <- lmer(Sor_sap ~ as_factor(DBI2) + scale(avg.cover) + 
+                         scale(hummod300m) + (1|Park), 
+                   data = comb_df)
+
+# Climate change and EcoProv/physiographic model
+sorsap_clim <- lmer(Sor_sap ~ scale(tmax) + scale(precip) + 
+                    factor(prov) + factor(physio) + (1|Park),
+                data = comb_df)
+
+# Structure only model
+sorsap_fstr <- lmer(Sor_sap ~ stage_fac + scale(QMD) + #scale(Tree_BA_Total) +  #high VIF
+                    scale(Tree_Dens_Total) + scale(cancov) + (1|Park), 
+                  data = comb_df)
+
+# Combination model
+sorsap_comb <- lmer(Sor_sap ~ 
+                    as_factor(DBI2) + scale(avg.cover) + as_factor(physio) +  
+                    scale(Tree_Dens_Total) + (1|Park), 
+                  data = comb_df)
+
+# Combination interaction
+sorsap_comb_int <- lmer(Sor_sap  ~ 
+                      as_factor(DBI2)*scale(avg.cover) + factor(physio) +  
+                      scale(Tree_Dens_Total) + (1|Park), 
+                    data = comb_df)
+
+# AIC table
+sorsap_aic <- AIC(sorsap_null, sorsap_stress, sorsap_clim, sorsap_fstr,  
+                   sorsap_comb, sorsap_comb_int) %>% arrange(AIC)
+# forest structure model is best, and only model better than null
+```
+
+<b>AIC Sorensen sapling Model table</b>
+```{r, echo = FALSE}
+sorsap_aic
+```
+
+</details>
+<br>
+<details open><summary class='drop'>Model diagnostics </summary>
+```{r}
+vif(sorsap_fstr)
+
+plot(sorsap_fstr)
+
+qqnorm(residuals(sorsap_fstr))
+
+hist(residuals(sorsap_fstr)) 
+
+```
+</details>
+
+<details open><summary class='drop'>Model Output</summary>
+```{r}
+tab_model(sorsap_fstr, show.se = TRUE, digits = 2)
+```
+</details>
+<br>
+
+
+</details>
+###### Metric Definitions
+
+-	**DBI:** Deer browse impact (factor)
+-	**avg.cover:** Average % quadrat cover of all invasive species in plots collected from 2016 to 2019, calculated the same as in Miller et al. (2021) Ecological Applications 31(2):e02239
+-	**hummod300m:** % human modified landcover at 300m grid size based on 2016 NLCD. We used the same dataset in Miller and McGill (2019) J Appl Ecol. 56:1355–1366.
+-	**stage_fac:** structural stage metric that classifies a plot as Pole, Mature, LS or Mosaic (ie doesn’t fit any of the first 3) based on DBH distribution. We used this in Miller et al. (2016) Ecosphere 7(7):e01404.
+-	**QMD:** quadratic mean diameter 
+- **Tree_BA_Total:** Total basal area of live trees in sq.m/ha
+- **Tree_Dens_Total:** Total density of live trees in stems/ha
+- **cancov:** Percent canopy cover derived from 2016 NLCD tree canopy cover 
+
+##### Model Output/Prediction Plots {.tabset}
+
+###### Prediction code 
+Predicting responses for all of the deer browse impact levels, 25% intervals of invasive % cover, and median values for Tree Density, Quadratic Mean Diameter, and Canopy Cover.
+
+```{r}
+
+# Function to find min, 1/4, med, 3/4 and max of a vector's range
+find_range <- function(x){
+  rngx <- range(comb_df[,x], na.rm = T)
+  medx <- median(range(comb_df[,x]))
+  
+  vec <- c(rngx[1],
+           median(c(medx, rngx[1])),
+           medx,
+           median(c(medx, rngx[2])),
+           rngx[2]
+  )   
+  return(vec)
+}
+
+new_df1 <- data.frame(
+              expand.grid(DBI2 = c(3:5), 
+                          avg.cover = c(0, 25, 50, 75, 100), 
+                          physio = c("dry", "dry-mesic", "mesic", "hydric")),
+                      Tree_Dens_Total = median(comb_df$Tree_Dens_Total),
+                      cancov = median(comb_df$cancov)
+              )
+
+# Fixed effects only predictions
+reg_new <- data.frame(new_df1, 
+                      pred_seed = predict(seed_comb, newdata = new_df1, re.form = NA),
+                      pred_sap = predict(sap_comb, newdata = new_df1, re.form = NA),
+                      pred_stock = predict(stock_comb, newdata = new_df1, re.form = NA))
+
+reg_new <- reg_new %>% mutate(pred_seed_tr = exp(pred_seed) - miny_sd,
+                              pred_sap_tr = exp(pred_sap) - miny_sp,
+                              pred_stock_tr = exp(pred_stock) - miny_st)
+
+dbi_cols <- c("#15C400", "#FFA600", "#E51E02")
+
+pred_plot <- function(df, xvar, yvar, xlab, ylab, grp = "DBI2"){
+  df$grp_fac <- as.factor(df[,grp])
+  
+  ggplot(df, aes_string(x = xvar, y = yvar, group = "grp_fac", 
+                        color = "grp_fac", shape = 'grp_fac', fill = 'grp_fac')) +
+    geom_line() + 
+    geom_point() + 
+    theme_bw() + 
+    facet_wrap(~physio, ncol = 4) +
+    scale_color_manual(values = dbi_cols, 
+                       labels = c("Low/Medium", "High", "Very High"), 
+                       name = "Deer Browse Impact") +
+    scale_fill_manual(values = dbi_cols,
+                      labels = c("Low/Medium", "High", "Very High"),
+                      name = "Deer Browse Impact") +
+    scale_shape_manual(values = c(25, 21, 24), labels = c("Low/Medium", "High", "Very High"),
+                       name = "Deer Browse Impact") +
+    labs(x = xlab, y = ylab) +
+    theme(panel.grid = element_blank(),
+          legend.position = 'bottom',
+          legend.text = element_text(size = 12),
+          legend.title = element_text(size = 12),
+          strip.text = element_text(size = 12),
+          axis.text = element_text(size = 12),
+          axis.title = element_text(size = 12))
+
+}
+
+# DBI vs Invasive Cover
+seed_plot_inv <- pred_plot(reg_new, xvar = "avg.cover", yvar = "pred_seed_tr", 
+                   "Average Invasive % Cover", "Seedling Density (stems/sq.m)")
+
+sap_plot_inv <- pred_plot(reg_new, xvar = "avg.cover", yvar = "pred_sap_tr", 
+                   "Average Invasive % Cover", "Sapling Density (stems/sq.m)")
+
+stock_plot_inv <- pred_plot(reg_new, xvar = "avg.cover", yvar = "pred_stock_tr", 
+                   "Average Invasive % Cover", "Stocking Index")
+
+# DBI vs Tree_Dens_Total
+new_df2 <- data.frame(
+              expand.grid(DBI2 = c(3:5), 
+                          Tree_Dens_Total = find_range("Tree_Dens_Total"),
+                          physio = c("dry", "dry-mesic", "mesic", "hydric")),
+                          #physio = c("dry", "dry-mesic", "mesic")),
+                      avg.cover = median(comb_df$avg.cover),
+                      cancov = median(comb_df$cancov)
+              )
+
+
+
+# Fixed effects only predictions
+
+reg_new2 <- data.frame(new_df2, 
+                       pred_seed = predict(seed_comb, newdata = new_df2, re.form = NA),
+                       pred_sap = predict(sap_comb, newdata = new_df2, re.form = NA),
+                       pred_stock = predict(stock_comb, newdata = new_df2, re.form = NA))
+
+reg_new2 <- reg_new2 %>% mutate(pred_seed_tr = exp(pred_seed) - miny_sd,
+                                pred_sap_tr = exp(pred_sap) - miny_sp,
+                                pred_stock_tr = exp(pred_stock) - miny_st)
+
+
+
+# DBI vs Tree Density
+seed_plot_trden <- pred_plot(reg_new2, xvar = "Tree_Dens_Total", yvar = "pred_seed_tr", 
+                   "Tree Density (stems/ha)", "Predicted Seedling Density (stems/sq.m)")
+
+sap_plot_trden <- pred_plot(reg_new2, xvar = "Tree_Dens_Total", yvar = "pred_sap_tr", 
+                   "Tree Density (stems/ha)", "Predicted Sapling Density (stems/sq.m)")
+
+stock_plot_trden <- pred_plot(reg_new2, xvar = "Tree_Dens_Total", yvar = "pred_stock_tr", 
+                   "Tree Density (stems/ha)", "Predicted Stocking Index")
+
+# DBI vs QMD
+new_df3 <- data.frame(
+              expand.grid(DBI2 = c(3:5), 
+                          QMD = find_range("QMD"),
+                          physio = c("dry", "dry-mesic", "mesic", "hydric")),
+                          #physio = c("dry", "dry-mesic", "mesic")),
+                      avg.cover = median(comb_df$avg.cover),
+                      Tree_Dens_Total = median(comb_df$Tree_Dens_Total),
+                      cancov = median(comb_df$cancov)
+              )
+
+# DBI vs canopy cover
+new_df3 <- data.frame(
+              expand.grid(DBI2 = c(3:5), 
+                          cancov = find_range("cancov"),
+                          physio = c("dry", "dry-mesic", "mesic", "hydric")),
+                          #physio = c("dry", "dry-mesic", "mesic")),
+                      avg.cover = median(comb_df$avg.cover),
+                      Tree_Dens_Total = median(comb_df$Tree_Dens_Total),
+                      QMD = median(comb_df$QMD)
+              )
+
+reg_new3 <- data.frame(new_df3, 
+                       pred_seed = predict(seed_comb, newdata = new_df3, re.form = NA),
+                       pred_sap = predict(sap_comb, newdata = new_df3, re.form = NA),
+                       pred_stock = predict(stock_comb, newdata = new_df3, re.form = NA))
+
+reg_new3 <- reg_new3 %>% mutate(pred_seed_tr = exp(pred_seed) - miny_sd,
+                                pred_sap_tr = exp(pred_sap) - miny_sp,
+                                pred_stock_tr = exp(pred_stock) - miny_st)
+
+# DBI vs cancov
+seed_plot_can <- pred_plot(reg_new3, xvar = "cancov", yvar = "pred_seed_tr", 
+                   "% Canopy Cover", "Predicted Seedling Density (stems/sq.m)")
+
+sap_plot_can <- pred_plot(reg_new3, xvar = "cancov", yvar = "pred_sap_tr", 
+                   "% Canopy Cover", "Predicted Sapling Density (stems/sq.m)")
+
+stock_plot_can <- pred_plot(reg_new3, xvar = "cancov", yvar = "pred_stock_tr", 
+                   "% Canopy Cover", "Predicted Stocking Index")
+
+#-- Sorensen Seedlings
+# DBI vs avg cover
+new_dfsor <- data.frame(
+              expand.grid(DBI2 = c(3:5), 
+                          avg.cover = c(0, 25, 50, 75, 100)),
+                          hummod300m = median(comb_df$hummod300m))
+
+reg_newsor <- data.frame(new_dfsor, pred_seed = predict(sorseed_stress, 
+                                                        newdata = new_dfsor, re.form = NA))
+
+# DBI vs avg cover
+sorseed_plot_inv <- 
+  ggplot(reg_newsor, aes(x = avg.cover, y = pred_seed, group = as_factor(DBI2), 
+                         color = as_factor(DBI2)))+
+    geom_line() + 
+    geom_point() + 
+    theme_bw() + 
+    scale_color_manual(values = dbi_cols,
+                       labels = c("Low/Medium", "High", "Very High"),
+                       name = "Deer Browse Impact") +
+    labs(x = "Average % Invasive Cover", y = "Sorenson: Seedling vs Canopy") +
+    theme(panel.grid = element_blank())
+
+
+# Sorenson Saplings
+# DBI vs QMD
+new_dfsor2 <- data.frame(expand.grid(stage_fac = c("Late Succ.", "Mature", "Mosaic", "Pole"),
+                                     QMD = find_range("QMD")),
+                         Tree_Dens_Total = median(comb_df$Tree_Dens_Total),
+                         cancov = median(comb_df$cancov))
+
+reg_newsor2 <- data.frame(new_dfsor2, pred_sap = predict(sorsap_fstr, newdata = new_dfsor2, re.form = NA))
+
+sorsap_plot_qmd <-  
+  ggplot(reg_newsor2, aes(x = QMD, y = pred_sap, group = stage_fac, 
+                        color = stage_fac)) +
+    geom_line(size = 0.75) + 
+    geom_point(size = 2) + 
+    theme_bw() + 
+    scale_color_manual(values =c("#538645", "#60CF6C", "#6097CF", "#FCC825"),
+                       labels = c("Late Successional", "Mature", "Mosaic", "Pole"),
+                       name = "Structural Stage") +
+    labs(x = 'Quadratic Mean Diameter (cm)', y = 'Sorenson: Sapling vs Canopy') +
+    theme(panel.grid = element_blank())
+
+
+# Clean up AIC tables
+seed_list <- list(seed_null, seed_stress, seed_clim, seed_fstr, seed_comb, seed_comb_int)
+sap_list <- list(sap_null, sap_stress, sap_clim, sap_fstr, sap_comb, sap_comb_int)
+stock_list <- list(stock_null, stock_stress, stock_clim, stock_fstr, stock_comb, stock_comb_int)
+sorseed_list <- list(sorseed_null, sorseed_stress, sorseed_clim, sorseed_fstr, sorseed_comb, sorseed_comb_int)
+sorsap_list <- list(sorsap_null, sorsap_stress, sorsap_clim, sorsap_fstr, sorsap_comb, sorsap_comb_int)
+
+seed_tab <- aictab(seed_list, sort = F) %>% data.frame() %>% 
+  mutate(model = c('seed_null', "seed_stress", "seed_clim", "seed_fstr", "seed_comb", "seed_comb_int")) %>% 
+  dplyr::select(model, K, AICc, Delta_AICc) #%>% arrange(Delta_AICc)
+
+sap_tab <- aictab(sap_list, sort = F) %>% data.frame() %>% 
+  mutate(model = c('sap_null', "sap_stress", "sap_clim", "sap_fstr", "sap_comb", "sap_comb_int")) %>% 
+  dplyr::select(model, K, AICc, Delta_AICc) #%>% arrange(Delta_AICc)
+
+stock_tab <- aictab(stock_list, sort = F) %>% data.frame() %>% 
+  mutate(model = c('stock_null', "stock_stress", "stock_clim", "stock_fstr", "stock_comb", "stock_comb_int")) %>% 
+  dplyr::select(model, K, AICc, Delta_AICc) #%>% arrange(Delta_AICc)
+
+sorseed_tab <- aictab(sorseed_list, sort = F) %>% data.frame() %>% 
+  mutate(model = c('sorseed_null', "sorseed_stress", "sorseed_clim", "sorseed_fstr", "sorseed_comb", "sorseed_comb_int")) %>% 
+  dplyr::select(model, K, AICc, Delta_AICc) #%>% arrange(Delta_AICc)
+
+sorsap_tab <- aictab(sorsap_list, sort = F) %>% data.frame() %>% 
+  mutate(model = c('sorsap_null', "sorsap_stress", "sorsap_clim", "sorsap_fstr", "sorsap_comb", "sorsap_comb_int")) %>% 
+  dplyr::select(model, K, AICc, Delta_AICc) #%>% arrange(Delta_AICc)
+
+```
+</details>
+
+###### Results
+<h4>Seedlings</h4>
+<details open><summary class='drop'><h4>AIC Table</h4></summary>
+```{r}
+seed_tab
+```
+</details>
+<br>
+
+<details open><summary class='drop'><b>ANOVA Table</b></summary>
+
+Best Model: 
+`r format(formula(seed_comb))`
+<br>
+
+```{r, echo = F}
+tab_model(seed_comb, show.se = TRUE, digits = 2)
+```
+</details>
+<br>
+<br>
+
+<details open><summary class='drop'><b>Prediction plots</b></summary>
+```{r, echo = F, fig.cap = "Invasive Cover vs Deer Browse Impacts and Physiographic Class for Seedling Density."}
+seed_plot_inv
+```
+<br>
+
+```{r, echo = F, fig.cap = "Tree Density vs Deer Browse Impacts and Physiographic Class for Seedling Density."}
+seed_plot_trden
+```
+<br>
+
+```{r, echo = F, fig.cap = "Canopy % Cover vs Deer Browse Impacts and Physiographic Class for Seedling Density."}
+seed_plot_can
+```
+</details>
+<br>
+<br>
+
+
+<h4>Saplings</h4>
+<details open><summary class='drop'><h4>AIC Table</h4></summary>
+```{r}
+sap_tab
+```
+</details>
+<br>
+<details open><summary class='drop'><b>ANOVA Table</b></summary>
+
+Best Model: 
+`r format(formula(sap_comb))`
+<br>
+
+```{r, echo = F}
+tab_model(sap_comb, show.se = TRUE, digits = 2)
+```
+</details>
+<br>
+<br>
+
+<details open><summary class='drop'><b>Prediction plots</b></summary>
+```{r, echo = F, fig.cap = "Invasive Cover vs Deer Browse Impacts and Physiographic Class for Sapling Density."}
+sap_plot_inv
+```
+<br>
+
+```{r, echo = F, fig.cap = "Tree Density vs Deer Browse Impacts and Physiographic Class for Sapling Density."}
+sap_plot_trden
+```
+<br>
+
+
+```{r, echo = F, fig.cap = "Canopy % Cover vs Deer Browse Impacts and Physiographic Class for Sapling Density."}
+sap_plot_can
+```
+</details>
+<br>
+<br>
+
+
+<h4>Stocking Index</h4>
+<details open><summary class='drop'><h4>AIC Table</h4></summary>
+```{r}
+stock_tab
+```
+</details>
+<br>
+<details open><summary class='drop'><b>ANOVA Table</b></summary>
+Best Model: 
+`r format(formula(stock_comb))`
+<br>
+
+```{r, echo = F}
+tab_model(stock_comb, show.se = TRUE, digits = 2)
+```
+</details>
+<br>
+<br>
+
+<details open><summary class='drop'><b>Prediction plots</b></summary>
+```{r, echo = F, fig.cap = "Invasive Cover vs Deer Browse Impacts and Physiographic Class for Stocking Index."}
+stock_plot_inv
+```
+<br>
+
+```{r, echo = F, fig.cap = "Tree Density vs Deer Browse Impacts and Physiographic Class for Stocking Index."}
+stock_plot_trden
+```
+<br>
+
+
+```{r, echo = F, fig.cap = "Canopy % Cover vs Deer Browse Impacts and Physiographic Class for Stocking Index."}
+stock_plot_can
+```
+</details>
+<br>
+<br>
+
+<h4>Sorensen Similarity: Seedlings vs. Canopy</h4>
+<details open><summary class='drop'><h4>AIC Table</h4></summary>
+```{r}
+sorseed_tab
+```
+</details>
+<br>
+<details open><summary class='drop'><b>ANOVA Table</b></summary>
+
+Best Model: 
+`r format(formula(sorseed_stress))`
+<br>
+
+```{r, echo = F}
+tab_model(sorseed_stress, show.se = TRUE, digits = 2)
+```
+</details>
+<br>
+<br>
+
+<details open><summary class='drop'><b>Prediction plots</b></summary>
+```{r, echo = F, fig.cap = "Invasive Cover vs Deer Browse Impacts for Seedling vs. Canopy Similarity."}
+sap_plot_inv
+```
+<br>
+</details>
+<br>
+<br>
+
+<h4>Sorensen Similarity: Saplings vs. Canopy</h4>
+<details open><summary class='drop'><h4>AIC Table</h4></summary>
+```{r}
+sorsap_tab
+```
+</details>
+<br>
+<details open><summary class='drop'><b>ANOVA Table</b></summary>
+
+Best Model: 
+`r format(formula(sorsap_fstr))`
+<br>
+
+```{r, echo = F}
+tab_model(sorsap_fstr, show.se = TRUE, digits = 2)
+```
+</details>
+<br>
+<br>
+
+<details open><summary class='drop'><b>Prediction plots</b></summary>
+```{r, echo = F, fig.cap = "Structural Stage vs. Quadratic Mean Diameter for Sapling vs. Canopy Similarity."}
+sorsap_plot_qmd
+```
+<br>
+</details>
+<br>
+<br>
+
