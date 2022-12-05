@@ -1,0 +1,1639 @@
+"park","order","labels","metgrp","sign","num_crit","park_reggrp","label_order","park_dm","park_ord"
+"CATO",1,"Sapling Density","Regen. Status","critical",9,"Imminent Failure","Sapling Density","CATO*","CATO*"
+"CATO",2,"Seedling Density","Regen. Status","critical",9,"Imminent Failure","Seedling Density","CATO*","CATO*"
+"CATO",3,"% Stocked Plots","Regen. Status","critical",9,"Imminent Failure","% Stocked Plots","CATO*","CATO*"
+"CATO",4,"Stocking Index","Regen. Status","critical",9,"Imminent Failure","Stocking Index","CATO*","CATO*"
+"CATO",9,"Deer Browse Impacts","Regen. Status","critical",9,"Imminent Failure","Deer Browse Impacts","CATO*","CATO*"
+"CATO",10,"Flat Tree Diam. Dist.","Regen. Status","acceptable",9,"Imminent Failure","Flat Tree Diam. Dist.","CATO*","CATO*"
+"CATO",5,"Sapling Composition","Regen. Status","critical",9,"Imminent Failure","Sapling Composition","CATO*","CATO*"
+"CATO",6,"Seedling Composition","Regen. Status","critical",9,"Imminent Failure","Seedling Composition","CATO*","CATO*"
+"CATO",7,"Sorensen Sapling","Regen. Status","critical",9,"Imminent Failure","Sorensen Sapling","CATO*","CATO*"
+"CATO",8,"Sorensen Seedling","Regen. Status","critical",9,"Imminent Failure","Sorensen Seedling","CATO*","CATO*"
+"CATO",10,"Tree BA","Native Canopy 
+ Trends","nonsign",9,"Imminent Failure","Tree BA","CATO*","CATO*"
+"CATO",11,"Tree Density","Native Canopy 
+ Trends","signdec_bad",9,"Imminent Failure","Tree Density","CATO*","CATO*"
+"CATO",12,"Sapling BA","Native Canopy 
+ Trends","signdec_bad",9,"Imminent Failure","Sapling BA","CATO*","CATO*"
+"CATO",13,"Sapling Density","Native Canopy 
+ Trends","signdec_bad",9,"Imminent Failure","Sapling Density","CATO*","CATO*"
+"CATO",14,"Seedling Density","Native Canopy 
+ Trends","signinc_good",9,"Imminent Failure","Seedling Density","CATO*","CATO*"
+"CATO",15,"Stocking Index","Native Canopy 
+ Trends","nonsign",9,"Imminent Failure","Stocking Index","CATO*","CATO*"
+"CATO",16,"Tree BA","Native Subcan. 
+ Trends","signdec_bad",9,"Imminent Failure","Tree BA","CATO*","CATO*"
+"CATO",17,"Tree Density","Native Subcan. 
+ Trends","nonsign",9,"Imminent Failure","Tree Density","CATO*","CATO*"
+"CATO",18,"Sapling BA","Native Subcan. 
+ Trends","nonsign",9,"Imminent Failure","Sapling BA","CATO*","CATO*"
+"CATO",19,"Sapling Density","Native Subcan. 
+ Trends","nonsign",9,"Imminent Failure","Sapling Density","CATO*","CATO*"
+"CATO",20,"Seedling Density","Native Subcan. 
+ Trends","signinc_good",9,"Imminent Failure","Seedling Density","CATO*","CATO*"
+"CATO",21,"Tree BA","Exotic 
+ Trends","notmod",9,"Imminent Failure","Tree BA","CATO*","CATO*"
+"CATO",22,"Tree Density","Exotic 
+ Trends","notmod",9,"Imminent Failure","Tree Density","CATO*","CATO*"
+"CATO",23,"Sapling BA","Exotic 
+ Trends","notmod",9,"Imminent Failure","Sapling BA","CATO*","CATO*"
+"CATO",24,"Sapling Density","Exotic 
+ Trends","notmod",9,"Imminent Failure","Sapling Density","CATO*","CATO*"
+"CATO",25,"Seedling Density","Exotic 
+ Trends","notmod",9,"Imminent Failure","Seedling Density","CATO*","CATO*"
+"HAFE",1,"Sapling Density","Regen. Status","critical",8,"Imminent Failure","Sapling Density","HAFE*","HAFE*"
+"HAFE",2,"Seedling Density","Regen. Status","critical",8,"Imminent Failure","Seedling Density","HAFE*","HAFE*"
+"HAFE",3,"% Stocked Plots","Regen. Status","critical",8,"Imminent Failure","% Stocked Plots","HAFE*","HAFE*"
+"HAFE",4,"Stocking Index","Regen. Status","critical",8,"Imminent Failure","Stocking Index","HAFE*","HAFE*"
+"HAFE",9,"Deer Browse Impacts","Regen. Status","critical",8,"Imminent Failure","Deer Browse Impacts","HAFE*","HAFE*"
+"HAFE",10,"Flat Tree Diam. Dist.","Regen. Status","acceptable",8,"Imminent Failure","Flat Tree Diam. Dist.","HAFE*","HAFE*"
+"HAFE",5,"Sapling Composition","Regen. Status","critical",8,"Imminent Failure","Sapling Composition","HAFE*","HAFE*"
+"HAFE",6,"Seedling Composition","Regen. Status","critical",8,"Imminent Failure","Seedling Composition","HAFE*","HAFE*"
+"HAFE",7,"Sorensen Sapling","Regen. Status","acceptable",8,"Imminent Failure","Sorensen Sapling","HAFE*","HAFE*"
+"HAFE",8,"Sorensen Seedling","Regen. Status","critical",8,"Imminent Failure","Sorensen Seedling","HAFE*","HAFE*"
+"HAFE",10,"Tree BA","Native Canopy 
+ Trends","nonsign",8,"Imminent Failure","Tree BA","HAFE*","HAFE*"
+"HAFE",11,"Tree Density","Native Canopy 
+ Trends","nonsign",8,"Imminent Failure","Tree Density","HAFE*","HAFE*"
+"HAFE",12,"Sapling BA","Native Canopy 
+ Trends","nonsign",8,"Imminent Failure","Sapling BA","HAFE*","HAFE*"
+"HAFE",13,"Sapling Density","Native Canopy 
+ Trends","signdec_bad",8,"Imminent Failure","Sapling Density","HAFE*","HAFE*"
+"HAFE",14,"Seedling Density","Native Canopy 
+ Trends","signdec_bad",8,"Imminent Failure","Seedling Density","HAFE*","HAFE*"
+"HAFE",15,"Stocking Index","Native Canopy 
+ Trends","signdec_bad",8,"Imminent Failure","Stocking Index","HAFE*","HAFE*"
+"HAFE",16,"Tree BA","Native Subcan. 
+ Trends","nonsign",8,"Imminent Failure","Tree BA","HAFE*","HAFE*"
+"HAFE",17,"Tree Density","Native Subcan. 
+ Trends","nonsign",8,"Imminent Failure","Tree Density","HAFE*","HAFE*"
+"HAFE",18,"Sapling BA","Native Subcan. 
+ Trends","nonsign",8,"Imminent Failure","Sapling BA","HAFE*","HAFE*"
+"HAFE",19,"Sapling Density","Native Subcan. 
+ Trends","nonsign",8,"Imminent Failure","Sapling Density","HAFE*","HAFE*"
+"HAFE",20,"Seedling Density","Native Subcan. 
+ Trends","nonsign",8,"Imminent Failure","Seedling Density","HAFE*","HAFE*"
+"HAFE",21,"Tree BA","Exotic 
+ Trends","nonsign",8,"Imminent Failure","Tree BA","HAFE*","HAFE*"
+"HAFE",22,"Tree Density","Exotic 
+ Trends","nonsign",8,"Imminent Failure","Tree Density","HAFE*","HAFE*"
+"HAFE",23,"Sapling BA","Exotic 
+ Trends","notmod",8,"Imminent Failure","Sapling BA","HAFE*","HAFE*"
+"HAFE",24,"Sapling Density","Exotic 
+ Trends","notmod",8,"Imminent Failure","Sapling Density","HAFE*","HAFE*"
+"HAFE",25,"Seedling Density","Exotic 
+ Trends","signinc_bad",8,"Imminent Failure","Seedling Density","HAFE*","HAFE*"
+"GWMP",1,"Sapling Density","Regen. Status","critical",7,"Imminent Failure","Sapling Density","GWMP","GWMP"
+"GWMP",2,"Seedling Density","Regen. Status","critical",7,"Imminent Failure","Seedling Density","GWMP","GWMP"
+"GWMP",3,"% Stocked Plots","Regen. Status","critical",7,"Imminent Failure","% Stocked Plots","GWMP","GWMP"
+"GWMP",4,"Stocking Index","Regen. Status","critical",7,"Imminent Failure","Stocking Index","GWMP","GWMP"
+"GWMP",9,"Deer Browse Impacts","Regen. Status","caution",7,"Imminent Failure","Deer Browse Impacts","GWMP","GWMP"
+"GWMP",10,"Flat Tree Diam. Dist.","Regen. Status","acceptable",7,"Imminent Failure","Flat Tree Diam. Dist.","GWMP","GWMP"
+"GWMP",5,"Sapling Composition","Regen. Status","critical",7,"Imminent Failure","Sapling Composition","GWMP","GWMP"
+"GWMP",6,"Seedling Composition","Regen. Status","critical",7,"Imminent Failure","Seedling Composition","GWMP","GWMP"
+"GWMP",7,"Sorensen Sapling","Regen. Status","acceptable",7,"Imminent Failure","Sorensen Sapling","GWMP","GWMP"
+"GWMP",8,"Sorensen Seedling","Regen. Status","critical",7,"Imminent Failure","Sorensen Seedling","GWMP","GWMP"
+"GWMP",10,"Tree BA","Native Canopy 
+ Trends","signinc_good",7,"Imminent Failure","Tree BA","GWMP","GWMP"
+"GWMP",11,"Tree Density","Native Canopy 
+ Trends","nonsign",7,"Imminent Failure","Tree Density","GWMP","GWMP"
+"GWMP",12,"Sapling BA","Native Canopy 
+ Trends","nonsign",7,"Imminent Failure","Sapling BA","GWMP","GWMP"
+"GWMP",13,"Sapling Density","Native Canopy 
+ Trends","signdec_bad",7,"Imminent Failure","Sapling Density","GWMP","GWMP"
+"GWMP",14,"Seedling Density","Native Canopy 
+ Trends","nonsign",7,"Imminent Failure","Seedling Density","GWMP","GWMP"
+"GWMP",15,"Stocking Index","Native Canopy 
+ Trends","nonsign",7,"Imminent Failure","Stocking Index","GWMP","GWMP"
+"GWMP",16,"Tree BA","Native Subcan. 
+ Trends","nonsign",7,"Imminent Failure","Tree BA","GWMP","GWMP"
+"GWMP",17,"Tree Density","Native Subcan. 
+ Trends","nonsign",7,"Imminent Failure","Tree Density","GWMP","GWMP"
+"GWMP",18,"Sapling BA","Native Subcan. 
+ Trends","nonsign",7,"Imminent Failure","Sapling BA","GWMP","GWMP"
+"GWMP",19,"Sapling Density","Native Subcan. 
+ Trends","nonsign",7,"Imminent Failure","Sapling Density","GWMP","GWMP"
+"GWMP",20,"Seedling Density","Native Subcan. 
+ Trends","nonsign",7,"Imminent Failure","Seedling Density","GWMP","GWMP"
+"GWMP",21,"Tree BA","Exotic 
+ Trends","nonsign",7,"Imminent Failure","Tree BA","GWMP","GWMP"
+"GWMP",22,"Tree Density","Exotic 
+ Trends","signdec_good",7,"Imminent Failure","Tree Density","GWMP","GWMP"
+"GWMP",23,"Sapling BA","Exotic 
+ Trends","notmod",7,"Imminent Failure","Sapling BA","GWMP","GWMP"
+"GWMP",24,"Sapling Density","Exotic 
+ Trends","notmod",7,"Imminent Failure","Sapling Density","GWMP","GWMP"
+"GWMP",25,"Seedling Density","Exotic 
+ Trends","nonsign",7,"Imminent Failure","Seedling Density","GWMP","GWMP"
+"MANA",1,"Sapling Density","Regen. Status","critical",7,"Imminent Failure","Sapling Density","MANA*","MANA*"
+"MANA",2,"Seedling Density","Regen. Status","caution",7,"Imminent Failure","Seedling Density","MANA*","MANA*"
+"MANA",3,"% Stocked Plots","Regen. Status","critical",7,"Imminent Failure","% Stocked Plots","MANA*","MANA*"
+"MANA",4,"Stocking Index","Regen. Status","critical",7,"Imminent Failure","Stocking Index","MANA*","MANA*"
+"MANA",9,"Deer Browse Impacts","Regen. Status","critical",7,"Imminent Failure","Deer Browse Impacts","MANA*","MANA*"
+"MANA",10,"Flat Tree Diam. Dist.","Regen. Status","acceptable",7,"Imminent Failure","Flat Tree Diam. Dist.","MANA*","MANA*"
+"MANA",5,"Sapling Composition","Regen. Status","critical",7,"Imminent Failure","Sapling Composition","MANA*","MANA*"
+"MANA",6,"Seedling Composition","Regen. Status","critical",7,"Imminent Failure","Seedling Composition","MANA*","MANA*"
+"MANA",7,"Sorensen Sapling","Regen. Status","acceptable",7,"Imminent Failure","Sorensen Sapling","MANA*","MANA*"
+"MANA",8,"Sorensen Seedling","Regen. Status","critical",7,"Imminent Failure","Sorensen Seedling","MANA*","MANA*"
+"MANA",10,"Tree BA","Native Canopy 
+ Trends","signinc_good",7,"Imminent Failure","Tree BA","MANA*","MANA*"
+"MANA",11,"Tree Density","Native Canopy 
+ Trends","nonsign",7,"Imminent Failure","Tree Density","MANA*","MANA*"
+"MANA",12,"Sapling BA","Native Canopy 
+ Trends","nonsign",7,"Imminent Failure","Sapling BA","MANA*","MANA*"
+"MANA",13,"Sapling Density","Native Canopy 
+ Trends","nonsign",7,"Imminent Failure","Sapling Density","MANA*","MANA*"
+"MANA",14,"Seedling Density","Native Canopy 
+ Trends","signinc_good",7,"Imminent Failure","Seedling Density","MANA*","MANA*"
+"MANA",15,"Stocking Index","Native Canopy 
+ Trends","nonsign",7,"Imminent Failure","Stocking Index","MANA*","MANA*"
+"MANA",16,"Tree BA","Native Subcan. 
+ Trends","signdec_bad",7,"Imminent Failure","Tree BA","MANA*","MANA*"
+"MANA",17,"Tree Density","Native Subcan. 
+ Trends","signdec_bad",7,"Imminent Failure","Tree Density","MANA*","MANA*"
+"MANA",18,"Sapling BA","Native Subcan. 
+ Trends","signdec_bad",7,"Imminent Failure","Sapling BA","MANA*","MANA*"
+"MANA",19,"Sapling Density","Native Subcan. 
+ Trends","signdec_bad",7,"Imminent Failure","Sapling Density","MANA*","MANA*"
+"MANA",20,"Seedling Density","Native Subcan. 
+ Trends","signinc_good",7,"Imminent Failure","Seedling Density","MANA*","MANA*"
+"MANA",21,"Tree BA","Exotic 
+ Trends","notmod",7,"Imminent Failure","Tree BA","MANA*","MANA*"
+"MANA",22,"Tree Density","Exotic 
+ Trends","notmod",7,"Imminent Failure","Tree Density","MANA*","MANA*"
+"MANA",23,"Sapling BA","Exotic 
+ Trends","notmod",7,"Imminent Failure","Sapling BA","MANA*","MANA*"
+"MANA",24,"Sapling Density","Exotic 
+ Trends","notmod",7,"Imminent Failure","Sapling Density","MANA*","MANA*"
+"MANA",25,"Seedling Density","Exotic 
+ Trends","notmod",7,"Imminent Failure","Seedling Density","MANA*","MANA*"
+"MORR",1,"Sapling Density","Regen. Status","critical",7,"Imminent Failure","Sapling Density","MORR","MORR"
+"MORR",2,"Seedling Density","Regen. Status","caution",7,"Imminent Failure","Seedling Density","MORR","MORR"
+"MORR",3,"% Stocked Plots","Regen. Status","critical",7,"Imminent Failure","% Stocked Plots","MORR","MORR"
+"MORR",4,"Stocking Index","Regen. Status","caution",7,"Imminent Failure","Stocking Index","MORR","MORR"
+"MORR",9,"Deer Browse Impacts","Regen. Status","critical",7,"Imminent Failure","Deer Browse Impacts","MORR","MORR"
+"MORR",10,"Flat Tree Diam. Dist.","Regen. Status","critical",7,"Imminent Failure","Flat Tree Diam. Dist.","MORR","MORR"
+"MORR",5,"Sapling Composition","Regen. Status","critical",7,"Imminent Failure","Sapling Composition","MORR","MORR"
+"MORR",6,"Seedling Composition","Regen. Status","critical",7,"Imminent Failure","Seedling Composition","MORR","MORR"
+"MORR",7,"Sorensen Sapling","Regen. Status","critical",7,"Imminent Failure","Sorensen Sapling","MORR","MORR"
+"MORR",8,"Sorensen Seedling","Regen. Status","acceptable",7,"Imminent Failure","Sorensen Seedling","MORR","MORR"
+"MORR",10,"Tree BA","Native Canopy 
+ Trends","nonsign",7,"Imminent Failure","Tree BA","MORR","MORR"
+"MORR",11,"Tree Density","Native Canopy 
+ Trends","signdec_bad",7,"Imminent Failure","Tree Density","MORR","MORR"
+"MORR",12,"Sapling BA","Native Canopy 
+ Trends","nonsign",7,"Imminent Failure","Sapling BA","MORR","MORR"
+"MORR",13,"Sapling Density","Native Canopy 
+ Trends","nonsign",7,"Imminent Failure","Sapling Density","MORR","MORR"
+"MORR",14,"Seedling Density","Native Canopy 
+ Trends","signinc_good",7,"Imminent Failure","Seedling Density","MORR","MORR"
+"MORR",15,"Stocking Index","Native Canopy 
+ Trends","signinc_good",7,"Imminent Failure","Stocking Index","MORR","MORR"
+"MORR",16,"Tree BA","Native Subcan. 
+ Trends","nonsign",7,"Imminent Failure","Tree BA","MORR","MORR"
+"MORR",17,"Tree Density","Native Subcan. 
+ Trends","signdec_bad",7,"Imminent Failure","Tree Density","MORR","MORR"
+"MORR",18,"Sapling BA","Native Subcan. 
+ Trends","notmod",7,"Imminent Failure","Sapling BA","MORR","MORR"
+"MORR",19,"Sapling Density","Native Subcan. 
+ Trends","notmod",7,"Imminent Failure","Sapling Density","MORR","MORR"
+"MORR",20,"Seedling Density","Native Subcan. 
+ Trends","signinc_good",7,"Imminent Failure","Seedling Density","MORR","MORR"
+"MORR",21,"Tree BA","Exotic 
+ Trends","notmod",7,"Imminent Failure","Tree BA","MORR","MORR"
+"MORR",22,"Tree Density","Exotic 
+ Trends","notmod",7,"Imminent Failure","Tree Density","MORR","MORR"
+"MORR",23,"Sapling BA","Exotic 
+ Trends","notmod",7,"Imminent Failure","Sapling BA","MORR","MORR"
+"MORR",24,"Sapling Density","Exotic 
+ Trends","notmod",7,"Imminent Failure","Sapling Density","MORR","MORR"
+"MORR",25,"Seedling Density","Exotic 
+ Trends","signinc_bad",7,"Imminent Failure","Seedling Density","MORR","MORR"
+"SAHI",1,"Sapling Density","Regen. Status","critical",7,"Imminent Failure","Sapling Density","SAHI","SAHI"
+"SAHI",2,"Seedling Density","Regen. Status","caution",7,"Imminent Failure","Seedling Density","SAHI","SAHI"
+"SAHI",3,"% Stocked Plots","Regen. Status","critical",7,"Imminent Failure","% Stocked Plots","SAHI","SAHI"
+"SAHI",4,"Stocking Index","Regen. Status","critical",7,"Imminent Failure","Stocking Index","SAHI","SAHI"
+"SAHI",9,"Deer Browse Impacts","Regen. Status","caution",7,"Imminent Failure","Deer Browse Impacts","SAHI","SAHI"
+"SAHI",10,"Flat Tree Diam. Dist.","Regen. Status","critical",7,"Imminent Failure","Flat Tree Diam. Dist.","SAHI","SAHI"
+"SAHI",5,"Sapling Composition","Regen. Status","critical",7,"Imminent Failure","Sapling Composition","SAHI","SAHI"
+"SAHI",6,"Seedling Composition","Regen. Status","critical",7,"Imminent Failure","Seedling Composition","SAHI","SAHI"
+"SAHI",7,"Sorensen Sapling","Regen. Status","acceptable",7,"Imminent Failure","Sorensen Sapling","SAHI","SAHI"
+"SAHI",8,"Sorensen Seedling","Regen. Status","critical",7,"Imminent Failure","Sorensen Seedling","SAHI","SAHI"
+"SAHI",10,"Tree BA","Native Canopy 
+ Trends","notmod",7,"Imminent Failure","Tree BA","SAHI","SAHI"
+"SAHI",11,"Tree Density","Native Canopy 
+ Trends","notmod",7,"Imminent Failure","Tree Density","SAHI","SAHI"
+"SAHI",12,"Sapling BA","Native Canopy 
+ Trends","notmod",7,"Imminent Failure","Sapling BA","SAHI","SAHI"
+"SAHI",13,"Sapling Density","Native Canopy 
+ Trends","notmod",7,"Imminent Failure","Sapling Density","SAHI","SAHI"
+"SAHI",14,"Seedling Density","Native Canopy 
+ Trends","notmod",7,"Imminent Failure","Seedling Density","SAHI","SAHI"
+"SAHI",15,"Stocking Index","Native Canopy 
+ Trends","notmod",7,"Imminent Failure","Stocking Index","SAHI","SAHI"
+"SAHI",16,"Tree BA","Native Subcan. 
+ Trends","notmod",7,"Imminent Failure","Tree BA","SAHI","SAHI"
+"SAHI",17,"Tree Density","Native Subcan. 
+ Trends","notmod",7,"Imminent Failure","Tree Density","SAHI","SAHI"
+"SAHI",18,"Sapling BA","Native Subcan. 
+ Trends","notmod",7,"Imminent Failure","Sapling BA","SAHI","SAHI"
+"SAHI",19,"Sapling Density","Native Subcan. 
+ Trends","notmod",7,"Imminent Failure","Sapling Density","SAHI","SAHI"
+"SAHI",20,"Seedling Density","Native Subcan. 
+ Trends","notmod",7,"Imminent Failure","Seedling Density","SAHI","SAHI"
+"SAHI",21,"Tree BA","Exotic 
+ Trends","notmod",7,"Imminent Failure","Tree BA","SAHI","SAHI"
+"SAHI",22,"Tree Density","Exotic 
+ Trends","notmod",7,"Imminent Failure","Tree Density","SAHI","SAHI"
+"SAHI",23,"Sapling BA","Exotic 
+ Trends","notmod",7,"Imminent Failure","Sapling BA","SAHI","SAHI"
+"SAHI",24,"Sapling Density","Exotic 
+ Trends","notmod",7,"Imminent Failure","Sapling Density","SAHI","SAHI"
+"SAHI",25,"Seedling Density","Exotic 
+ Trends","notmod",7,"Imminent Failure","Seedling Density","SAHI","SAHI"
+"SARA",1,"Sapling Density","Regen. Status","critical",7,"Imminent Failure","Sapling Density","SARA","SARA"
+"SARA",2,"Seedling Density","Regen. Status","caution",7,"Imminent Failure","Seedling Density","SARA","SARA"
+"SARA",3,"% Stocked Plots","Regen. Status","critical",7,"Imminent Failure","% Stocked Plots","SARA","SARA"
+"SARA",4,"Stocking Index","Regen. Status","critical",7,"Imminent Failure","Stocking Index","SARA","SARA"
+"SARA",9,"Deer Browse Impacts","Regen. Status","critical",7,"Imminent Failure","Deer Browse Impacts","SARA","SARA"
+"SARA",10,"Flat Tree Diam. Dist.","Regen. Status","acceptable",7,"Imminent Failure","Flat Tree Diam. Dist.","SARA","SARA"
+"SARA",5,"Sapling Composition","Regen. Status","critical",7,"Imminent Failure","Sapling Composition","SARA","SARA"
+"SARA",6,"Seedling Composition","Regen. Status","critical",7,"Imminent Failure","Seedling Composition","SARA","SARA"
+"SARA",7,"Sorensen Sapling","Regen. Status","critical",7,"Imminent Failure","Sorensen Sapling","SARA","SARA"
+"SARA",8,"Sorensen Seedling","Regen. Status","acceptable",7,"Imminent Failure","Sorensen Seedling","SARA","SARA"
+"SARA",10,"Tree BA","Native Canopy 
+ Trends","signinc_good",7,"Imminent Failure","Tree BA","SARA","SARA"
+"SARA",11,"Tree Density","Native Canopy 
+ Trends","signdec_bad",7,"Imminent Failure","Tree Density","SARA","SARA"
+"SARA",12,"Sapling BA","Native Canopy 
+ Trends","nonsign",7,"Imminent Failure","Sapling BA","SARA","SARA"
+"SARA",13,"Sapling Density","Native Canopy 
+ Trends","nonsign",7,"Imminent Failure","Sapling Density","SARA","SARA"
+"SARA",14,"Seedling Density","Native Canopy 
+ Trends","signinc_good",7,"Imminent Failure","Seedling Density","SARA","SARA"
+"SARA",15,"Stocking Index","Native Canopy 
+ Trends","nonsign",7,"Imminent Failure","Stocking Index","SARA","SARA"
+"SARA",16,"Tree BA","Native Subcan. 
+ Trends","signinc_good",7,"Imminent Failure","Tree BA","SARA","SARA"
+"SARA",17,"Tree Density","Native Subcan. 
+ Trends","nonsign",7,"Imminent Failure","Tree Density","SARA","SARA"
+"SARA",18,"Sapling BA","Native Subcan. 
+ Trends","nonsign",7,"Imminent Failure","Sapling BA","SARA","SARA"
+"SARA",19,"Sapling Density","Native Subcan. 
+ Trends","nonsign",7,"Imminent Failure","Sapling Density","SARA","SARA"
+"SARA",20,"Seedling Density","Native Subcan. 
+ Trends","nonsign",7,"Imminent Failure","Seedling Density","SARA","SARA"
+"SARA",21,"Tree BA","Exotic 
+ Trends","signinc_bad",7,"Imminent Failure","Tree BA","SARA","SARA"
+"SARA",22,"Tree Density","Exotic 
+ Trends","signinc_bad",7,"Imminent Failure","Tree Density","SARA","SARA"
+"SARA",23,"Sapling BA","Exotic 
+ Trends","signinc_bad",7,"Imminent Failure","Sapling BA","SARA","SARA"
+"SARA",24,"Sapling Density","Exotic 
+ Trends","nonsign",7,"Imminent Failure","Sapling Density","SARA","SARA"
+"SARA",25,"Seedling Density","Exotic 
+ Trends","signinc_bad",7,"Imminent Failure","Seedling Density","SARA","SARA"
+"THST",1,"Sapling Density","Regen. Status","critical",7,"Imminent Failure","Sapling Density","THST","THST"
+"THST",2,"Seedling Density","Regen. Status","critical",7,"Imminent Failure","Seedling Density","THST","THST"
+"THST",3,"% Stocked Plots","Regen. Status","critical",7,"Imminent Failure","% Stocked Plots","THST","THST"
+"THST",4,"Stocking Index","Regen. Status","critical",7,"Imminent Failure","Stocking Index","THST","THST"
+"THST",9,"Deer Browse Impacts","Regen. Status","critical",7,"Imminent Failure","Deer Browse Impacts","THST","THST"
+"THST",10,"Flat Tree Diam. Dist.","Regen. Status","acceptable",7,"Imminent Failure","Flat Tree Diam. Dist.","THST","THST"
+"THST",5,"Sapling Composition","Regen. Status","caution",7,"Imminent Failure","Sapling Composition","THST","THST"
+"THST",6,"Seedling Composition","Regen. Status","critical",7,"Imminent Failure","Seedling Composition","THST","THST"
+"THST",7,"Sorensen Sapling","Regen. Status","acceptable",7,"Imminent Failure","Sorensen Sapling","THST","THST"
+"THST",8,"Sorensen Seedling","Regen. Status","critical",7,"Imminent Failure","Sorensen Seedling","THST","THST"
+"THST",10,"Tree BA","Native Canopy 
+ Trends","nonsign",7,"Imminent Failure","Tree BA","THST","THST"
+"THST",11,"Tree Density","Native Canopy 
+ Trends","nonsign",7,"Imminent Failure","Tree Density","THST","THST"
+"THST",12,"Sapling BA","Native Canopy 
+ Trends","nonsign",7,"Imminent Failure","Sapling BA","THST","THST"
+"THST",13,"Sapling Density","Native Canopy 
+ Trends","nonsign",7,"Imminent Failure","Sapling Density","THST","THST"
+"THST",14,"Seedling Density","Native Canopy 
+ Trends","nonsign",7,"Imminent Failure","Seedling Density","THST","THST"
+"THST",15,"Stocking Index","Native Canopy 
+ Trends","nonsign",7,"Imminent Failure","Stocking Index","THST","THST"
+"THST",16,"Tree BA","Native Subcan. 
+ Trends","nonsign",7,"Imminent Failure","Tree BA","THST","THST"
+"THST",17,"Tree Density","Native Subcan. 
+ Trends","nonsign",7,"Imminent Failure","Tree Density","THST","THST"
+"THST",18,"Sapling BA","Native Subcan. 
+ Trends","nonsign",7,"Imminent Failure","Sapling BA","THST","THST"
+"THST",19,"Sapling Density","Native Subcan. 
+ Trends","signinc_good",7,"Imminent Failure","Sapling Density","THST","THST"
+"THST",20,"Seedling Density","Native Subcan. 
+ Trends","nonsign",7,"Imminent Failure","Seedling Density","THST","THST"
+"THST",21,"Tree BA","Exotic 
+ Trends","notmod",7,"Imminent Failure","Tree BA","THST","THST"
+"THST",22,"Tree Density","Exotic 
+ Trends","notmod",7,"Imminent Failure","Tree Density","THST","THST"
+"THST",23,"Sapling BA","Exotic 
+ Trends","notmod",7,"Imminent Failure","Sapling BA","THST","THST"
+"THST",24,"Sapling Density","Exotic 
+ Trends","notmod",7,"Imminent Failure","Sapling Density","THST","THST"
+"THST",25,"Seedling Density","Exotic 
+ Trends","notmod",7,"Imminent Failure","Seedling Density","THST","THST"
+"CHOH",1,"Sapling Density","Regen. Status","critical",6,"Imminent Failure","Sapling Density","CHOH*","CHOH*"
+"CHOH",2,"Seedling Density","Regen. Status","critical",6,"Imminent Failure","Seedling Density","CHOH*","CHOH*"
+"CHOH",3,"% Stocked Plots","Regen. Status","critical",6,"Imminent Failure","% Stocked Plots","CHOH*","CHOH*"
+"CHOH",4,"Stocking Index","Regen. Status","critical",6,"Imminent Failure","Stocking Index","CHOH*","CHOH*"
+"CHOH",9,"Deer Browse Impacts","Regen. Status","caution",6,"Imminent Failure","Deer Browse Impacts","CHOH*","CHOH*"
+"CHOH",10,"Flat Tree Diam. Dist.","Regen. Status","acceptable",6,"Imminent Failure","Flat Tree Diam. Dist.","CHOH*","CHOH*"
+"CHOH",5,"Sapling Composition","Regen. Status","critical",6,"Imminent Failure","Sapling Composition","CHOH*","CHOH*"
+"CHOH",6,"Seedling Composition","Regen. Status","critical",6,"Imminent Failure","Seedling Composition","CHOH*","CHOH*"
+"CHOH",7,"Sorensen Sapling","Regen. Status","acceptable",6,"Imminent Failure","Sorensen Sapling","CHOH*","CHOH*"
+"CHOH",8,"Sorensen Seedling","Regen. Status","acceptable",6,"Imminent Failure","Sorensen Seedling","CHOH*","CHOH*"
+"CHOH",10,"Tree BA","Native Canopy 
+ Trends","signinc_good",6,"Imminent Failure","Tree BA","CHOH*","CHOH*"
+"CHOH",11,"Tree Density","Native Canopy 
+ Trends","nonsign",6,"Imminent Failure","Tree Density","CHOH*","CHOH*"
+"CHOH",12,"Sapling BA","Native Canopy 
+ Trends","signdec_bad",6,"Imminent Failure","Sapling BA","CHOH*","CHOH*"
+"CHOH",13,"Sapling Density","Native Canopy 
+ Trends","signdec_bad",6,"Imminent Failure","Sapling Density","CHOH*","CHOH*"
+"CHOH",14,"Seedling Density","Native Canopy 
+ Trends","nonsign",6,"Imminent Failure","Seedling Density","CHOH*","CHOH*"
+"CHOH",15,"Stocking Index","Native Canopy 
+ Trends","signdec_bad",6,"Imminent Failure","Stocking Index","CHOH*","CHOH*"
+"CHOH",16,"Tree BA","Native Subcan. 
+ Trends","signdec_bad",6,"Imminent Failure","Tree BA","CHOH*","CHOH*"
+"CHOH",17,"Tree Density","Native Subcan. 
+ Trends","signdec_bad",6,"Imminent Failure","Tree Density","CHOH*","CHOH*"
+"CHOH",18,"Sapling BA","Native Subcan. 
+ Trends","nonsign",6,"Imminent Failure","Sapling BA","CHOH*","CHOH*"
+"CHOH",19,"Sapling Density","Native Subcan. 
+ Trends","signinc_good",6,"Imminent Failure","Sapling Density","CHOH*","CHOH*"
+"CHOH",20,"Seedling Density","Native Subcan. 
+ Trends","signinc_good",6,"Imminent Failure","Seedling Density","CHOH*","CHOH*"
+"CHOH",21,"Tree BA","Exotic 
+ Trends","nonsign",6,"Imminent Failure","Tree BA","CHOH*","CHOH*"
+"CHOH",22,"Tree Density","Exotic 
+ Trends","nonsign",6,"Imminent Failure","Tree Density","CHOH*","CHOH*"
+"CHOH",23,"Sapling BA","Exotic 
+ Trends","notmod",6,"Imminent Failure","Sapling BA","CHOH*","CHOH*"
+"CHOH",24,"Sapling Density","Exotic 
+ Trends","notmod",6,"Imminent Failure","Sapling Density","CHOH*","CHOH*"
+"CHOH",25,"Seedling Density","Exotic 
+ Trends","notmod",6,"Imminent Failure","Seedling Density","CHOH*","CHOH*"
+"FRHI",1,"Sapling Density","Regen. Status","critical",6,"Imminent Failure","Sapling Density","FRHI","FRHI"
+"FRHI",2,"Seedling Density","Regen. Status","caution",6,"Imminent Failure","Seedling Density","FRHI","FRHI"
+"FRHI",3,"% Stocked Plots","Regen. Status","critical",6,"Imminent Failure","% Stocked Plots","FRHI","FRHI"
+"FRHI",4,"Stocking Index","Regen. Status","critical",6,"Imminent Failure","Stocking Index","FRHI","FRHI"
+"FRHI",9,"Deer Browse Impacts","Regen. Status","caution",6,"Imminent Failure","Deer Browse Impacts","FRHI","FRHI"
+"FRHI",10,"Flat Tree Diam. Dist.","Regen. Status","acceptable",6,"Imminent Failure","Flat Tree Diam. Dist.","FRHI","FRHI"
+"FRHI",5,"Sapling Composition","Regen. Status","critical",6,"Imminent Failure","Sapling Composition","FRHI","FRHI"
+"FRHI",6,"Seedling Composition","Regen. Status","critical",6,"Imminent Failure","Seedling Composition","FRHI","FRHI"
+"FRHI",7,"Sorensen Sapling","Regen. Status","critical",6,"Imminent Failure","Sorensen Sapling","FRHI","FRHI"
+"FRHI",8,"Sorensen Seedling","Regen. Status","acceptable",6,"Imminent Failure","Sorensen Seedling","FRHI","FRHI"
+"FRHI",10,"Tree BA","Native Canopy 
+ Trends","signinc_good",6,"Imminent Failure","Tree BA","FRHI","FRHI"
+"FRHI",11,"Tree Density","Native Canopy 
+ Trends","signdec_bad",6,"Imminent Failure","Tree Density","FRHI","FRHI"
+"FRHI",12,"Sapling BA","Native Canopy 
+ Trends","nonsign",6,"Imminent Failure","Sapling BA","FRHI","FRHI"
+"FRHI",13,"Sapling Density","Native Canopy 
+ Trends","nonsign",6,"Imminent Failure","Sapling Density","FRHI","FRHI"
+"FRHI",14,"Seedling Density","Native Canopy 
+ Trends","signinc_good",6,"Imminent Failure","Seedling Density","FRHI","FRHI"
+"FRHI",15,"Stocking Index","Native Canopy 
+ Trends","nonsign",6,"Imminent Failure","Stocking Index","FRHI","FRHI"
+"FRHI",16,"Tree BA","Native Subcan. 
+ Trends","signdec_bad",6,"Imminent Failure","Tree BA","FRHI","FRHI"
+"FRHI",17,"Tree Density","Native Subcan. 
+ Trends","signdec_bad",6,"Imminent Failure","Tree Density","FRHI","FRHI"
+"FRHI",18,"Sapling BA","Native Subcan. 
+ Trends","nonsign",6,"Imminent Failure","Sapling BA","FRHI","FRHI"
+"FRHI",19,"Sapling Density","Native Subcan. 
+ Trends","nonsign",6,"Imminent Failure","Sapling Density","FRHI","FRHI"
+"FRHI",20,"Seedling Density","Native Subcan. 
+ Trends","signinc_good",6,"Imminent Failure","Seedling Density","FRHI","FRHI"
+"FRHI",21,"Tree BA","Exotic 
+ Trends","nonsign",6,"Imminent Failure","Tree BA","FRHI","FRHI"
+"FRHI",22,"Tree Density","Exotic 
+ Trends","nonsign",6,"Imminent Failure","Tree Density","FRHI","FRHI"
+"FRHI",23,"Sapling BA","Exotic 
+ Trends","notmod",6,"Imminent Failure","Sapling BA","FRHI","FRHI"
+"FRHI",24,"Sapling Density","Exotic 
+ Trends","notmod",6,"Imminent Failure","Sapling Density","FRHI","FRHI"
+"FRHI",25,"Seedling Density","Exotic 
+ Trends","nonsign",6,"Imminent Failure","Seedling Density","FRHI","FRHI"
+"GEWA",1,"Sapling Density","Regen. Status","critical",6,"Imminent Failure","Sapling Density","GEWA","GEWA"
+"GEWA",2,"Seedling Density","Regen. Status","caution",6,"Imminent Failure","Seedling Density","GEWA","GEWA"
+"GEWA",3,"% Stocked Plots","Regen. Status","critical",6,"Imminent Failure","% Stocked Plots","GEWA","GEWA"
+"GEWA",4,"Stocking Index","Regen. Status","critical",6,"Imminent Failure","Stocking Index","GEWA","GEWA"
+"GEWA",9,"Deer Browse Impacts","Regen. Status","critical",6,"Imminent Failure","Deer Browse Impacts","GEWA","GEWA"
+"GEWA",10,"Flat Tree Diam. Dist.","Regen. Status","acceptable",6,"Imminent Failure","Flat Tree Diam. Dist.","GEWA","GEWA"
+"GEWA",5,"Sapling Composition","Regen. Status","critical",6,"Imminent Failure","Sapling Composition","GEWA","GEWA"
+"GEWA",6,"Seedling Composition","Regen. Status","caution",6,"Imminent Failure","Seedling Composition","GEWA","GEWA"
+"GEWA",7,"Sorensen Sapling","Regen. Status","acceptable",6,"Imminent Failure","Sorensen Sapling","GEWA","GEWA"
+"GEWA",8,"Sorensen Seedling","Regen. Status","critical",6,"Imminent Failure","Sorensen Seedling","GEWA","GEWA"
+"GEWA",10,"Tree BA","Native Canopy 
+ Trends","signinc_good",6,"Imminent Failure","Tree BA","GEWA","GEWA"
+"GEWA",11,"Tree Density","Native Canopy 
+ Trends","signdec_bad",6,"Imminent Failure","Tree Density","GEWA","GEWA"
+"GEWA",12,"Sapling BA","Native Canopy 
+ Trends","nonsign",6,"Imminent Failure","Sapling BA","GEWA","GEWA"
+"GEWA",13,"Sapling Density","Native Canopy 
+ Trends","nonsign",6,"Imminent Failure","Sapling Density","GEWA","GEWA"
+"GEWA",14,"Seedling Density","Native Canopy 
+ Trends","signinc_good",6,"Imminent Failure","Seedling Density","GEWA","GEWA"
+"GEWA",15,"Stocking Index","Native Canopy 
+ Trends","signinc_good",6,"Imminent Failure","Stocking Index","GEWA","GEWA"
+"GEWA",16,"Tree BA","Native Subcan. 
+ Trends","signinc_good",6,"Imminent Failure","Tree BA","GEWA","GEWA"
+"GEWA",17,"Tree Density","Native Subcan. 
+ Trends","signinc_good",6,"Imminent Failure","Tree Density","GEWA","GEWA"
+"GEWA",18,"Sapling BA","Native Subcan. 
+ Trends","nonsign",6,"Imminent Failure","Sapling BA","GEWA","GEWA"
+"GEWA",19,"Sapling Density","Native Subcan. 
+ Trends","nonsign",6,"Imminent Failure","Sapling Density","GEWA","GEWA"
+"GEWA",20,"Seedling Density","Native Subcan. 
+ Trends","signdec_bad",6,"Imminent Failure","Seedling Density","GEWA","GEWA"
+"GEWA",21,"Tree BA","Exotic 
+ Trends","notmod",6,"Imminent Failure","Tree BA","GEWA","GEWA"
+"GEWA",22,"Tree Density","Exotic 
+ Trends","notmod",6,"Imminent Failure","Tree Density","GEWA","GEWA"
+"GEWA",23,"Sapling BA","Exotic 
+ Trends","notmod",6,"Imminent Failure","Sapling BA","GEWA","GEWA"
+"GEWA",24,"Sapling Density","Exotic 
+ Trends","notmod",6,"Imminent Failure","Sapling Density","GEWA","GEWA"
+"GEWA",25,"Seedling Density","Exotic 
+ Trends","notmod",6,"Imminent Failure","Seedling Density","GEWA","GEWA"
+"VAFO",1,"Sapling Density","Regen. Status","critical",6,"Imminent Failure","Sapling Density","VAFO*","VAFO*"
+"VAFO",2,"Seedling Density","Regen. Status","caution",6,"Imminent Failure","Seedling Density","VAFO*","VAFO*"
+"VAFO",3,"% Stocked Plots","Regen. Status","critical",6,"Imminent Failure","% Stocked Plots","VAFO*","VAFO*"
+"VAFO",4,"Stocking Index","Regen. Status","critical",6,"Imminent Failure","Stocking Index","VAFO*","VAFO*"
+"VAFO",9,"Deer Browse Impacts","Regen. Status","critical",6,"Imminent Failure","Deer Browse Impacts","VAFO*","VAFO*"
+"VAFO",10,"Flat Tree Diam. Dist.","Regen. Status","acceptable",6,"Imminent Failure","Flat Tree Diam. Dist.","VAFO*","VAFO*"
+"VAFO",5,"Sapling Composition","Regen. Status","caution",6,"Imminent Failure","Sapling Composition","VAFO*","VAFO*"
+"VAFO",6,"Seedling Composition","Regen. Status","critical",6,"Imminent Failure","Seedling Composition","VAFO*","VAFO*"
+"VAFO",7,"Sorensen Sapling","Regen. Status","acceptable",6,"Imminent Failure","Sorensen Sapling","VAFO*","VAFO*"
+"VAFO",8,"Sorensen Seedling","Regen. Status","critical",6,"Imminent Failure","Sorensen Seedling","VAFO*","VAFO*"
+"VAFO",10,"Tree BA","Native Canopy 
+ Trends","signinc_good",6,"Imminent Failure","Tree BA","VAFO*","VAFO*"
+"VAFO",11,"Tree Density","Native Canopy 
+ Trends","nonsign",6,"Imminent Failure","Tree Density","VAFO*","VAFO*"
+"VAFO",12,"Sapling BA","Native Canopy 
+ Trends","nonsign",6,"Imminent Failure","Sapling BA","VAFO*","VAFO*"
+"VAFO",13,"Sapling Density","Native Canopy 
+ Trends","signdec_bad",6,"Imminent Failure","Sapling Density","VAFO*","VAFO*"
+"VAFO",14,"Seedling Density","Native Canopy 
+ Trends","signinc_good",6,"Imminent Failure","Seedling Density","VAFO*","VAFO*"
+"VAFO",15,"Stocking Index","Native Canopy 
+ Trends","signinc_good",6,"Imminent Failure","Stocking Index","VAFO*","VAFO*"
+"VAFO",16,"Tree BA","Native Subcan. 
+ Trends","nonsign",6,"Imminent Failure","Tree BA","VAFO*","VAFO*"
+"VAFO",17,"Tree Density","Native Subcan. 
+ Trends","signdec_bad",6,"Imminent Failure","Tree Density","VAFO*","VAFO*"
+"VAFO",18,"Sapling BA","Native Subcan. 
+ Trends","signdec_bad",6,"Imminent Failure","Sapling BA","VAFO*","VAFO*"
+"VAFO",19,"Sapling Density","Native Subcan. 
+ Trends","signdec_bad",6,"Imminent Failure","Sapling Density","VAFO*","VAFO*"
+"VAFO",20,"Seedling Density","Native Subcan. 
+ Trends","nonsign",6,"Imminent Failure","Seedling Density","VAFO*","VAFO*"
+"VAFO",21,"Tree BA","Exotic 
+ Trends","signinc_bad",6,"Imminent Failure","Tree BA","VAFO*","VAFO*"
+"VAFO",22,"Tree Density","Exotic 
+ Trends","signinc_bad",6,"Imminent Failure","Tree Density","VAFO*","VAFO*"
+"VAFO",23,"Sapling BA","Exotic 
+ Trends","notmod",6,"Imminent Failure","Sapling BA","VAFO*","VAFO*"
+"VAFO",24,"Sapling Density","Exotic 
+ Trends","notmod",6,"Imminent Failure","Sapling Density","VAFO*","VAFO*"
+"VAFO",25,"Seedling Density","Exotic 
+ Trends","signinc_bad",6,"Imminent Failure","Seedling Density","VAFO*","VAFO*"
+"ALPO",1,"Sapling Density","Regen. Status","critical",5,"Probable Failure","Sapling Density","ALPO","ALPO"
+"ALPO",2,"Seedling Density","Regen. Status","caution",5,"Probable Failure","Seedling Density","ALPO","ALPO"
+"ALPO",3,"% Stocked Plots","Regen. Status","critical",5,"Probable Failure","% Stocked Plots","ALPO","ALPO"
+"ALPO",4,"Stocking Index","Regen. Status","critical",5,"Probable Failure","Stocking Index","ALPO","ALPO"
+"ALPO",9,"Deer Browse Impacts","Regen. Status","caution",5,"Probable Failure","Deer Browse Impacts","ALPO","ALPO"
+"ALPO",10,"Flat Tree Diam. Dist.","Regen. Status","acceptable",5,"Probable Failure","Flat Tree Diam. Dist.","ALPO","ALPO"
+"ALPO",5,"Sapling Composition","Regen. Status","critical",5,"Probable Failure","Sapling Composition","ALPO","ALPO"
+"ALPO",6,"Seedling Composition","Regen. Status","caution",5,"Probable Failure","Seedling Composition","ALPO","ALPO"
+"ALPO",7,"Sorensen Sapling","Regen. Status","critical",5,"Probable Failure","Sorensen Sapling","ALPO","ALPO"
+"ALPO",8,"Sorensen Seedling","Regen. Status","acceptable",5,"Probable Failure","Sorensen Seedling","ALPO","ALPO"
+"ALPO",10,"Tree BA","Native Canopy 
+ Trends","signinc_good",5,"Probable Failure","Tree BA","ALPO","ALPO"
+"ALPO",11,"Tree Density","Native Canopy 
+ Trends","signdec_bad",5,"Probable Failure","Tree Density","ALPO","ALPO"
+"ALPO",12,"Sapling BA","Native Canopy 
+ Trends","nonsign",5,"Probable Failure","Sapling BA","ALPO","ALPO"
+"ALPO",13,"Sapling Density","Native Canopy 
+ Trends","nonsign",5,"Probable Failure","Sapling Density","ALPO","ALPO"
+"ALPO",14,"Seedling Density","Native Canopy 
+ Trends","signdec_bad",5,"Probable Failure","Seedling Density","ALPO","ALPO"
+"ALPO",15,"Stocking Index","Native Canopy 
+ Trends","nonsign",5,"Probable Failure","Stocking Index","ALPO","ALPO"
+"ALPO",16,"Tree BA","Native Subcan. 
+ Trends","signdec_bad",5,"Probable Failure","Tree BA","ALPO","ALPO"
+"ALPO",17,"Tree Density","Native Subcan. 
+ Trends","signdec_bad",5,"Probable Failure","Tree Density","ALPO","ALPO"
+"ALPO",18,"Sapling BA","Native Subcan. 
+ Trends","nonsign",5,"Probable Failure","Sapling BA","ALPO","ALPO"
+"ALPO",19,"Sapling Density","Native Subcan. 
+ Trends","nonsign",5,"Probable Failure","Sapling Density","ALPO","ALPO"
+"ALPO",20,"Seedling Density","Native Subcan. 
+ Trends","signdec_bad",5,"Probable Failure","Seedling Density","ALPO","ALPO"
+"ALPO",21,"Tree BA","Exotic 
+ Trends","signdec_good",5,"Probable Failure","Tree BA","ALPO","ALPO"
+"ALPO",22,"Tree Density","Exotic 
+ Trends","signdec_good",5,"Probable Failure","Tree Density","ALPO","ALPO"
+"ALPO",23,"Sapling BA","Exotic 
+ Trends","nonsign",5,"Probable Failure","Sapling BA","ALPO","ALPO"
+"ALPO",24,"Sapling Density","Exotic 
+ Trends","nonsign",5,"Probable Failure","Sapling Density","ALPO","ALPO"
+"ALPO",25,"Seedling Density","Exotic 
+ Trends","nonsign",5,"Probable Failure","Seedling Density","ALPO","ALPO"
+"BLUE",1,"Sapling Density","Regen. Status","critical",5,"Probable Failure","Sapling Density","BLUE","BLUE"
+"BLUE",2,"Seedling Density","Regen. Status","caution",5,"Probable Failure","Seedling Density","BLUE","BLUE"
+"BLUE",3,"% Stocked Plots","Regen. Status","critical",5,"Probable Failure","% Stocked Plots","BLUE","BLUE"
+"BLUE",4,"Stocking Index","Regen. Status","critical",5,"Probable Failure","Stocking Index","BLUE","BLUE"
+"BLUE",9,"Deer Browse Impacts","Regen. Status","acceptable",5,"Probable Failure","Deer Browse Impacts","BLUE","BLUE"
+"BLUE",10,"Flat Tree Diam. Dist.","Regen. Status","acceptable",5,"Probable Failure","Flat Tree Diam. Dist.","BLUE","BLUE"
+"BLUE",5,"Sapling Composition","Regen. Status","caution",5,"Probable Failure","Sapling Composition","BLUE","BLUE"
+"BLUE",6,"Seedling Composition","Regen. Status","critical",5,"Probable Failure","Seedling Composition","BLUE","BLUE"
+"BLUE",7,"Sorensen Sapling","Regen. Status","critical",5,"Probable Failure","Sorensen Sapling","BLUE","BLUE"
+"BLUE",8,"Sorensen Seedling","Regen. Status","acceptable",5,"Probable Failure","Sorensen Seedling","BLUE","BLUE"
+"BLUE",10,"Tree BA","Native Canopy 
+ Trends","nonsign",5,"Probable Failure","Tree BA","BLUE","BLUE"
+"BLUE",11,"Tree Density","Native Canopy 
+ Trends","signdec_bad",5,"Probable Failure","Tree Density","BLUE","BLUE"
+"BLUE",12,"Sapling BA","Native Canopy 
+ Trends","nonsign",5,"Probable Failure","Sapling BA","BLUE","BLUE"
+"BLUE",13,"Sapling Density","Native Canopy 
+ Trends","nonsign",5,"Probable Failure","Sapling Density","BLUE","BLUE"
+"BLUE",14,"Seedling Density","Native Canopy 
+ Trends","signinc_good",5,"Probable Failure","Seedling Density","BLUE","BLUE"
+"BLUE",15,"Stocking Index","Native Canopy 
+ Trends","nonsign",5,"Probable Failure","Stocking Index","BLUE","BLUE"
+"BLUE",16,"Tree BA","Native Subcan. 
+ Trends","signdec_bad",5,"Probable Failure","Tree BA","BLUE","BLUE"
+"BLUE",17,"Tree Density","Native Subcan. 
+ Trends","signdec_bad",5,"Probable Failure","Tree Density","BLUE","BLUE"
+"BLUE",18,"Sapling BA","Native Subcan. 
+ Trends","nonsign",5,"Probable Failure","Sapling BA","BLUE","BLUE"
+"BLUE",19,"Sapling Density","Native Subcan. 
+ Trends","nonsign",5,"Probable Failure","Sapling Density","BLUE","BLUE"
+"BLUE",20,"Seedling Density","Native Subcan. 
+ Trends","signinc_good",5,"Probable Failure","Seedling Density","BLUE","BLUE"
+"BLUE",21,"Tree BA","Exotic 
+ Trends","notmod",5,"Probable Failure","Tree BA","BLUE","BLUE"
+"BLUE",22,"Tree Density","Exotic 
+ Trends","notmod",5,"Probable Failure","Tree Density","BLUE","BLUE"
+"BLUE",23,"Sapling BA","Exotic 
+ Trends","notmod",5,"Probable Failure","Sapling BA","BLUE","BLUE"
+"BLUE",24,"Sapling Density","Exotic 
+ Trends","notmod",5,"Probable Failure","Sapling Density","BLUE","BLUE"
+"BLUE",25,"Seedling Density","Exotic 
+ Trends","nonsign",5,"Probable Failure","Seedling Density","BLUE","BLUE"
+"COLO",1,"Sapling Density","Regen. Status","critical",5,"Probable Failure","Sapling Density","COLO","COLO"
+"COLO",2,"Seedling Density","Regen. Status","caution",5,"Probable Failure","Seedling Density","COLO","COLO"
+"COLO",3,"% Stocked Plots","Regen. Status","critical",5,"Probable Failure","% Stocked Plots","COLO","COLO"
+"COLO",4,"Stocking Index","Regen. Status","caution",5,"Probable Failure","Stocking Index","COLO","COLO"
+"COLO",9,"Deer Browse Impacts","Regen. Status","critical",5,"Probable Failure","Deer Browse Impacts","COLO","COLO"
+"COLO",10,"Flat Tree Diam. Dist.","Regen. Status","acceptable",5,"Probable Failure","Flat Tree Diam. Dist.","COLO","COLO"
+"COLO",5,"Sapling Composition","Regen. Status","critical",5,"Probable Failure","Sapling Composition","COLO","COLO"
+"COLO",6,"Seedling Composition","Regen. Status","critical",5,"Probable Failure","Seedling Composition","COLO","COLO"
+"COLO",7,"Sorensen Sapling","Regen. Status","acceptable",5,"Probable Failure","Sorensen Sapling","COLO","COLO"
+"COLO",8,"Sorensen Seedling","Regen. Status","acceptable",5,"Probable Failure","Sorensen Seedling","COLO","COLO"
+"COLO",10,"Tree BA","Native Canopy 
+ Trends","signinc_good",5,"Probable Failure","Tree BA","COLO","COLO"
+"COLO",11,"Tree Density","Native Canopy 
+ Trends","nonsign",5,"Probable Failure","Tree Density","COLO","COLO"
+"COLO",12,"Sapling BA","Native Canopy 
+ Trends","nonsign",5,"Probable Failure","Sapling BA","COLO","COLO"
+"COLO",13,"Sapling Density","Native Canopy 
+ Trends","nonsign",5,"Probable Failure","Sapling Density","COLO","COLO"
+"COLO",14,"Seedling Density","Native Canopy 
+ Trends","signdec_bad",5,"Probable Failure","Seedling Density","COLO","COLO"
+"COLO",15,"Stocking Index","Native Canopy 
+ Trends","nonsign",5,"Probable Failure","Stocking Index","COLO","COLO"
+"COLO",16,"Tree BA","Native Subcan. 
+ Trends","signinc_good",5,"Probable Failure","Tree BA","COLO","COLO"
+"COLO",17,"Tree Density","Native Subcan. 
+ Trends","signinc_good",5,"Probable Failure","Tree Density","COLO","COLO"
+"COLO",18,"Sapling BA","Native Subcan. 
+ Trends","nonsign",5,"Probable Failure","Sapling BA","COLO","COLO"
+"COLO",19,"Sapling Density","Native Subcan. 
+ Trends","signdec_bad",5,"Probable Failure","Sapling Density","COLO","COLO"
+"COLO",20,"Seedling Density","Native Subcan. 
+ Trends","nonsign",5,"Probable Failure","Seedling Density","COLO","COLO"
+"COLO",21,"Tree BA","Exotic 
+ Trends","notmod",5,"Probable Failure","Tree BA","COLO","COLO"
+"COLO",22,"Tree Density","Exotic 
+ Trends","notmod",5,"Probable Failure","Tree Density","COLO","COLO"
+"COLO",23,"Sapling BA","Exotic 
+ Trends","notmod",5,"Probable Failure","Sapling BA","COLO","COLO"
+"COLO",24,"Sapling Density","Exotic 
+ Trends","notmod",5,"Probable Failure","Sapling Density","COLO","COLO"
+"COLO",25,"Seedling Density","Exotic 
+ Trends","notmod",5,"Probable Failure","Seedling Density","COLO","COLO"
+"FONE",1,"Sapling Density","Regen. Status","critical",5,"Probable Failure","Sapling Density","FONE","FONE"
+"FONE",2,"Seedling Density","Regen. Status","caution",5,"Probable Failure","Seedling Density","FONE","FONE"
+"FONE",3,"% Stocked Plots","Regen. Status","critical",5,"Probable Failure","% Stocked Plots","FONE","FONE"
+"FONE",4,"Stocking Index","Regen. Status","caution",5,"Probable Failure","Stocking Index","FONE","FONE"
+"FONE",9,"Deer Browse Impacts","Regen. Status","caution",5,"Probable Failure","Deer Browse Impacts","FONE","FONE"
+"FONE",10,"Flat Tree Diam. Dist.","Regen. Status","acceptable",5,"Probable Failure","Flat Tree Diam. Dist.","FONE","FONE"
+"FONE",5,"Sapling Composition","Regen. Status","critical",5,"Probable Failure","Sapling Composition","FONE","FONE"
+"FONE",6,"Seedling Composition","Regen. Status","critical",5,"Probable Failure","Seedling Composition","FONE","FONE"
+"FONE",7,"Sorensen Sapling","Regen. Status","critical",5,"Probable Failure","Sorensen Sapling","FONE","FONE"
+"FONE",8,"Sorensen Seedling","Regen. Status","acceptable",5,"Probable Failure","Sorensen Seedling","FONE","FONE"
+"FONE",10,"Tree BA","Native Canopy 
+ Trends","nonsign",5,"Probable Failure","Tree BA","FONE","FONE"
+"FONE",11,"Tree Density","Native Canopy 
+ Trends","signdec_bad",5,"Probable Failure","Tree Density","FONE","FONE"
+"FONE",12,"Sapling BA","Native Canopy 
+ Trends","signdec_bad",5,"Probable Failure","Sapling BA","FONE","FONE"
+"FONE",13,"Sapling Density","Native Canopy 
+ Trends","nonsign",5,"Probable Failure","Sapling Density","FONE","FONE"
+"FONE",14,"Seedling Density","Native Canopy 
+ Trends","signinc_good",5,"Probable Failure","Seedling Density","FONE","FONE"
+"FONE",15,"Stocking Index","Native Canopy 
+ Trends","nonsign",5,"Probable Failure","Stocking Index","FONE","FONE"
+"FONE",16,"Tree BA","Native Subcan. 
+ Trends","nonsign",5,"Probable Failure","Tree BA","FONE","FONE"
+"FONE",17,"Tree Density","Native Subcan. 
+ Trends","signdec_bad",5,"Probable Failure","Tree Density","FONE","FONE"
+"FONE",18,"Sapling BA","Native Subcan. 
+ Trends","nonsign",5,"Probable Failure","Sapling BA","FONE","FONE"
+"FONE",19,"Sapling Density","Native Subcan. 
+ Trends","nonsign",5,"Probable Failure","Sapling Density","FONE","FONE"
+"FONE",20,"Seedling Density","Native Subcan. 
+ Trends","signinc_good",5,"Probable Failure","Seedling Density","FONE","FONE"
+"FONE",21,"Tree BA","Exotic 
+ Trends","nonsign",5,"Probable Failure","Tree BA","FONE","FONE"
+"FONE",22,"Tree Density","Exotic 
+ Trends","nonsign",5,"Probable Failure","Tree Density","FONE","FONE"
+"FONE",23,"Sapling BA","Exotic 
+ Trends","nonsign",5,"Probable Failure","Sapling BA","FONE","FONE"
+"FONE",24,"Sapling Density","Exotic 
+ Trends","nonsign",5,"Probable Failure","Sapling Density","FONE","FONE"
+"FONE",25,"Seedling Density","Exotic 
+ Trends","signinc_bad",5,"Probable Failure","Seedling Density","FONE","FONE"
+"GETT",1,"Sapling Density","Regen. Status","critical",5,"Probable Failure","Sapling Density","GETT*","GETT*"
+"GETT",2,"Seedling Density","Regen. Status","caution",5,"Probable Failure","Seedling Density","GETT*","GETT*"
+"GETT",3,"% Stocked Plots","Regen. Status","critical",5,"Probable Failure","% Stocked Plots","GETT*","GETT*"
+"GETT",4,"Stocking Index","Regen. Status","caution",5,"Probable Failure","Stocking Index","GETT*","GETT*"
+"GETT",9,"Deer Browse Impacts","Regen. Status","caution",5,"Probable Failure","Deer Browse Impacts","GETT*","GETT*"
+"GETT",10,"Flat Tree Diam. Dist.","Regen. Status","acceptable",5,"Probable Failure","Flat Tree Diam. Dist.","GETT*","GETT*"
+"GETT",5,"Sapling Composition","Regen. Status","critical",5,"Probable Failure","Sapling Composition","GETT*","GETT*"
+"GETT",6,"Seedling Composition","Regen. Status","critical",5,"Probable Failure","Seedling Composition","GETT*","GETT*"
+"GETT",7,"Sorensen Sapling","Regen. Status","acceptable",5,"Probable Failure","Sorensen Sapling","GETT*","GETT*"
+"GETT",8,"Sorensen Seedling","Regen. Status","critical",5,"Probable Failure","Sorensen Seedling","GETT*","GETT*"
+"GETT",10,"Tree BA","Native Canopy 
+ Trends","nonsign",5,"Probable Failure","Tree BA","GETT*","GETT*"
+"GETT",11,"Tree Density","Native Canopy 
+ Trends","nonsign",5,"Probable Failure","Tree Density","GETT*","GETT*"
+"GETT",12,"Sapling BA","Native Canopy 
+ Trends","nonsign",5,"Probable Failure","Sapling BA","GETT*","GETT*"
+"GETT",13,"Sapling Density","Native Canopy 
+ Trends","nonsign",5,"Probable Failure","Sapling Density","GETT*","GETT*"
+"GETT",14,"Seedling Density","Native Canopy 
+ Trends","nonsign",5,"Probable Failure","Seedling Density","GETT*","GETT*"
+"GETT",15,"Stocking Index","Native Canopy 
+ Trends","nonsign",5,"Probable Failure","Stocking Index","GETT*","GETT*"
+"GETT",16,"Tree BA","Native Subcan. 
+ Trends","signdec_bad",5,"Probable Failure","Tree BA","GETT*","GETT*"
+"GETT",17,"Tree Density","Native Subcan. 
+ Trends","nonsign",5,"Probable Failure","Tree Density","GETT*","GETT*"
+"GETT",18,"Sapling BA","Native Subcan. 
+ Trends","signinc_good",5,"Probable Failure","Sapling BA","GETT*","GETT*"
+"GETT",19,"Sapling Density","Native Subcan. 
+ Trends","signinc_good",5,"Probable Failure","Sapling Density","GETT*","GETT*"
+"GETT",20,"Seedling Density","Native Subcan. 
+ Trends","signinc_good",5,"Probable Failure","Seedling Density","GETT*","GETT*"
+"GETT",21,"Tree BA","Exotic 
+ Trends","notmod",5,"Probable Failure","Tree BA","GETT*","GETT*"
+"GETT",22,"Tree Density","Exotic 
+ Trends","notmod",5,"Probable Failure","Tree Density","GETT*","GETT*"
+"GETT",23,"Sapling BA","Exotic 
+ Trends","signinc_bad",5,"Probable Failure","Sapling BA","GETT*","GETT*"
+"GETT",24,"Sapling Density","Exotic 
+ Trends","nonsign",5,"Probable Failure","Sapling Density","GETT*","GETT*"
+"GETT",25,"Seedling Density","Exotic 
+ Trends","nonsign",5,"Probable Failure","Seedling Density","GETT*","GETT*"
+"HOFU",1,"Sapling Density","Regen. Status","critical",5,"Probable Failure","Sapling Density","HOFU","HOFU"
+"HOFU",2,"Seedling Density","Regen. Status","caution",5,"Probable Failure","Seedling Density","HOFU","HOFU"
+"HOFU",3,"% Stocked Plots","Regen. Status","critical",5,"Probable Failure","% Stocked Plots","HOFU","HOFU"
+"HOFU",4,"Stocking Index","Regen. Status","caution",5,"Probable Failure","Stocking Index","HOFU","HOFU"
+"HOFU",9,"Deer Browse Impacts","Regen. Status","critical",5,"Probable Failure","Deer Browse Impacts","HOFU","HOFU"
+"HOFU",10,"Flat Tree Diam. Dist.","Regen. Status","acceptable",5,"Probable Failure","Flat Tree Diam. Dist.","HOFU","HOFU"
+"HOFU",5,"Sapling Composition","Regen. Status","critical",5,"Probable Failure","Sapling Composition","HOFU","HOFU"
+"HOFU",6,"Seedling Composition","Regen. Status","caution",5,"Probable Failure","Seedling Composition","HOFU","HOFU"
+"HOFU",7,"Sorensen Sapling","Regen. Status","critical",5,"Probable Failure","Sorensen Sapling","HOFU","HOFU"
+"HOFU",8,"Sorensen Seedling","Regen. Status","acceptable",5,"Probable Failure","Sorensen Seedling","HOFU","HOFU"
+"HOFU",10,"Tree BA","Native Canopy 
+ Trends","nonsign",5,"Probable Failure","Tree BA","HOFU","HOFU"
+"HOFU",11,"Tree Density","Native Canopy 
+ Trends","signdec_bad",5,"Probable Failure","Tree Density","HOFU","HOFU"
+"HOFU",12,"Sapling BA","Native Canopy 
+ Trends","nonsign",5,"Probable Failure","Sapling BA","HOFU","HOFU"
+"HOFU",13,"Sapling Density","Native Canopy 
+ Trends","nonsign",5,"Probable Failure","Sapling Density","HOFU","HOFU"
+"HOFU",14,"Seedling Density","Native Canopy 
+ Trends","signinc_good",5,"Probable Failure","Seedling Density","HOFU","HOFU"
+"HOFU",15,"Stocking Index","Native Canopy 
+ Trends","signinc_good",5,"Probable Failure","Stocking Index","HOFU","HOFU"
+"HOFU",16,"Tree BA","Native Subcan. 
+ Trends","nonsign",5,"Probable Failure","Tree BA","HOFU","HOFU"
+"HOFU",17,"Tree Density","Native Subcan. 
+ Trends","signdec_bad",5,"Probable Failure","Tree Density","HOFU","HOFU"
+"HOFU",18,"Sapling BA","Native Subcan. 
+ Trends","nonsign",5,"Probable Failure","Sapling BA","HOFU","HOFU"
+"HOFU",19,"Sapling Density","Native Subcan. 
+ Trends","nonsign",5,"Probable Failure","Sapling Density","HOFU","HOFU"
+"HOFU",20,"Seedling Density","Native Subcan. 
+ Trends","nonsign",5,"Probable Failure","Seedling Density","HOFU","HOFU"
+"HOFU",21,"Tree BA","Exotic 
+ Trends","notmod",5,"Probable Failure","Tree BA","HOFU","HOFU"
+"HOFU",22,"Tree Density","Exotic 
+ Trends","notmod",5,"Probable Failure","Tree Density","HOFU","HOFU"
+"HOFU",23,"Sapling BA","Exotic 
+ Trends","notmod",5,"Probable Failure","Sapling BA","HOFU","HOFU"
+"HOFU",24,"Sapling Density","Exotic 
+ Trends","notmod",5,"Probable Failure","Sapling Density","HOFU","HOFU"
+"HOFU",25,"Seedling Density","Exotic 
+ Trends","notmod",5,"Probable Failure","Seedling Density","HOFU","HOFU"
+"MIMA",1,"Sapling Density","Regen. Status","critical",5,"Probable Failure","Sapling Density","MIMA","MIMA"
+"MIMA",2,"Seedling Density","Regen. Status","critical",5,"Probable Failure","Seedling Density","MIMA","MIMA"
+"MIMA",3,"% Stocked Plots","Regen. Status","critical",5,"Probable Failure","% Stocked Plots","MIMA","MIMA"
+"MIMA",4,"Stocking Index","Regen. Status","critical",5,"Probable Failure","Stocking Index","MIMA","MIMA"
+"MIMA",9,"Deer Browse Impacts","Regen. Status","caution",5,"Probable Failure","Deer Browse Impacts","MIMA","MIMA"
+"MIMA",10,"Flat Tree Diam. Dist.","Regen. Status","acceptable",5,"Probable Failure","Flat Tree Diam. Dist.","MIMA","MIMA"
+"MIMA",5,"Sapling Composition","Regen. Status","critical",5,"Probable Failure","Sapling Composition","MIMA","MIMA"
+"MIMA",6,"Seedling Composition","Regen. Status","caution",5,"Probable Failure","Seedling Composition","MIMA","MIMA"
+"MIMA",7,"Sorensen Sapling","Regen. Status","acceptable",5,"Probable Failure","Sorensen Sapling","MIMA","MIMA"
+"MIMA",8,"Sorensen Seedling","Regen. Status","acceptable",5,"Probable Failure","Sorensen Seedling","MIMA","MIMA"
+"MIMA",10,"Tree BA","Native Canopy 
+ Trends","signinc_good",5,"Probable Failure","Tree BA","MIMA","MIMA"
+"MIMA",11,"Tree Density","Native Canopy 
+ Trends","nonsign",5,"Probable Failure","Tree Density","MIMA","MIMA"
+"MIMA",12,"Sapling BA","Native Canopy 
+ Trends","nonsign",5,"Probable Failure","Sapling BA","MIMA","MIMA"
+"MIMA",13,"Sapling Density","Native Canopy 
+ Trends","nonsign",5,"Probable Failure","Sapling Density","MIMA","MIMA"
+"MIMA",14,"Seedling Density","Native Canopy 
+ Trends","nonsign",5,"Probable Failure","Seedling Density","MIMA","MIMA"
+"MIMA",15,"Stocking Index","Native Canopy 
+ Trends","nonsign",5,"Probable Failure","Stocking Index","MIMA","MIMA"
+"MIMA",16,"Tree BA","Native Subcan. 
+ Trends","nonsign",5,"Probable Failure","Tree BA","MIMA","MIMA"
+"MIMA",17,"Tree Density","Native Subcan. 
+ Trends","signdec_bad",5,"Probable Failure","Tree Density","MIMA","MIMA"
+"MIMA",18,"Sapling BA","Native Subcan. 
+ Trends","nonsign",5,"Probable Failure","Sapling BA","MIMA","MIMA"
+"MIMA",19,"Sapling Density","Native Subcan. 
+ Trends","signdec_bad",5,"Probable Failure","Sapling Density","MIMA","MIMA"
+"MIMA",20,"Seedling Density","Native Subcan. 
+ Trends","nonsign",5,"Probable Failure","Seedling Density","MIMA","MIMA"
+"MIMA",21,"Tree BA","Exotic 
+ Trends","signinc_bad",5,"Probable Failure","Tree BA","MIMA","MIMA"
+"MIMA",22,"Tree Density","Exotic 
+ Trends","nonsign",5,"Probable Failure","Tree Density","MIMA","MIMA"
+"MIMA",23,"Sapling BA","Exotic 
+ Trends","nonsign",5,"Probable Failure","Sapling BA","MIMA","MIMA"
+"MIMA",24,"Sapling Density","Exotic 
+ Trends","nonsign",5,"Probable Failure","Sapling Density","MIMA","MIMA"
+"MIMA",25,"Seedling Density","Exotic 
+ Trends","nonsign",5,"Probable Failure","Seedling Density","MIMA","MIMA"
+"PRWI",1,"Sapling Density","Regen. Status","critical",5,"Probable Failure","Sapling Density","PRWI","PRWI"
+"PRWI",2,"Seedling Density","Regen. Status","caution",5,"Probable Failure","Seedling Density","PRWI","PRWI"
+"PRWI",3,"% Stocked Plots","Regen. Status","critical",5,"Probable Failure","% Stocked Plots","PRWI","PRWI"
+"PRWI",4,"Stocking Index","Regen. Status","caution",5,"Probable Failure","Stocking Index","PRWI","PRWI"
+"PRWI",9,"Deer Browse Impacts","Regen. Status","critical",5,"Probable Failure","Deer Browse Impacts","PRWI","PRWI"
+"PRWI",10,"Flat Tree Diam. Dist.","Regen. Status","acceptable",5,"Probable Failure","Flat Tree Diam. Dist.","PRWI","PRWI"
+"PRWI",5,"Sapling Composition","Regen. Status","acceptable",5,"Probable Failure","Sapling Composition","PRWI","PRWI"
+"PRWI",6,"Seedling Composition","Regen. Status","critical",5,"Probable Failure","Seedling Composition","PRWI","PRWI"
+"PRWI",7,"Sorensen Sapling","Regen. Status","acceptable",5,"Probable Failure","Sorensen Sapling","PRWI","PRWI"
+"PRWI",8,"Sorensen Seedling","Regen. Status","critical",5,"Probable Failure","Sorensen Seedling","PRWI","PRWI"
+"PRWI",10,"Tree BA","Native Canopy 
+ Trends","signinc_good",5,"Probable Failure","Tree BA","PRWI","PRWI"
+"PRWI",11,"Tree Density","Native Canopy 
+ Trends","nonsign",5,"Probable Failure","Tree Density","PRWI","PRWI"
+"PRWI",12,"Sapling BA","Native Canopy 
+ Trends","nonsign",5,"Probable Failure","Sapling BA","PRWI","PRWI"
+"PRWI",13,"Sapling Density","Native Canopy 
+ Trends","signdec_bad",5,"Probable Failure","Sapling Density","PRWI","PRWI"
+"PRWI",14,"Seedling Density","Native Canopy 
+ Trends","signdec_bad",5,"Probable Failure","Seedling Density","PRWI","PRWI"
+"PRWI",15,"Stocking Index","Native Canopy 
+ Trends","signdec_bad",5,"Probable Failure","Stocking Index","PRWI","PRWI"
+"PRWI",16,"Tree BA","Native Subcan. 
+ Trends","nonsign",5,"Probable Failure","Tree BA","PRWI","PRWI"
+"PRWI",17,"Tree Density","Native Subcan. 
+ Trends","nonsign",5,"Probable Failure","Tree Density","PRWI","PRWI"
+"PRWI",18,"Sapling BA","Native Subcan. 
+ Trends","nonsign",5,"Probable Failure","Sapling BA","PRWI","PRWI"
+"PRWI",19,"Sapling Density","Native Subcan. 
+ Trends","signdec_bad",5,"Probable Failure","Sapling Density","PRWI","PRWI"
+"PRWI",20,"Seedling Density","Native Subcan. 
+ Trends","nonsign",5,"Probable Failure","Seedling Density","PRWI","PRWI"
+"PRWI",21,"Tree BA","Exotic 
+ Trends","notmod",5,"Probable Failure","Tree BA","PRWI","PRWI"
+"PRWI",22,"Tree Density","Exotic 
+ Trends","notmod",5,"Probable Failure","Tree Density","PRWI","PRWI"
+"PRWI",23,"Sapling BA","Exotic 
+ Trends","notmod",5,"Probable Failure","Sapling BA","PRWI","PRWI"
+"PRWI",24,"Sapling Density","Exotic 
+ Trends","notmod",5,"Probable Failure","Sapling Density","PRWI","PRWI"
+"PRWI",25,"Seedling Density","Exotic 
+ Trends","notmod",5,"Probable Failure","Seedling Density","PRWI","PRWI"
+"ANTI",1,"Sapling Density","Regen. Status","critical",4,"Probable Failure","Sapling Density","ANTI*","ANTI*"
+"ANTI",2,"Seedling Density","Regen. Status","caution",4,"Probable Failure","Seedling Density","ANTI*","ANTI*"
+"ANTI",3,"% Stocked Plots","Regen. Status","critical",4,"Probable Failure","% Stocked Plots","ANTI*","ANTI*"
+"ANTI",4,"Stocking Index","Regen. Status","critical",4,"Probable Failure","Stocking Index","ANTI*","ANTI*"
+"ANTI",9,"Deer Browse Impacts","Regen. Status","caution",4,"Probable Failure","Deer Browse Impacts","ANTI*","ANTI*"
+"ANTI",10,"Flat Tree Diam. Dist.","Regen. Status","acceptable",4,"Probable Failure","Flat Tree Diam. Dist.","ANTI*","ANTI*"
+"ANTI",5,"Sapling Composition","Regen. Status","critical",4,"Probable Failure","Sapling Composition","ANTI*","ANTI*"
+"ANTI",6,"Seedling Composition","Regen. Status","caution",4,"Probable Failure","Seedling Composition","ANTI*","ANTI*"
+"ANTI",7,"Sorensen Sapling","Regen. Status","acceptable",4,"Probable Failure","Sorensen Sapling","ANTI*","ANTI*"
+"ANTI",8,"Sorensen Seedling","Regen. Status","acceptable",4,"Probable Failure","Sorensen Seedling","ANTI*","ANTI*"
+"ANTI",10,"Tree BA","Native Canopy 
+ Trends","signinc_good",4,"Probable Failure","Tree BA","ANTI*","ANTI*"
+"ANTI",11,"Tree Density","Native Canopy 
+ Trends","signinc_good",4,"Probable Failure","Tree Density","ANTI*","ANTI*"
+"ANTI",12,"Sapling BA","Native Canopy 
+ Trends","nonsign",4,"Probable Failure","Sapling BA","ANTI*","ANTI*"
+"ANTI",13,"Sapling Density","Native Canopy 
+ Trends","signdec_bad",4,"Probable Failure","Sapling Density","ANTI*","ANTI*"
+"ANTI",14,"Seedling Density","Native Canopy 
+ Trends","nonsign",4,"Probable Failure","Seedling Density","ANTI*","ANTI*"
+"ANTI",15,"Stocking Index","Native Canopy 
+ Trends","nonsign",4,"Probable Failure","Stocking Index","ANTI*","ANTI*"
+"ANTI",16,"Tree BA","Native Subcan. 
+ Trends","signdec_bad",4,"Probable Failure","Tree BA","ANTI*","ANTI*"
+"ANTI",17,"Tree Density","Native Subcan. 
+ Trends","nonsign",4,"Probable Failure","Tree Density","ANTI*","ANTI*"
+"ANTI",18,"Sapling BA","Native Subcan. 
+ Trends","nonsign",4,"Probable Failure","Sapling BA","ANTI*","ANTI*"
+"ANTI",19,"Sapling Density","Native Subcan. 
+ Trends","nonsign",4,"Probable Failure","Sapling Density","ANTI*","ANTI*"
+"ANTI",20,"Seedling Density","Native Subcan. 
+ Trends","signinc_good",4,"Probable Failure","Seedling Density","ANTI*","ANTI*"
+"ANTI",21,"Tree BA","Exotic 
+ Trends","nonsign",4,"Probable Failure","Tree BA","ANTI*","ANTI*"
+"ANTI",22,"Tree Density","Exotic 
+ Trends","signdec_good",4,"Probable Failure","Tree Density","ANTI*","ANTI*"
+"ANTI",23,"Sapling BA","Exotic 
+ Trends","nonsign",4,"Probable Failure","Sapling BA","ANTI*","ANTI*"
+"ANTI",24,"Sapling Density","Exotic 
+ Trends","signdec_good",4,"Probable Failure","Sapling Density","ANTI*","ANTI*"
+"ANTI",25,"Seedling Density","Exotic 
+ Trends","nonsign",4,"Probable Failure","Seedling Density","ANTI*","ANTI*"
+"DEWA",1,"Sapling Density","Regen. Status","critical",4,"Probable Failure","Sapling Density","DEWA","DEWA"
+"DEWA",2,"Seedling Density","Regen. Status","caution",4,"Probable Failure","Seedling Density","DEWA","DEWA"
+"DEWA",3,"% Stocked Plots","Regen. Status","critical",4,"Probable Failure","% Stocked Plots","DEWA","DEWA"
+"DEWA",4,"Stocking Index","Regen. Status","caution",4,"Probable Failure","Stocking Index","DEWA","DEWA"
+"DEWA",9,"Deer Browse Impacts","Regen. Status","caution",4,"Probable Failure","Deer Browse Impacts","DEWA","DEWA"
+"DEWA",10,"Flat Tree Diam. Dist.","Regen. Status","acceptable",4,"Probable Failure","Flat Tree Diam. Dist.","DEWA","DEWA"
+"DEWA",5,"Sapling Composition","Regen. Status","critical",4,"Probable Failure","Sapling Composition","DEWA","DEWA"
+"DEWA",6,"Seedling Composition","Regen. Status","caution",4,"Probable Failure","Seedling Composition","DEWA","DEWA"
+"DEWA",7,"Sorensen Sapling","Regen. Status","critical",4,"Probable Failure","Sorensen Sapling","DEWA","DEWA"
+"DEWA",8,"Sorensen Seedling","Regen. Status","acceptable",4,"Probable Failure","Sorensen Seedling","DEWA","DEWA"
+"DEWA",10,"Tree BA","Native Canopy 
+ Trends","nonsign",4,"Probable Failure","Tree BA","DEWA","DEWA"
+"DEWA",11,"Tree Density","Native Canopy 
+ Trends","signdec_bad",4,"Probable Failure","Tree Density","DEWA","DEWA"
+"DEWA",12,"Sapling BA","Native Canopy 
+ Trends","signdec_bad",4,"Probable Failure","Sapling BA","DEWA","DEWA"
+"DEWA",13,"Sapling Density","Native Canopy 
+ Trends","nonsign",4,"Probable Failure","Sapling Density","DEWA","DEWA"
+"DEWA",14,"Seedling Density","Native Canopy 
+ Trends","signinc_good",4,"Probable Failure","Seedling Density","DEWA","DEWA"
+"DEWA",15,"Stocking Index","Native Canopy 
+ Trends","signinc_good",4,"Probable Failure","Stocking Index","DEWA","DEWA"
+"DEWA",16,"Tree BA","Native Subcan. 
+ Trends","nonsign",4,"Probable Failure","Tree BA","DEWA","DEWA"
+"DEWA",17,"Tree Density","Native Subcan. 
+ Trends","signdec_bad",4,"Probable Failure","Tree Density","DEWA","DEWA"
+"DEWA",18,"Sapling BA","Native Subcan. 
+ Trends","nonsign",4,"Probable Failure","Sapling BA","DEWA","DEWA"
+"DEWA",19,"Sapling Density","Native Subcan. 
+ Trends","nonsign",4,"Probable Failure","Sapling Density","DEWA","DEWA"
+"DEWA",20,"Seedling Density","Native Subcan. 
+ Trends","signinc_good",4,"Probable Failure","Seedling Density","DEWA","DEWA"
+"DEWA",21,"Tree BA","Exotic 
+ Trends","notmod",4,"Probable Failure","Tree BA","DEWA","DEWA"
+"DEWA",22,"Tree Density","Exotic 
+ Trends","notmod",4,"Probable Failure","Tree Density","DEWA","DEWA"
+"DEWA",23,"Sapling BA","Exotic 
+ Trends","notmod",4,"Probable Failure","Sapling BA","DEWA","DEWA"
+"DEWA",24,"Sapling Density","Exotic 
+ Trends","notmod",4,"Probable Failure","Sapling Density","DEWA","DEWA"
+"DEWA",25,"Seedling Density","Exotic 
+ Trends","notmod",4,"Probable Failure","Seedling Density","DEWA","DEWA"
+"JOFL",1,"Sapling Density","Regen. Status","critical",4,"Probable Failure","Sapling Density","JOFL","JOFL"
+"JOFL",2,"Seedling Density","Regen. Status","caution",4,"Probable Failure","Seedling Density","JOFL","JOFL"
+"JOFL",3,"% Stocked Plots","Regen. Status","critical",4,"Probable Failure","% Stocked Plots","JOFL","JOFL"
+"JOFL",4,"Stocking Index","Regen. Status","critical",4,"Probable Failure","Stocking Index","JOFL","JOFL"
+"JOFL",9,"Deer Browse Impacts","Regen. Status","caution",4,"Probable Failure","Deer Browse Impacts","JOFL","JOFL"
+"JOFL",10,"Flat Tree Diam. Dist.","Regen. Status","acceptable",4,"Probable Failure","Flat Tree Diam. Dist.","JOFL","JOFL"
+"JOFL",5,"Sapling Composition","Regen. Status","caution",4,"Probable Failure","Sapling Composition","JOFL","JOFL"
+"JOFL",6,"Seedling Composition","Regen. Status","critical",4,"Probable Failure","Seedling Composition","JOFL","JOFL"
+"JOFL",7,"Sorensen Sapling","Regen. Status","acceptable",4,"Probable Failure","Sorensen Sapling","JOFL","JOFL"
+"JOFL",8,"Sorensen Seedling","Regen. Status","acceptable",4,"Probable Failure","Sorensen Seedling","JOFL","JOFL"
+"JOFL",10,"Tree BA","Native Canopy 
+ Trends","signinc_good",4,"Probable Failure","Tree BA","JOFL","JOFL"
+"JOFL",11,"Tree Density","Native Canopy 
+ Trends","nonsign",4,"Probable Failure","Tree Density","JOFL","JOFL"
+"JOFL",12,"Sapling BA","Native Canopy 
+ Trends","nonsign",4,"Probable Failure","Sapling BA","JOFL","JOFL"
+"JOFL",13,"Sapling Density","Native Canopy 
+ Trends","nonsign",4,"Probable Failure","Sapling Density","JOFL","JOFL"
+"JOFL",14,"Seedling Density","Native Canopy 
+ Trends","signdec_bad",4,"Probable Failure","Seedling Density","JOFL","JOFL"
+"JOFL",15,"Stocking Index","Native Canopy 
+ Trends","signdec_bad",4,"Probable Failure","Stocking Index","JOFL","JOFL"
+"JOFL",16,"Tree BA","Native Subcan. 
+ Trends","nonsign",4,"Probable Failure","Tree BA","JOFL","JOFL"
+"JOFL",17,"Tree Density","Native Subcan. 
+ Trends","signdec_bad",4,"Probable Failure","Tree Density","JOFL","JOFL"
+"JOFL",18,"Sapling BA","Native Subcan. 
+ Trends","nonsign",4,"Probable Failure","Sapling BA","JOFL","JOFL"
+"JOFL",19,"Sapling Density","Native Subcan. 
+ Trends","nonsign",4,"Probable Failure","Sapling Density","JOFL","JOFL"
+"JOFL",20,"Seedling Density","Native Subcan. 
+ Trends","nonsign",4,"Probable Failure","Seedling Density","JOFL","JOFL"
+"JOFL",21,"Tree BA","Exotic 
+ Trends","nonsign",4,"Probable Failure","Tree BA","JOFL","JOFL"
+"JOFL",22,"Tree Density","Exotic 
+ Trends","nonsign",4,"Probable Failure","Tree Density","JOFL","JOFL"
+"JOFL",23,"Sapling BA","Exotic 
+ Trends","nonsign",4,"Probable Failure","Sapling BA","JOFL","JOFL"
+"JOFL",24,"Sapling Density","Exotic 
+ Trends","nonsign",4,"Probable Failure","Sapling Density","JOFL","JOFL"
+"JOFL",25,"Seedling Density","Exotic 
+ Trends","nonsign",4,"Probable Failure","Seedling Density","JOFL","JOFL"
+"MABI",1,"Sapling Density","Regen. Status","critical",4,"Probable Failure","Sapling Density","MABI","MABI"
+"MABI",2,"Seedling Density","Regen. Status","caution",4,"Probable Failure","Seedling Density","MABI","MABI"
+"MABI",3,"% Stocked Plots","Regen. Status","critical",4,"Probable Failure","% Stocked Plots","MABI","MABI"
+"MABI",4,"Stocking Index","Regen. Status","caution",4,"Probable Failure","Stocking Index","MABI","MABI"
+"MABI",9,"Deer Browse Impacts","Regen. Status","caution",4,"Probable Failure","Deer Browse Impacts","MABI","MABI"
+"MABI",10,"Flat Tree Diam. Dist.","Regen. Status","acceptable",4,"Probable Failure","Flat Tree Diam. Dist.","MABI","MABI"
+"MABI",5,"Sapling Composition","Regen. Status","critical",4,"Probable Failure","Sapling Composition","MABI","MABI"
+"MABI",6,"Seedling Composition","Regen. Status","critical",4,"Probable Failure","Seedling Composition","MABI","MABI"
+"MABI",7,"Sorensen Sapling","Regen. Status","acceptable",4,"Probable Failure","Sorensen Sapling","MABI","MABI"
+"MABI",8,"Sorensen Seedling","Regen. Status","acceptable",4,"Probable Failure","Sorensen Seedling","MABI","MABI"
+"MABI",10,"Tree BA","Native Canopy 
+ Trends","signdec_bad",4,"Probable Failure","Tree BA","MABI","MABI"
+"MABI",11,"Tree Density","Native Canopy 
+ Trends","signdec_bad",4,"Probable Failure","Tree Density","MABI","MABI"
+"MABI",12,"Sapling BA","Native Canopy 
+ Trends","nonsign",4,"Probable Failure","Sapling BA","MABI","MABI"
+"MABI",13,"Sapling Density","Native Canopy 
+ Trends","nonsign",4,"Probable Failure","Sapling Density","MABI","MABI"
+"MABI",14,"Seedling Density","Native Canopy 
+ Trends","nonsign",4,"Probable Failure","Seedling Density","MABI","MABI"
+"MABI",15,"Stocking Index","Native Canopy 
+ Trends","signinc_good",4,"Probable Failure","Stocking Index","MABI","MABI"
+"MABI",16,"Tree BA","Native Subcan. 
+ Trends","nonsign",4,"Probable Failure","Tree BA","MABI","MABI"
+"MABI",17,"Tree Density","Native Subcan. 
+ Trends","nonsign",4,"Probable Failure","Tree Density","MABI","MABI"
+"MABI",18,"Sapling BA","Native Subcan. 
+ Trends","nonsign",4,"Probable Failure","Sapling BA","MABI","MABI"
+"MABI",19,"Sapling Density","Native Subcan. 
+ Trends","nonsign",4,"Probable Failure","Sapling Density","MABI","MABI"
+"MABI",20,"Seedling Density","Native Subcan. 
+ Trends","signinc_good",4,"Probable Failure","Seedling Density","MABI","MABI"
+"MABI",21,"Tree BA","Exotic 
+ Trends","nonsign",4,"Probable Failure","Tree BA","MABI","MABI"
+"MABI",22,"Tree Density","Exotic 
+ Trends","signdec_good",4,"Probable Failure","Tree Density","MABI","MABI"
+"MABI",23,"Sapling BA","Exotic 
+ Trends","notmod",4,"Probable Failure","Sapling BA","MABI","MABI"
+"MABI",24,"Sapling Density","Exotic 
+ Trends","notmod",4,"Probable Failure","Sapling Density","MABI","MABI"
+"MABI",25,"Seedling Density","Exotic 
+ Trends","notmod",4,"Probable Failure","Seedling Density","MABI","MABI"
+"MONO",1,"Sapling Density","Regen. Status","critical",4,"Probable Failure","Sapling Density","MONO*","MONO*"
+"MONO",2,"Seedling Density","Regen. Status","caution",4,"Probable Failure","Seedling Density","MONO*","MONO*"
+"MONO",3,"% Stocked Plots","Regen. Status","critical",4,"Probable Failure","% Stocked Plots","MONO*","MONO*"
+"MONO",4,"Stocking Index","Regen. Status","caution",4,"Probable Failure","Stocking Index","MONO*","MONO*"
+"MONO",9,"Deer Browse Impacts","Regen. Status","critical",4,"Probable Failure","Deer Browse Impacts","MONO*","MONO*"
+"MONO",10,"Flat Tree Diam. Dist.","Regen. Status","acceptable",4,"Probable Failure","Flat Tree Diam. Dist.","MONO*","MONO*"
+"MONO",5,"Sapling Composition","Regen. Status","critical",4,"Probable Failure","Sapling Composition","MONO*","MONO*"
+"MONO",6,"Seedling Composition","Regen. Status","caution",4,"Probable Failure","Seedling Composition","MONO*","MONO*"
+"MONO",7,"Sorensen Sapling","Regen. Status","acceptable",4,"Probable Failure","Sorensen Sapling","MONO*","MONO*"
+"MONO",8,"Sorensen Seedling","Regen. Status","acceptable",4,"Probable Failure","Sorensen Seedling","MONO*","MONO*"
+"MONO",10,"Tree BA","Native Canopy 
+ Trends","nonsign",4,"Probable Failure","Tree BA","MONO*","MONO*"
+"MONO",11,"Tree Density","Native Canopy 
+ Trends","nonsign",4,"Probable Failure","Tree Density","MONO*","MONO*"
+"MONO",12,"Sapling BA","Native Canopy 
+ Trends","nonsign",4,"Probable Failure","Sapling BA","MONO*","MONO*"
+"MONO",13,"Sapling Density","Native Canopy 
+ Trends","nonsign",4,"Probable Failure","Sapling Density","MONO*","MONO*"
+"MONO",14,"Seedling Density","Native Canopy 
+ Trends","nonsign",4,"Probable Failure","Seedling Density","MONO*","MONO*"
+"MONO",15,"Stocking Index","Native Canopy 
+ Trends","nonsign",4,"Probable Failure","Stocking Index","MONO*","MONO*"
+"MONO",16,"Tree BA","Native Subcan. 
+ Trends","nonsign",4,"Probable Failure","Tree BA","MONO*","MONO*"
+"MONO",17,"Tree Density","Native Subcan. 
+ Trends","signdec_bad",4,"Probable Failure","Tree Density","MONO*","MONO*"
+"MONO",18,"Sapling BA","Native Subcan. 
+ Trends","signinc_good",4,"Probable Failure","Sapling BA","MONO*","MONO*"
+"MONO",19,"Sapling Density","Native Subcan. 
+ Trends","nonsign",4,"Probable Failure","Sapling Density","MONO*","MONO*"
+"MONO",20,"Seedling Density","Native Subcan. 
+ Trends","nonsign",4,"Probable Failure","Seedling Density","MONO*","MONO*"
+"MONO",21,"Tree BA","Exotic 
+ Trends","nonsign",4,"Probable Failure","Tree BA","MONO*","MONO*"
+"MONO",22,"Tree Density","Exotic 
+ Trends","signdec_good",4,"Probable Failure","Tree Density","MONO*","MONO*"
+"MONO",23,"Sapling BA","Exotic 
+ Trends","notmod",4,"Probable Failure","Sapling BA","MONO*","MONO*"
+"MONO",24,"Sapling Density","Exotic 
+ Trends","notmod",4,"Probable Failure","Sapling Density","MONO*","MONO*"
+"MONO",25,"Seedling Density","Exotic 
+ Trends","signinc_bad",4,"Probable Failure","Seedling Density","MONO*","MONO*"
+"ROCR",1,"Sapling Density","Regen. Status","critical",4,"Probable Failure","Sapling Density","ROCR*","ROCR*"
+"ROCR",2,"Seedling Density","Regen. Status","caution",4,"Probable Failure","Seedling Density","ROCR*","ROCR*"
+"ROCR",3,"% Stocked Plots","Regen. Status","critical",4,"Probable Failure","% Stocked Plots","ROCR*","ROCR*"
+"ROCR",4,"Stocking Index","Regen. Status","caution",4,"Probable Failure","Stocking Index","ROCR*","ROCR*"
+"ROCR",9,"Deer Browse Impacts","Regen. Status","critical",4,"Probable Failure","Deer Browse Impacts","ROCR*","ROCR*"
+"ROCR",10,"Flat Tree Diam. Dist.","Regen. Status","acceptable",4,"Probable Failure","Flat Tree Diam. Dist.","ROCR*","ROCR*"
+"ROCR",5,"Sapling Composition","Regen. Status","acceptable",4,"Probable Failure","Sapling Composition","ROCR*","ROCR*"
+"ROCR",6,"Seedling Composition","Regen. Status","caution",4,"Probable Failure","Seedling Composition","ROCR*","ROCR*"
+"ROCR",7,"Sorensen Sapling","Regen. Status","acceptable",4,"Probable Failure","Sorensen Sapling","ROCR*","ROCR*"
+"ROCR",8,"Sorensen Seedling","Regen. Status","critical",4,"Probable Failure","Sorensen Seedling","ROCR*","ROCR*"
+"ROCR",10,"Tree BA","Native Canopy 
+ Trends","nonsign",4,"Probable Failure","Tree BA","ROCR*","ROCR*"
+"ROCR",11,"Tree Density","Native Canopy 
+ Trends","nonsign",4,"Probable Failure","Tree Density","ROCR*","ROCR*"
+"ROCR",12,"Sapling BA","Native Canopy 
+ Trends","nonsign",4,"Probable Failure","Sapling BA","ROCR*","ROCR*"
+"ROCR",13,"Sapling Density","Native Canopy 
+ Trends","signdec_bad",4,"Probable Failure","Sapling Density","ROCR*","ROCR*"
+"ROCR",14,"Seedling Density","Native Canopy 
+ Trends","nonsign",4,"Probable Failure","Seedling Density","ROCR*","ROCR*"
+"ROCR",15,"Stocking Index","Native Canopy 
+ Trends","nonsign",4,"Probable Failure","Stocking Index","ROCR*","ROCR*"
+"ROCR",16,"Tree BA","Native Subcan. 
+ Trends","nonsign",4,"Probable Failure","Tree BA","ROCR*","ROCR*"
+"ROCR",17,"Tree Density","Native Subcan. 
+ Trends","nonsign",4,"Probable Failure","Tree Density","ROCR*","ROCR*"
+"ROCR",18,"Sapling BA","Native Subcan. 
+ Trends","nonsign",4,"Probable Failure","Sapling BA","ROCR*","ROCR*"
+"ROCR",19,"Sapling Density","Native Subcan. 
+ Trends","nonsign",4,"Probable Failure","Sapling Density","ROCR*","ROCR*"
+"ROCR",20,"Seedling Density","Native Subcan. 
+ Trends","nonsign",4,"Probable Failure","Seedling Density","ROCR*","ROCR*"
+"ROCR",21,"Tree BA","Exotic 
+ Trends","nonsign",4,"Probable Failure","Tree BA","ROCR*","ROCR*"
+"ROCR",22,"Tree Density","Exotic 
+ Trends","nonsign",4,"Probable Failure","Tree Density","ROCR*","ROCR*"
+"ROCR",23,"Sapling BA","Exotic 
+ Trends","nonsign",4,"Probable Failure","Sapling BA","ROCR*","ROCR*"
+"ROCR",24,"Sapling Density","Exotic 
+ Trends","signdec_good",4,"Probable Failure","Sapling Density","ROCR*","ROCR*"
+"ROCR",25,"Seedling Density","Exotic 
+ Trends","notmod",4,"Probable Failure","Seedling Density","ROCR*","ROCR*"
+"WEFA",1,"Sapling Density","Regen. Status","critical",4,"Probable Failure","Sapling Density","WEFA","WEFA"
+"WEFA",2,"Seedling Density","Regen. Status","caution",4,"Probable Failure","Seedling Density","WEFA","WEFA"
+"WEFA",3,"% Stocked Plots","Regen. Status","critical",4,"Probable Failure","% Stocked Plots","WEFA","WEFA"
+"WEFA",4,"Stocking Index","Regen. Status","critical",4,"Probable Failure","Stocking Index","WEFA","WEFA"
+"WEFA",9,"Deer Browse Impacts","Regen. Status","caution",4,"Probable Failure","Deer Browse Impacts","WEFA","WEFA"
+"WEFA",10,"Flat Tree Diam. Dist.","Regen. Status","acceptable",4,"Probable Failure","Flat Tree Diam. Dist.","WEFA","WEFA"
+"WEFA",5,"Sapling Composition","Regen. Status","caution",4,"Probable Failure","Sapling Composition","WEFA","WEFA"
+"WEFA",6,"Seedling Composition","Regen. Status","caution",4,"Probable Failure","Seedling Composition","WEFA","WEFA"
+"WEFA",7,"Sorensen Sapling","Regen. Status","critical",4,"Probable Failure","Sorensen Sapling","WEFA","WEFA"
+"WEFA",8,"Sorensen Seedling","Regen. Status","acceptable",4,"Probable Failure","Sorensen Seedling","WEFA","WEFA"
+"WEFA",10,"Tree BA","Native Canopy 
+ Trends","signinc_good",4,"Probable Failure","Tree BA","WEFA","WEFA"
+"WEFA",11,"Tree Density","Native Canopy 
+ Trends","signdec_bad",4,"Probable Failure","Tree Density","WEFA","WEFA"
+"WEFA",12,"Sapling BA","Native Canopy 
+ Trends","nonsign",4,"Probable Failure","Sapling BA","WEFA","WEFA"
+"WEFA",13,"Sapling Density","Native Canopy 
+ Trends","signdec_bad",4,"Probable Failure","Sapling Density","WEFA","WEFA"
+"WEFA",14,"Seedling Density","Native Canopy 
+ Trends","signinc_good",4,"Probable Failure","Seedling Density","WEFA","WEFA"
+"WEFA",15,"Stocking Index","Native Canopy 
+ Trends","nonsign",4,"Probable Failure","Stocking Index","WEFA","WEFA"
+"WEFA",16,"Tree BA","Native Subcan. 
+ Trends","nonsign",4,"Probable Failure","Tree BA","WEFA","WEFA"
+"WEFA",17,"Tree Density","Native Subcan. 
+ Trends","signdec_bad",4,"Probable Failure","Tree Density","WEFA","WEFA"
+"WEFA",18,"Sapling BA","Native Subcan. 
+ Trends","notmod",4,"Probable Failure","Sapling BA","WEFA","WEFA"
+"WEFA",19,"Sapling Density","Native Subcan. 
+ Trends","notmod",4,"Probable Failure","Sapling Density","WEFA","WEFA"
+"WEFA",20,"Seedling Density","Native Subcan. 
+ Trends","signinc_good",4,"Probable Failure","Seedling Density","WEFA","WEFA"
+"WEFA",21,"Tree BA","Exotic 
+ Trends","notmod",4,"Probable Failure","Tree BA","WEFA","WEFA"
+"WEFA",22,"Tree Density","Exotic 
+ Trends","notmod",4,"Probable Failure","Tree Density","WEFA","WEFA"
+"WEFA",23,"Sapling BA","Exotic 
+ Trends","notmod",4,"Probable Failure","Sapling BA","WEFA","WEFA"
+"WEFA",24,"Sapling Density","Exotic 
+ Trends","notmod",4,"Probable Failure","Sapling Density","WEFA","WEFA"
+"WEFA",25,"Seedling Density","Exotic 
+ Trends","notmod",4,"Probable Failure","Seedling Density","WEFA","WEFA"
+"BOWA",1,"Sapling Density","Regen. Status","critical",3,"Insecure","Sapling Density","BOWA","BOWA"
+"BOWA",2,"Seedling Density","Regen. Status","caution",3,"Insecure","Seedling Density","BOWA","BOWA"
+"BOWA",3,"% Stocked Plots","Regen. Status","critical",3,"Insecure","% Stocked Plots","BOWA","BOWA"
+"BOWA",4,"Stocking Index","Regen. Status","caution",3,"Insecure","Stocking Index","BOWA","BOWA"
+"BOWA",9,"Deer Browse Impacts","Regen. Status","caution",3,"Insecure","Deer Browse Impacts","BOWA","BOWA"
+"BOWA",10,"Flat Tree Diam. Dist.","Regen. Status","acceptable",3,"Insecure","Flat Tree Diam. Dist.","BOWA","BOWA"
+"BOWA",5,"Sapling Composition","Regen. Status","critical",3,"Insecure","Sapling Composition","BOWA","BOWA"
+"BOWA",6,"Seedling Composition","Regen. Status","caution",3,"Insecure","Seedling Composition","BOWA","BOWA"
+"BOWA",7,"Sorensen Sapling","Regen. Status","acceptable",3,"Insecure","Sorensen Sapling","BOWA","BOWA"
+"BOWA",8,"Sorensen Seedling","Regen. Status","acceptable",3,"Insecure","Sorensen Seedling","BOWA","BOWA"
+"BOWA",10,"Tree BA","Native Canopy 
+ Trends","nonsign",3,"Insecure","Tree BA","BOWA","BOWA"
+"BOWA",11,"Tree Density","Native Canopy 
+ Trends","nonsign",3,"Insecure","Tree Density","BOWA","BOWA"
+"BOWA",12,"Sapling BA","Native Canopy 
+ Trends","nonsign",3,"Insecure","Sapling BA","BOWA","BOWA"
+"BOWA",13,"Sapling Density","Native Canopy 
+ Trends","nonsign",3,"Insecure","Sapling Density","BOWA","BOWA"
+"BOWA",14,"Seedling Density","Native Canopy 
+ Trends","nonsign",3,"Insecure","Seedling Density","BOWA","BOWA"
+"BOWA",15,"Stocking Index","Native Canopy 
+ Trends","signdec_bad",3,"Insecure","Stocking Index","BOWA","BOWA"
+"BOWA",16,"Tree BA","Native Subcan. 
+ Trends","nonsign",3,"Insecure","Tree BA","BOWA","BOWA"
+"BOWA",17,"Tree Density","Native Subcan. 
+ Trends","nonsign",3,"Insecure","Tree Density","BOWA","BOWA"
+"BOWA",18,"Sapling BA","Native Subcan. 
+ Trends","nonsign",3,"Insecure","Sapling BA","BOWA","BOWA"
+"BOWA",19,"Sapling Density","Native Subcan. 
+ Trends","signdec_bad",3,"Insecure","Sapling Density","BOWA","BOWA"
+"BOWA",20,"Seedling Density","Native Subcan. 
+ Trends","nonsign",3,"Insecure","Seedling Density","BOWA","BOWA"
+"BOWA",21,"Tree BA","Exotic 
+ Trends","notmod",3,"Insecure","Tree BA","BOWA","BOWA"
+"BOWA",22,"Tree Density","Exotic 
+ Trends","notmod",3,"Insecure","Tree Density","BOWA","BOWA"
+"BOWA",23,"Sapling BA","Exotic 
+ Trends","notmod",3,"Insecure","Sapling BA","BOWA","BOWA"
+"BOWA",24,"Sapling Density","Exotic 
+ Trends","notmod",3,"Insecure","Sapling Density","BOWA","BOWA"
+"BOWA",25,"Seedling Density","Exotic 
+ Trends","nonsign",3,"Insecure","Seedling Density","BOWA","BOWA"
+"NACE",1,"Sapling Density","Regen. Status","critical",3,"Insecure","Sapling Density","NACE","NACE"
+"NACE",2,"Seedling Density","Regen. Status","caution",3,"Insecure","Seedling Density","NACE","NACE"
+"NACE",3,"% Stocked Plots","Regen. Status","critical",3,"Insecure","% Stocked Plots","NACE","NACE"
+"NACE",4,"Stocking Index","Regen. Status","caution",3,"Insecure","Stocking Index","NACE","NACE"
+"NACE",9,"Deer Browse Impacts","Regen. Status","caution",3,"Insecure","Deer Browse Impacts","NACE","NACE"
+"NACE",10,"Flat Tree Diam. Dist.","Regen. Status","acceptable",3,"Insecure","Flat Tree Diam. Dist.","NACE","NACE"
+"NACE",5,"Sapling Composition","Regen. Status","caution",3,"Insecure","Sapling Composition","NACE","NACE"
+"NACE",6,"Seedling Composition","Regen. Status","critical",3,"Insecure","Seedling Composition","NACE","NACE"
+"NACE",7,"Sorensen Sapling","Regen. Status","acceptable",3,"Insecure","Sorensen Sapling","NACE","NACE"
+"NACE",8,"Sorensen Seedling","Regen. Status","acceptable",3,"Insecure","Sorensen Seedling","NACE","NACE"
+"NACE",10,"Tree BA","Native Canopy 
+ Trends","nonsign",3,"Insecure","Tree BA","NACE","NACE"
+"NACE",11,"Tree Density","Native Canopy 
+ Trends","nonsign",3,"Insecure","Tree Density","NACE","NACE"
+"NACE",12,"Sapling BA","Native Canopy 
+ Trends","nonsign",3,"Insecure","Sapling BA","NACE","NACE"
+"NACE",13,"Sapling Density","Native Canopy 
+ Trends","nonsign",3,"Insecure","Sapling Density","NACE","NACE"
+"NACE",14,"Seedling Density","Native Canopy 
+ Trends","nonsign",3,"Insecure","Seedling Density","NACE","NACE"
+"NACE",15,"Stocking Index","Native Canopy 
+ Trends","nonsign",3,"Insecure","Stocking Index","NACE","NACE"
+"NACE",16,"Tree BA","Native Subcan. 
+ Trends","signdec_bad",3,"Insecure","Tree BA","NACE","NACE"
+"NACE",17,"Tree Density","Native Subcan. 
+ Trends","nonsign",3,"Insecure","Tree Density","NACE","NACE"
+"NACE",18,"Sapling BA","Native Subcan. 
+ Trends","signinc_good",3,"Insecure","Sapling BA","NACE","NACE"
+"NACE",19,"Sapling Density","Native Subcan. 
+ Trends","nonsign",3,"Insecure","Sapling Density","NACE","NACE"
+"NACE",20,"Seedling Density","Native Subcan. 
+ Trends","nonsign",3,"Insecure","Seedling Density","NACE","NACE"
+"NACE",21,"Tree BA","Exotic 
+ Trends","nonsign",3,"Insecure","Tree BA","NACE","NACE"
+"NACE",22,"Tree Density","Exotic 
+ Trends","nonsign",3,"Insecure","Tree Density","NACE","NACE"
+"NACE",23,"Sapling BA","Exotic 
+ Trends","nonsign",3,"Insecure","Sapling BA","NACE","NACE"
+"NACE",24,"Sapling Density","Exotic 
+ Trends","nonsign",3,"Insecure","Sapling Density","NACE","NACE"
+"NACE",25,"Seedling Density","Exotic 
+ Trends","signinc_bad",3,"Insecure","Seedling Density","NACE","NACE"
+"ROVA",1,"Sapling Density","Regen. Status","critical",3,"Insecure","Sapling Density","ROVA","ROVA"
+"ROVA",2,"Seedling Density","Regen. Status","caution",3,"Insecure","Seedling Density","ROVA","ROVA"
+"ROVA",3,"% Stocked Plots","Regen. Status","critical",3,"Insecure","% Stocked Plots","ROVA","ROVA"
+"ROVA",4,"Stocking Index","Regen. Status","critical",3,"Insecure","Stocking Index","ROVA","ROVA"
+"ROVA",9,"Deer Browse Impacts","Regen. Status","caution",3,"Insecure","Deer Browse Impacts","ROVA","ROVA"
+"ROVA",10,"Flat Tree Diam. Dist.","Regen. Status","acceptable",3,"Insecure","Flat Tree Diam. Dist.","ROVA","ROVA"
+"ROVA",5,"Sapling Composition","Regen. Status","caution",3,"Insecure","Sapling Composition","ROVA","ROVA"
+"ROVA",6,"Seedling Composition","Regen. Status","caution",3,"Insecure","Seedling Composition","ROVA","ROVA"
+"ROVA",7,"Sorensen Sapling","Regen. Status","acceptable",3,"Insecure","Sorensen Sapling","ROVA","ROVA"
+"ROVA",8,"Sorensen Seedling","Regen. Status","acceptable",3,"Insecure","Sorensen Seedling","ROVA","ROVA"
+"ROVA",10,"Tree BA","Native Canopy 
+ Trends","signinc_good",3,"Insecure","Tree BA","ROVA","ROVA"
+"ROVA",11,"Tree Density","Native Canopy 
+ Trends","nonsign",3,"Insecure","Tree Density","ROVA","ROVA"
+"ROVA",12,"Sapling BA","Native Canopy 
+ Trends","nonsign",3,"Insecure","Sapling BA","ROVA","ROVA"
+"ROVA",13,"Sapling Density","Native Canopy 
+ Trends","signdec_bad",3,"Insecure","Sapling Density","ROVA","ROVA"
+"ROVA",14,"Seedling Density","Native Canopy 
+ Trends","signdec_bad",3,"Insecure","Seedling Density","ROVA","ROVA"
+"ROVA",15,"Stocking Index","Native Canopy 
+ Trends","signdec_bad",3,"Insecure","Stocking Index","ROVA","ROVA"
+"ROVA",16,"Tree BA","Native Subcan. 
+ Trends","signdec_bad",3,"Insecure","Tree BA","ROVA","ROVA"
+"ROVA",17,"Tree Density","Native Subcan. 
+ Trends","signdec_bad",3,"Insecure","Tree Density","ROVA","ROVA"
+"ROVA",18,"Sapling BA","Native Subcan. 
+ Trends","nonsign",3,"Insecure","Sapling BA","ROVA","ROVA"
+"ROVA",19,"Sapling Density","Native Subcan. 
+ Trends","nonsign",3,"Insecure","Sapling Density","ROVA","ROVA"
+"ROVA",20,"Seedling Density","Native Subcan. 
+ Trends","nonsign",3,"Insecure","Seedling Density","ROVA","ROVA"
+"ROVA",21,"Tree BA","Exotic 
+ Trends","nonsign",3,"Insecure","Tree BA","ROVA","ROVA"
+"ROVA",22,"Tree Density","Exotic 
+ Trends","nonsign",3,"Insecure","Tree Density","ROVA","ROVA"
+"ROVA",23,"Sapling BA","Exotic 
+ Trends","notmod",3,"Insecure","Sapling BA","ROVA","ROVA"
+"ROVA",24,"Sapling Density","Exotic 
+ Trends","notmod",3,"Insecure","Sapling Density","ROVA","ROVA"
+"ROVA",25,"Seedling Density","Exotic 
+ Trends","nonsign",3,"Insecure","Seedling Density","ROVA","ROVA"
+"SAGA",1,"Sapling Density","Regen. Status","critical",3,"Insecure","Sapling Density","SAGA","SAGA"
+"SAGA",2,"Seedling Density","Regen. Status","critical",3,"Insecure","Seedling Density","SAGA","SAGA"
+"SAGA",3,"% Stocked Plots","Regen. Status","critical",3,"Insecure","% Stocked Plots","SAGA","SAGA"
+"SAGA",4,"Stocking Index","Regen. Status","caution",3,"Insecure","Stocking Index","SAGA","SAGA"
+"SAGA",9,"Deer Browse Impacts","Regen. Status","caution",3,"Insecure","Deer Browse Impacts","SAGA","SAGA"
+"SAGA",10,"Flat Tree Diam. Dist.","Regen. Status","acceptable",3,"Insecure","Flat Tree Diam. Dist.","SAGA","SAGA"
+"SAGA",5,"Sapling Composition","Regen. Status","acceptable",3,"Insecure","Sapling Composition","SAGA","SAGA"
+"SAGA",6,"Seedling Composition","Regen. Status","caution",3,"Insecure","Seedling Composition","SAGA","SAGA"
+"SAGA",7,"Sorensen Sapling","Regen. Status","acceptable",3,"Insecure","Sorensen Sapling","SAGA","SAGA"
+"SAGA",8,"Sorensen Seedling","Regen. Status","acceptable",3,"Insecure","Sorensen Seedling","SAGA","SAGA"
+"SAGA",10,"Tree BA","Native Canopy 
+ Trends","nonsign",3,"Insecure","Tree BA","SAGA","SAGA"
+"SAGA",11,"Tree Density","Native Canopy 
+ Trends","signdec_bad",3,"Insecure","Tree Density","SAGA","SAGA"
+"SAGA",12,"Sapling BA","Native Canopy 
+ Trends","signinc_good",3,"Insecure","Sapling BA","SAGA","SAGA"
+"SAGA",13,"Sapling Density","Native Canopy 
+ Trends","nonsign",3,"Insecure","Sapling Density","SAGA","SAGA"
+"SAGA",14,"Seedling Density","Native Canopy 
+ Trends","nonsign",3,"Insecure","Seedling Density","SAGA","SAGA"
+"SAGA",15,"Stocking Index","Native Canopy 
+ Trends","signdec_bad",3,"Insecure","Stocking Index","SAGA","SAGA"
+"SAGA",16,"Tree BA","Native Subcan. 
+ Trends","nonsign",3,"Insecure","Tree BA","SAGA","SAGA"
+"SAGA",17,"Tree Density","Native Subcan. 
+ Trends","signdec_bad",3,"Insecure","Tree Density","SAGA","SAGA"
+"SAGA",18,"Sapling BA","Native Subcan. 
+ Trends","notmod",3,"Insecure","Sapling BA","SAGA","SAGA"
+"SAGA",19,"Sapling Density","Native Subcan. 
+ Trends","notmod",3,"Insecure","Sapling Density","SAGA","SAGA"
+"SAGA",20,"Seedling Density","Native Subcan. 
+ Trends","nonsign",3,"Insecure","Seedling Density","SAGA","SAGA"
+"SAGA",21,"Tree BA","Exotic 
+ Trends","notmod",3,"Insecure","Tree BA","SAGA","SAGA"
+"SAGA",22,"Tree Density","Exotic 
+ Trends","notmod",3,"Insecure","Tree Density","SAGA","SAGA"
+"SAGA",23,"Sapling BA","Exotic 
+ Trends","notmod",3,"Insecure","Sapling BA","SAGA","SAGA"
+"SAGA",24,"Sapling Density","Exotic 
+ Trends","notmod",3,"Insecure","Sapling Density","SAGA","SAGA"
+"SAGA",25,"Seedling Density","Exotic 
+ Trends","notmod",3,"Insecure","Seedling Density","SAGA","SAGA"
+"APCO",1,"Sapling Density","Regen. Status","caution",2,"Insecure","Sapling Density","APCO","APCO"
+"APCO",2,"Seedling Density","Regen. Status","caution",2,"Insecure","Seedling Density","APCO","APCO"
+"APCO",3,"% Stocked Plots","Regen. Status","critical",2,"Insecure","% Stocked Plots","APCO","APCO"
+"APCO",4,"Stocking Index","Regen. Status","caution",2,"Insecure","Stocking Index","APCO","APCO"
+"APCO",9,"Deer Browse Impacts","Regen. Status","caution",2,"Insecure","Deer Browse Impacts","APCO","APCO"
+"APCO",10,"Flat Tree Diam. Dist.","Regen. Status","acceptable",2,"Insecure","Flat Tree Diam. Dist.","APCO","APCO"
+"APCO",5,"Sapling Composition","Regen. Status","caution",2,"Insecure","Sapling Composition","APCO","APCO"
+"APCO",6,"Seedling Composition","Regen. Status","caution",2,"Insecure","Seedling Composition","APCO","APCO"
+"APCO",7,"Sorensen Sapling","Regen. Status","acceptable",2,"Insecure","Sorensen Sapling","APCO","APCO"
+"APCO",8,"Sorensen Seedling","Regen. Status","critical",2,"Insecure","Sorensen Seedling","APCO","APCO"
+"APCO",10,"Tree BA","Native Canopy 
+ Trends","signinc_good",2,"Insecure","Tree BA","APCO","APCO"
+"APCO",11,"Tree Density","Native Canopy 
+ Trends","nonsign",2,"Insecure","Tree Density","APCO","APCO"
+"APCO",12,"Sapling BA","Native Canopy 
+ Trends","nonsign",2,"Insecure","Sapling BA","APCO","APCO"
+"APCO",13,"Sapling Density","Native Canopy 
+ Trends","signdec_bad",2,"Insecure","Sapling Density","APCO","APCO"
+"APCO",14,"Seedling Density","Native Canopy 
+ Trends","nonsign",2,"Insecure","Seedling Density","APCO","APCO"
+"APCO",15,"Stocking Index","Native Canopy 
+ Trends","signdec_bad",2,"Insecure","Stocking Index","APCO","APCO"
+"APCO",16,"Tree BA","Native Subcan. 
+ Trends","nonsign",2,"Insecure","Tree BA","APCO","APCO"
+"APCO",17,"Tree Density","Native Subcan. 
+ Trends","signdec_bad",2,"Insecure","Tree Density","APCO","APCO"
+"APCO",18,"Sapling BA","Native Subcan. 
+ Trends","signdec_bad",2,"Insecure","Sapling BA","APCO","APCO"
+"APCO",19,"Sapling Density","Native Subcan. 
+ Trends","signdec_bad",2,"Insecure","Sapling Density","APCO","APCO"
+"APCO",20,"Seedling Density","Native Subcan. 
+ Trends","nonsign",2,"Insecure","Seedling Density","APCO","APCO"
+"APCO",21,"Tree BA","Exotic 
+ Trends","notmod",2,"Insecure","Tree BA","APCO","APCO"
+"APCO",22,"Tree Density","Exotic 
+ Trends","notmod",2,"Insecure","Tree Density","APCO","APCO"
+"APCO",23,"Sapling BA","Exotic 
+ Trends","notmod",2,"Insecure","Sapling BA","APCO","APCO"
+"APCO",24,"Sapling Density","Exotic 
+ Trends","notmod",2,"Insecure","Sapling Density","APCO","APCO"
+"APCO",25,"Seedling Density","Exotic 
+ Trends","notmod",2,"Insecure","Seedling Density","APCO","APCO"
+"FRSP",1,"Sapling Density","Regen. Status","critical",2,"Insecure","Sapling Density","FRSP","FRSP"
+"FRSP",2,"Seedling Density","Regen. Status","caution",2,"Insecure","Seedling Density","FRSP","FRSP"
+"FRSP",3,"% Stocked Plots","Regen. Status","critical",2,"Insecure","% Stocked Plots","FRSP","FRSP"
+"FRSP",4,"Stocking Index","Regen. Status","caution",2,"Insecure","Stocking Index","FRSP","FRSP"
+"FRSP",9,"Deer Browse Impacts","Regen. Status","caution",2,"Insecure","Deer Browse Impacts","FRSP","FRSP"
+"FRSP",10,"Flat Tree Diam. Dist.","Regen. Status","acceptable",2,"Insecure","Flat Tree Diam. Dist.","FRSP","FRSP"
+"FRSP",5,"Sapling Composition","Regen. Status","caution",2,"Insecure","Sapling Composition","FRSP","FRSP"
+"FRSP",6,"Seedling Composition","Regen. Status","caution",2,"Insecure","Seedling Composition","FRSP","FRSP"
+"FRSP",7,"Sorensen Sapling","Regen. Status","acceptable",2,"Insecure","Sorensen Sapling","FRSP","FRSP"
+"FRSP",8,"Sorensen Seedling","Regen. Status","acceptable",2,"Insecure","Sorensen Seedling","FRSP","FRSP"
+"FRSP",10,"Tree BA","Native Canopy 
+ Trends","nonsign",2,"Insecure","Tree BA","FRSP","FRSP"
+"FRSP",11,"Tree Density","Native Canopy 
+ Trends","signdec_bad",2,"Insecure","Tree Density","FRSP","FRSP"
+"FRSP",12,"Sapling BA","Native Canopy 
+ Trends","signdec_bad",2,"Insecure","Sapling BA","FRSP","FRSP"
+"FRSP",13,"Sapling Density","Native Canopy 
+ Trends","signdec_bad",2,"Insecure","Sapling Density","FRSP","FRSP"
+"FRSP",14,"Seedling Density","Native Canopy 
+ Trends","nonsign",2,"Insecure","Seedling Density","FRSP","FRSP"
+"FRSP",15,"Stocking Index","Native Canopy 
+ Trends","signdec_bad",2,"Insecure","Stocking Index","FRSP","FRSP"
+"FRSP",16,"Tree BA","Native Subcan. 
+ Trends","signinc_good",2,"Insecure","Tree BA","FRSP","FRSP"
+"FRSP",17,"Tree Density","Native Subcan. 
+ Trends","nonsign",2,"Insecure","Tree Density","FRSP","FRSP"
+"FRSP",18,"Sapling BA","Native Subcan. 
+ Trends","nonsign",2,"Insecure","Sapling BA","FRSP","FRSP"
+"FRSP",19,"Sapling Density","Native Subcan. 
+ Trends","nonsign",2,"Insecure","Sapling Density","FRSP","FRSP"
+"FRSP",20,"Seedling Density","Native Subcan. 
+ Trends","nonsign",2,"Insecure","Seedling Density","FRSP","FRSP"
+"FRSP",21,"Tree BA","Exotic 
+ Trends","notmod",2,"Insecure","Tree BA","FRSP","FRSP"
+"FRSP",22,"Tree Density","Exotic 
+ Trends","notmod",2,"Insecure","Tree Density","FRSP","FRSP"
+"FRSP",23,"Sapling BA","Exotic 
+ Trends","notmod",2,"Insecure","Sapling BA","FRSP","FRSP"
+"FRSP",24,"Sapling Density","Exotic 
+ Trends","notmod",2,"Insecure","Sapling Density","FRSP","FRSP"
+"FRSP",25,"Seedling Density","Exotic 
+ Trends","notmod",2,"Insecure","Seedling Density","FRSP","FRSP"
+"GARI",1,"Sapling Density","Regen. Status","critical",2,"Insecure","Sapling Density","GARI","GARI"
+"GARI",2,"Seedling Density","Regen. Status","caution",2,"Insecure","Seedling Density","GARI","GARI"
+"GARI",3,"% Stocked Plots","Regen. Status","critical",2,"Insecure","% Stocked Plots","GARI","GARI"
+"GARI",4,"Stocking Index","Regen. Status","caution",2,"Insecure","Stocking Index","GARI","GARI"
+"GARI",9,"Deer Browse Impacts","Regen. Status","acceptable",2,"Insecure","Deer Browse Impacts","GARI","GARI"
+"GARI",10,"Flat Tree Diam. Dist.","Regen. Status","acceptable",2,"Insecure","Flat Tree Diam. Dist.","GARI","GARI"
+"GARI",5,"Sapling Composition","Regen. Status","caution",2,"Insecure","Sapling Composition","GARI","GARI"
+"GARI",6,"Seedling Composition","Regen. Status","caution",2,"Insecure","Seedling Composition","GARI","GARI"
+"GARI",7,"Sorensen Sapling","Regen. Status","acceptable",2,"Insecure","Sorensen Sapling","GARI","GARI"
+"GARI",8,"Sorensen Seedling","Regen. Status","acceptable",2,"Insecure","Sorensen Seedling","GARI","GARI"
+"GARI",10,"Tree BA","Native Canopy 
+ Trends","nonsign",2,"Insecure","Tree BA","GARI","GARI"
+"GARI",11,"Tree Density","Native Canopy 
+ Trends","signdec_bad",2,"Insecure","Tree Density","GARI","GARI"
+"GARI",12,"Sapling BA","Native Canopy 
+ Trends","nonsign",2,"Insecure","Sapling BA","GARI","GARI"
+"GARI",13,"Sapling Density","Native Canopy 
+ Trends","signdec_bad",2,"Insecure","Sapling Density","GARI","GARI"
+"GARI",14,"Seedling Density","Native Canopy 
+ Trends","nonsign",2,"Insecure","Seedling Density","GARI","GARI"
+"GARI",15,"Stocking Index","Native Canopy 
+ Trends","nonsign",2,"Insecure","Stocking Index","GARI","GARI"
+"GARI",16,"Tree BA","Native Subcan. 
+ Trends","signdec_bad",2,"Insecure","Tree BA","GARI","GARI"
+"GARI",17,"Tree Density","Native Subcan. 
+ Trends","nonsign",2,"Insecure","Tree Density","GARI","GARI"
+"GARI",18,"Sapling BA","Native Subcan. 
+ Trends","nonsign",2,"Insecure","Sapling BA","GARI","GARI"
+"GARI",19,"Sapling Density","Native Subcan. 
+ Trends","nonsign",2,"Insecure","Sapling Density","GARI","GARI"
+"GARI",20,"Seedling Density","Native Subcan. 
+ Trends","signinc_good",2,"Insecure","Seedling Density","GARI","GARI"
+"GARI",21,"Tree BA","Exotic 
+ Trends","notmod",2,"Insecure","Tree BA","GARI","GARI"
+"GARI",22,"Tree Density","Exotic 
+ Trends","notmod",2,"Insecure","Tree Density","GARI","GARI"
+"GARI",23,"Sapling BA","Exotic 
+ Trends","notmod",2,"Insecure","Sapling BA","GARI","GARI"
+"GARI",24,"Sapling Density","Exotic 
+ Trends","notmod",2,"Insecure","Sapling Density","GARI","GARI"
+"GARI",25,"Seedling Density","Exotic 
+ Trends","notmod",2,"Insecure","Seedling Density","GARI","GARI"
+"NERI",1,"Sapling Density","Regen. Status","critical",2,"Insecure","Sapling Density","NERI","NERI"
+"NERI",2,"Seedling Density","Regen. Status","caution",2,"Insecure","Seedling Density","NERI","NERI"
+"NERI",3,"% Stocked Plots","Regen. Status","critical",2,"Insecure","% Stocked Plots","NERI","NERI"
+"NERI",4,"Stocking Index","Regen. Status","caution",2,"Insecure","Stocking Index","NERI","NERI"
+"NERI",9,"Deer Browse Impacts","Regen. Status","acceptable",2,"Insecure","Deer Browse Impacts","NERI","NERI"
+"NERI",10,"Flat Tree Diam. Dist.","Regen. Status","acceptable",2,"Insecure","Flat Tree Diam. Dist.","NERI","NERI"
+"NERI",5,"Sapling Composition","Regen. Status","caution",2,"Insecure","Sapling Composition","NERI","NERI"
+"NERI",6,"Seedling Composition","Regen. Status","caution",2,"Insecure","Seedling Composition","NERI","NERI"
+"NERI",7,"Sorensen Sapling","Regen. Status","acceptable",2,"Insecure","Sorensen Sapling","NERI","NERI"
+"NERI",8,"Sorensen Seedling","Regen. Status","acceptable",2,"Insecure","Sorensen Seedling","NERI","NERI"
+"NERI",10,"Tree BA","Native Canopy 
+ Trends","signinc_good",2,"Insecure","Tree BA","NERI","NERI"
+"NERI",11,"Tree Density","Native Canopy 
+ Trends","signdec_bad",2,"Insecure","Tree Density","NERI","NERI"
+"NERI",12,"Sapling BA","Native Canopy 
+ Trends","nonsign",2,"Insecure","Sapling BA","NERI","NERI"
+"NERI",13,"Sapling Density","Native Canopy 
+ Trends","signdec_bad",2,"Insecure","Sapling Density","NERI","NERI"
+"NERI",14,"Seedling Density","Native Canopy 
+ Trends","signinc_good",2,"Insecure","Seedling Density","NERI","NERI"
+"NERI",15,"Stocking Index","Native Canopy 
+ Trends","nonsign",2,"Insecure","Stocking Index","NERI","NERI"
+"NERI",16,"Tree BA","Native Subcan. 
+ Trends","signdec_bad",2,"Insecure","Tree BA","NERI","NERI"
+"NERI",17,"Tree Density","Native Subcan. 
+ Trends","signdec_bad",2,"Insecure","Tree Density","NERI","NERI"
+"NERI",18,"Sapling BA","Native Subcan. 
+ Trends","signdec_bad",2,"Insecure","Sapling BA","NERI","NERI"
+"NERI",19,"Sapling Density","Native Subcan. 
+ Trends","nonsign",2,"Insecure","Sapling Density","NERI","NERI"
+"NERI",20,"Seedling Density","Native Subcan. 
+ Trends","signinc_good",2,"Insecure","Seedling Density","NERI","NERI"
+"NERI",21,"Tree BA","Exotic 
+ Trends","notmod",2,"Insecure","Tree BA","NERI","NERI"
+"NERI",22,"Tree Density","Exotic 
+ Trends","notmod",2,"Insecure","Tree Density","NERI","NERI"
+"NERI",23,"Sapling BA","Exotic 
+ Trends","notmod",2,"Insecure","Sapling BA","NERI","NERI"
+"NERI",24,"Sapling Density","Exotic 
+ Trends","notmod",2,"Insecure","Sapling Density","NERI","NERI"
+"NERI",25,"Seedling Density","Exotic 
+ Trends","nonsign",2,"Insecure","Seedling Density","NERI","NERI"
+"PETE",1,"Sapling Density","Regen. Status","critical",2,"Insecure","Sapling Density","PETE","PETE"
+"PETE",2,"Seedling Density","Regen. Status","caution",2,"Insecure","Seedling Density","PETE","PETE"
+"PETE",3,"% Stocked Plots","Regen. Status","critical",2,"Insecure","% Stocked Plots","PETE","PETE"
+"PETE",4,"Stocking Index","Regen. Status","caution",2,"Insecure","Stocking Index","PETE","PETE"
+"PETE",9,"Deer Browse Impacts","Regen. Status","caution",2,"Insecure","Deer Browse Impacts","PETE","PETE"
+"PETE",10,"Flat Tree Diam. Dist.","Regen. Status","acceptable",2,"Insecure","Flat Tree Diam. Dist.","PETE","PETE"
+"PETE",5,"Sapling Composition","Regen. Status","acceptable",2,"Insecure","Sapling Composition","PETE","PETE"
+"PETE",6,"Seedling Composition","Regen. Status","acceptable",2,"Insecure","Seedling Composition","PETE","PETE"
+"PETE",7,"Sorensen Sapling","Regen. Status","acceptable",2,"Insecure","Sorensen Sapling","PETE","PETE"
+"PETE",8,"Sorensen Seedling","Regen. Status","acceptable",2,"Insecure","Sorensen Seedling","PETE","PETE"
+"PETE",10,"Tree BA","Native Canopy 
+ Trends","signinc_good",2,"Insecure","Tree BA","PETE","PETE"
+"PETE",11,"Tree Density","Native Canopy 
+ Trends","signdec_bad",2,"Insecure","Tree Density","PETE","PETE"
+"PETE",12,"Sapling BA","Native Canopy 
+ Trends","signdec_bad",2,"Insecure","Sapling BA","PETE","PETE"
+"PETE",13,"Sapling Density","Native Canopy 
+ Trends","signdec_bad",2,"Insecure","Sapling Density","PETE","PETE"
+"PETE",14,"Seedling Density","Native Canopy 
+ Trends","nonsign",2,"Insecure","Seedling Density","PETE","PETE"
+"PETE",15,"Stocking Index","Native Canopy 
+ Trends","signdec_bad",2,"Insecure","Stocking Index","PETE","PETE"
+"PETE",16,"Tree BA","Native Subcan. 
+ Trends","signinc_good",2,"Insecure","Tree BA","PETE","PETE"
+"PETE",17,"Tree Density","Native Subcan. 
+ Trends","signinc_good",2,"Insecure","Tree Density","PETE","PETE"
+"PETE",18,"Sapling BA","Native Subcan. 
+ Trends","nonsign",2,"Insecure","Sapling BA","PETE","PETE"
+"PETE",19,"Sapling Density","Native Subcan. 
+ Trends","nonsign",2,"Insecure","Sapling Density","PETE","PETE"
+"PETE",20,"Seedling Density","Native Subcan. 
+ Trends","nonsign",2,"Insecure","Seedling Density","PETE","PETE"
+"PETE",21,"Tree BA","Exotic 
+ Trends","notmod",2,"Insecure","Tree BA","PETE","PETE"
+"PETE",22,"Tree Density","Exotic 
+ Trends","notmod",2,"Insecure","Tree Density","PETE","PETE"
+"PETE",23,"Sapling BA","Exotic 
+ Trends","notmod",2,"Insecure","Sapling BA","PETE","PETE"
+"PETE",24,"Sapling Density","Exotic 
+ Trends","notmod",2,"Insecure","Sapling Density","PETE","PETE"
+"PETE",25,"Seedling Density","Exotic 
+ Trends","notmod",2,"Insecure","Seedling Density","PETE","PETE"
+"RICH",1,"Sapling Density","Regen. Status","critical",2,"Insecure","Sapling Density","RICH","RICH"
+"RICH",2,"Seedling Density","Regen. Status","caution",2,"Insecure","Seedling Density","RICH","RICH"
+"RICH",3,"% Stocked Plots","Regen. Status","critical",2,"Insecure","% Stocked Plots","RICH","RICH"
+"RICH",4,"Stocking Index","Regen. Status","caution",2,"Insecure","Stocking Index","RICH","RICH"
+"RICH",9,"Deer Browse Impacts","Regen. Status","caution",2,"Insecure","Deer Browse Impacts","RICH","RICH"
+"RICH",10,"Flat Tree Diam. Dist.","Regen. Status","acceptable",2,"Insecure","Flat Tree Diam. Dist.","RICH","RICH"
+"RICH",5,"Sapling Composition","Regen. Status","caution",2,"Insecure","Sapling Composition","RICH","RICH"
+"RICH",6,"Seedling Composition","Regen. Status","caution",2,"Insecure","Seedling Composition","RICH","RICH"
+"RICH",7,"Sorensen Sapling","Regen. Status","acceptable",2,"Insecure","Sorensen Sapling","RICH","RICH"
+"RICH",8,"Sorensen Seedling","Regen. Status","acceptable",2,"Insecure","Sorensen Seedling","RICH","RICH"
+"RICH",10,"Tree BA","Native Canopy 
+ Trends","signinc_good",2,"Insecure","Tree BA","RICH","RICH"
+"RICH",11,"Tree Density","Native Canopy 
+ Trends","signdec_bad",2,"Insecure","Tree Density","RICH","RICH"
+"RICH",12,"Sapling BA","Native Canopy 
+ Trends","nonsign",2,"Insecure","Sapling BA","RICH","RICH"
+"RICH",13,"Sapling Density","Native Canopy 
+ Trends","nonsign",2,"Insecure","Sapling Density","RICH","RICH"
+"RICH",14,"Seedling Density","Native Canopy 
+ Trends","signinc_good",2,"Insecure","Seedling Density","RICH","RICH"
+"RICH",15,"Stocking Index","Native Canopy 
+ Trends","nonsign",2,"Insecure","Stocking Index","RICH","RICH"
+"RICH",16,"Tree BA","Native Subcan. 
+ Trends","nonsign",2,"Insecure","Tree BA","RICH","RICH"
+"RICH",17,"Tree Density","Native Subcan. 
+ Trends","nonsign",2,"Insecure","Tree Density","RICH","RICH"
+"RICH",18,"Sapling BA","Native Subcan. 
+ Trends","nonsign",2,"Insecure","Sapling BA","RICH","RICH"
+"RICH",19,"Sapling Density","Native Subcan. 
+ Trends","nonsign",2,"Insecure","Sapling Density","RICH","RICH"
+"RICH",20,"Seedling Density","Native Subcan. 
+ Trends","nonsign",2,"Insecure","Seedling Density","RICH","RICH"
+"RICH",21,"Tree BA","Exotic 
+ Trends","notmod",2,"Insecure","Tree BA","RICH","RICH"
+"RICH",22,"Tree Density","Exotic 
+ Trends","notmod",2,"Insecure","Tree Density","RICH","RICH"
+"RICH",23,"Sapling BA","Exotic 
+ Trends","notmod",2,"Insecure","Sapling BA","RICH","RICH"
+"RICH",24,"Sapling Density","Exotic 
+ Trends","notmod",2,"Insecure","Sapling Density","RICH","RICH"
+"RICH",25,"Seedling Density","Exotic 
+ Trends","notmod",2,"Insecure","Seedling Density","RICH","RICH"
+"WOTR",1,"Sapling Density","Regen. Status","critical",2,"Insecure","Sapling Density","WOTR","WOTR"
+"WOTR",2,"Seedling Density","Regen. Status","caution",2,"Insecure","Seedling Density","WOTR","WOTR"
+"WOTR",3,"% Stocked Plots","Regen. Status","critical",2,"Insecure","% Stocked Plots","WOTR","WOTR"
+"WOTR",4,"Stocking Index","Regen. Status","caution",2,"Insecure","Stocking Index","WOTR","WOTR"
+"WOTR",9,"Deer Browse Impacts","Regen. Status","caution",2,"Insecure","Deer Browse Impacts","WOTR","WOTR"
+"WOTR",10,"Flat Tree Diam. Dist.","Regen. Status","acceptable",2,"Insecure","Flat Tree Diam. Dist.","WOTR","WOTR"
+"WOTR",5,"Sapling Composition","Regen. Status","acceptable",2,"Insecure","Sapling Composition","WOTR","WOTR"
+"WOTR",6,"Seedling Composition","Regen. Status","caution",2,"Insecure","Seedling Composition","WOTR","WOTR"
+"WOTR",7,"Sorensen Sapling","Regen. Status","acceptable",2,"Insecure","Sorensen Sapling","WOTR","WOTR"
+"WOTR",8,"Sorensen Seedling","Regen. Status","acceptable",2,"Insecure","Sorensen Seedling","WOTR","WOTR"
+"WOTR",10,"Tree BA","Native Canopy 
+ Trends","notmod",2,"Insecure","Tree BA","WOTR","WOTR"
+"WOTR",11,"Tree Density","Native Canopy 
+ Trends","notmod",2,"Insecure","Tree Density","WOTR","WOTR"
+"WOTR",12,"Sapling BA","Native Canopy 
+ Trends","notmod",2,"Insecure","Sapling BA","WOTR","WOTR"
+"WOTR",13,"Sapling Density","Native Canopy 
+ Trends","notmod",2,"Insecure","Sapling Density","WOTR","WOTR"
+"WOTR",14,"Seedling Density","Native Canopy 
+ Trends","notmod",2,"Insecure","Seedling Density","WOTR","WOTR"
+"WOTR",15,"Stocking Index","Native Canopy 
+ Trends","notmod",2,"Insecure","Stocking Index","WOTR","WOTR"
+"WOTR",16,"Tree BA","Native Subcan. 
+ Trends","notmod",2,"Insecure","Tree BA","WOTR","WOTR"
+"WOTR",17,"Tree Density","Native Subcan. 
+ Trends","notmod",2,"Insecure","Tree Density","WOTR","WOTR"
+"WOTR",18,"Sapling BA","Native Subcan. 
+ Trends","notmod",2,"Insecure","Sapling BA","WOTR","WOTR"
+"WOTR",19,"Sapling Density","Native Subcan. 
+ Trends","notmod",2,"Insecure","Sapling Density","WOTR","WOTR"
+"WOTR",20,"Seedling Density","Native Subcan. 
+ Trends","notmod",2,"Insecure","Seedling Density","WOTR","WOTR"
+"WOTR",21,"Tree BA","Exotic 
+ Trends","notmod",2,"Insecure","Tree BA","WOTR","WOTR"
+"WOTR",22,"Tree Density","Exotic 
+ Trends","notmod",2,"Insecure","Tree Density","WOTR","WOTR"
+"WOTR",23,"Sapling BA","Exotic 
+ Trends","notmod",2,"Insecure","Sapling BA","WOTR","WOTR"
+"WOTR",24,"Sapling Density","Exotic 
+ Trends","notmod",2,"Insecure","Sapling Density","WOTR","WOTR"
+"WOTR",25,"Seedling Density","Exotic 
+ Trends","notmod",2,"Insecure","Seedling Density","WOTR","WOTR"
+"ACAD",1,"Sapling Density","Regen. Status","acceptable",0,"Sec.","Sapling Density","ACAD","ACAD"
+"ACAD",2,"Seedling Density","Regen. Status","caution",0,"Sec.","Seedling Density","ACAD","ACAD"
+"ACAD",3,"% Stocked Plots","Regen. Status","caution",0,"Sec.","% Stocked Plots","ACAD","ACAD"
+"ACAD",4,"Stocking Index","Regen. Status","caution",0,"Sec.","Stocking Index","ACAD","ACAD"
+"ACAD",9,"Deer Browse Impacts","Regen. Status","acceptable",0,"Sec.","Deer Browse Impacts","ACAD","ACAD"
+"ACAD",10,"Flat Tree Diam. Dist.","Regen. Status","acceptable",0,"Sec.","Flat Tree Diam. Dist.","ACAD","ACAD"
+"ACAD",5,"Sapling Composition","Regen. Status","acceptable",0,"Sec.","Sapling Composition","ACAD","ACAD"
+"ACAD",6,"Seedling Composition","Regen. Status","acceptable",0,"Sec.","Seedling Composition","ACAD","ACAD"
+"ACAD",7,"Sorensen Sapling","Regen. Status","acceptable",0,"Sec.","Sorensen Sapling","ACAD","ACAD"
+"ACAD",8,"Sorensen Seedling","Regen. Status","acceptable",0,"Sec.","Sorensen Seedling","ACAD","ACAD"
+"ACAD",10,"Tree BA","Native Canopy 
+ Trends","signinc_good",0,"Sec.","Tree BA","ACAD","ACAD"
+"ACAD",11,"Tree Density","Native Canopy 
+ Trends","signinc_good",0,"Sec.","Tree Density","ACAD","ACAD"
+"ACAD",12,"Sapling BA","Native Canopy 
+ Trends","signdec_bad",0,"Sec.","Sapling BA","ACAD","ACAD"
+"ACAD",13,"Sapling Density","Native Canopy 
+ Trends","signdec_bad",0,"Sec.","Sapling Density","ACAD","ACAD"
+"ACAD",14,"Seedling Density","Native Canopy 
+ Trends","signinc_good",0,"Sec.","Seedling Density","ACAD","ACAD"
+"ACAD",15,"Stocking Index","Native Canopy 
+ Trends","nonsign",0,"Sec.","Stocking Index","ACAD","ACAD"
+"ACAD",16,"Tree BA","Native Subcan. 
+ Trends","nonsign",0,"Sec.","Tree BA","ACAD","ACAD"
+"ACAD",17,"Tree Density","Native Subcan. 
+ Trends","nonsign",0,"Sec.","Tree Density","ACAD","ACAD"
+"ACAD",18,"Sapling BA","Native Subcan. 
+ Trends","nonsign",0,"Sec.","Sapling BA","ACAD","ACAD"
+"ACAD",19,"Sapling Density","Native Subcan. 
+ Trends","nonsign",0,"Sec.","Sapling Density","ACAD","ACAD"
+"ACAD",20,"Seedling Density","Native Subcan. 
+ Trends","signinc_good",0,"Sec.","Seedling Density","ACAD","ACAD"
+"ACAD",21,"Tree BA","Exotic 
+ Trends","notmod",0,"Sec.","Tree BA","ACAD","ACAD"
+"ACAD",22,"Tree Density","Exotic 
+ Trends","notmod",0,"Sec.","Tree Density","ACAD","ACAD"
+"ACAD",23,"Sapling BA","Exotic 
+ Trends","notmod",0,"Sec.","Sapling BA","ACAD","ACAD"
+"ACAD",24,"Sapling Density","Exotic 
+ Trends","notmod",0,"Sec.","Sapling Density","ACAD","ACAD"
+"ACAD",25,"Seedling Density","Exotic 
+ Trends","notmod",0,"Sec.","Seedling Density","ACAD","ACAD"
