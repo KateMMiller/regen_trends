@@ -1,0 +1,111 @@
+"park","Species_Group","numspp_tree","numspp_sap","numspp_seed"
+"ACAD","Native Canopy",25,20,24
+"ACAD","Subcanopy",5,5,6
+"ALPO","Native Canopy",19,11,24
+"ALPO","Subcanopy",9,7,8
+"ALPO","Exotic",4,3,6
+"ANTI","Native Canopy",19,9,11
+"ANTI","Subcanopy",10,8,7
+"ANTI","Exotic",2,1,1
+"APCO","Native Canopy",28,31,34
+"APCO","Subcanopy",10,10,16
+"BLUE","Native Canopy",32,20,35
+"BLUE","Subcanopy",12,8,19
+"BLUE","Exotic",1,1,5
+"BOWA","Native Canopy",18,10,25
+"BOWA","Subcanopy",7,11,9
+"CATO","Native Canopy",24,15,21
+"CATO","Subcanopy",9,7,9
+"CATO","Exotic",2,1,2
+"CHOH","Native Canopy",35,18,25
+"CHOH","Subcanopy",13,13,12
+"CHOH","Exotic",7,3,4
+"COLO","Native Canopy",31,14,20
+"COLO","Subcanopy",13,8,14
+"COLO","Exotic",2,1,1
+"DEWA","Native Canopy",36,21,38
+"DEWA","Subcanopy",11,12,17
+"DEWA","Exotic",3,2,6
+"FONE","Native Canopy",20,18,21
+"FONE","Subcanopy",5,6,12
+"FONE","Exotic",3,2,6
+"FRHI","Native Canopy",22,8,24
+"FRHI","Subcanopy",4,3,7
+"FRHI","Exotic",4,NA,4
+"FRSP","Native Canopy",30,21,34
+"FRSP","Subcanopy",7,10,13
+"FRSP","Exotic",1,1,5
+"GARI","Native Canopy",32,21,29
+"GARI","Subcanopy",14,12,15
+"GARI","Exotic",1,1,3
+"GETT","Native Canopy",23,23,33
+"GETT","Subcanopy",10,11,12
+"GETT","Exotic",6,3,8
+"GEWA","Native Canopy",19,4,13
+"GEWA","Subcanopy",2,3,4
+"GWMP","Native Canopy",28,17,20
+"GWMP","Subcanopy",13,12,8
+"GWMP","Exotic",2,1,3
+"HAFE","Native Canopy",25,13,11
+"HAFE","Subcanopy",8,6,6
+"HAFE","Exotic",5,2,2
+"HOFU","Native Canopy",18,6,21
+"HOFU","Subcanopy",3,4,6
+"HOFU","Exotic",1,NA,3
+"JOFL","Native Canopy",11,7,16
+"JOFL","Subcanopy",3,4,10
+"JOFL","Exotic",3,1,3
+"MABI","Native Canopy",13,6,19
+"MABI","Subcanopy",4,6,10
+"MABI","Exotic",3,NA,3
+"MANA","Native Canopy",26,14,17
+"MANA","Subcanopy",6,7,8
+"MANA","Exotic",1,NA,1
+"MIMA","Native Canopy",20,11,26
+"MIMA","Subcanopy",4,5,6
+"MIMA","Exotic",4,3,6
+"MONO","Native Canopy",23,12,15
+"MONO","Subcanopy",6,2,5
+"MONO","Exotic",3,1,2
+"MORR","Native Canopy",16,6,15
+"MORR","Subcanopy",6,2,9
+"MORR","Exotic",2,NA,2
+"NACE","Native Canopy",36,20,23
+"NACE","Subcanopy",12,11,12
+"NACE","Exotic",9,9,7
+"NERI","Native Canopy",43,28,39
+"NERI","Subcanopy",14,13,19
+"NERI","Exotic",3,2,4
+"PETE","Native Canopy",27,26,29
+"PETE","Subcanopy",7,7,11
+"PRWI","Native Canopy",31,18,24
+"PRWI","Subcanopy",7,9,8
+"PRWI","Exotic",2,NA,NA
+"RICH","Native Canopy",29,23,26
+"RICH","Subcanopy",6,9,6
+"RICH","Exotic",1,1,2
+"ROCR","Native Canopy",26,16,19
+"ROCR","Subcanopy",8,6,7
+"ROCR","Exotic",7,5,2
+"ROVA","Native Canopy",22,11,33
+"ROVA","Subcanopy",6,4,8
+"ROVA","Exotic",4,2,9
+"SAGA","Native Canopy",15,7,16
+"SAGA","Subcanopy",3,4,6
+"SAGA","Exotic",1,1,1
+"SAHI","Native Canopy",7,6,7
+"SAHI","Subcanopy",2,1,4
+"SAHI","Exotic",2,2,3
+"SARA","Native Canopy",21,12,29
+"SARA","Subcanopy",4,6,8
+"SARA","Exotic",4,2,3
+"THST","Native Canopy",14,4,5
+"THST","Subcanopy",4,5,4
+"VAFO","Native Canopy",24,14,20
+"VAFO","Subcanopy",5,4,7
+"VAFO","Exotic",2,1,4
+"WEFA","Native Canopy",20,5,15
+"WEFA","Subcanopy",3,NA,7
+"WOTR","Native Canopy",15,7,13
+"WOTR","Subcanopy",5,3,5
+"WOTR","Exotic",1,NA,1
