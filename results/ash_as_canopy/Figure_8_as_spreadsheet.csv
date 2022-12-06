@@ -1,0 +1,121 @@
+"park","order","labels","metgrp","sign","num_crit","park_reggrp","label_order","type"
+"GETT",1,"Sapling Density","Regen. Status","caution",1,"Secure","Sapling Density","Secure 
+ Ash as Canopy"
+"GETT",2,"Seedling Density","Regen. Status","caution",1,"Secure","Seedling Density","Secure 
+ Ash as Canopy"
+"GETT",3,"% Stocked Plots","Regen. Status","caution",1,"Secure","% Stocked Plots","Secure 
+ Ash as Canopy"
+"GETT",4,"Stocking Index","Regen. Status","acceptable",1,"Secure","Stocking Index","Secure 
+ Ash as Canopy"
+"GETT",5,"Sapling Comp.","Regen. Status","caution",1,"Secure","Sapling Comp.","Secure 
+ Ash as Canopy"
+"GETT",6,"Seedling Comp.","Regen. Status","acceptable",1,"Secure","Seedling Comp.","Secure 
+ Ash as Canopy"
+"GETT",7,"Sorensen Sapling","Regen. Status","acceptable",1,"Secure","Sorensen Sapling","Secure 
+ Ash as Canopy"
+"GETT",8,"Sorensen Seedling","Regen. Status","critical",1,"Secure","Sorensen Seedling","Secure 
+ Ash as Canopy"
+"GETT",9,"Deer Browse Impacts","Regen. Status","caution",1,"Secure","Deer Browse Impacts","Secure 
+ Ash as Canopy"
+"GETT",10,"Flat Tree Diam. Dist.","Regen. Status","acceptable",1,"Secure","Flat Tree Diam. Dist.","Secure 
+ Ash as Canopy"
+"GETT",15,"Tree BA","Native Canopy 
+ Trends","nonsign",1,"Secure","Tree BA","Secure 
+ Ash as Canopy"
+"GETT",16,"Tree Density","Native Canopy 
+ Trends","nonsign",1,"Secure","Tree Density","Secure 
+ Ash as Canopy"
+"GETT",17,"Sapling BA","Native Canopy 
+ Trends","nonsign",1,"Secure","Sapling BA","Secure 
+ Ash as Canopy"
+"GETT",18,"Sapling Density","Native Canopy 
+ Trends","signinc_good",1,"Secure","Sapling Density","Secure 
+ Ash as Canopy"
+"GETT",19,"Seedling Density","Native Canopy 
+ Trends","nonsign",1,"Secure","Seedling Density","Secure 
+ Ash as Canopy"
+"GETT",20,"Tree BA","Native Subcan. 
+ Trends","nonsign",1,"Secure","Tree BA","Secure 
+ Ash as Canopy"
+"GETT",21,"Tree Density","Native Subcan. 
+ Trends","nonsign",1,"Secure","Tree Density","Secure 
+ Ash as Canopy"
+"GETT",22,"Sapling BA","Native Subcan. 
+ Trends","nonsign",1,"Secure","Sapling BA","Secure 
+ Ash as Canopy"
+"GETT",23,"Sapling Density","Native Subcan. 
+ Trends","signinc_good",1,"Secure","Sapling Density","Secure 
+ Ash as Canopy"
+"GETT",24,"Seedling Density","Native Subcan. 
+ Trends","signinc_good",1,"Secure","Seedling Density","Secure 
+ Ash as Canopy"
+"GETT",25,"Tree BA","Exotic 
+ Trends","notmod",1,"Secure","Tree BA","Secure 
+ Ash as Canopy"
+"GETT",26,"Tree Density","Exotic 
+ Trends","notmod",1,"Secure","Tree Density","Secure 
+ Ash as Canopy"
+"GETT",27,"Sapling BA","Exotic 
+ Trends","signinc_bad",1,"Secure","Sapling BA","Secure 
+ Ash as Canopy"
+"GETT",28,"Sapling Density","Exotic 
+ Trends","nonsign",1,"Secure","Sapling Density","Secure 
+ Ash as Canopy"
+"GETT",29,"Seedling Density","Exotic 
+ Trends","nonsign",1,"Secure","Seedling Density","Secure 
+ Ash as Canopy"
+"GETT",30,"Stocking Index","Native Canopy 
+ Trends","nonsign",1,"Secure","Stocking Index","Secure 
+ Ash as Canopy"
+"GETT",1,"Sapling Density",NA,"critical",5,"Probable Failure","Sapling Density","Prob. Failure 
+ Ash as Subcan."
+"GETT",2,"Seedling Density",NA,"caution",5,"Probable Failure","Seedling Density","Prob. Failure 
+ Ash as Subcan."
+"GETT",3,"% Stocked Plots",NA,"critical",5,"Probable Failure","% Stocked Plots","Prob. Failure 
+ Ash as Subcan."
+"GETT",4,"Stocking Index",NA,"caution",5,"Probable Failure","Stocking Index","Prob. Failure 
+ Ash as Subcan."
+"GETT",5,"Sapling Comp.",NA,"critical",5,"Probable Failure","Sapling Comp.","Prob. Failure 
+ Ash as Subcan."
+"GETT",6,"Seedling Comp.",NA,"critical",5,"Probable Failure","Seedling Comp.","Prob. Failure 
+ Ash as Subcan."
+"GETT",7,"Sorensen Sapling",NA,"acceptable",5,"Probable Failure","Sorensen Sapling","Prob. Failure 
+ Ash as Subcan."
+"GETT",8,"Sorensen Seedling",NA,"critical",5,"Probable Failure","Sorensen Seedling","Prob. Failure 
+ Ash as Subcan."
+"GETT",9,"Deer Browse Impacts",NA,"caution",5,"Probable Failure","Deer Browse Impacts","Prob. Failure 
+ Ash as Subcan."
+"GETT",10,"Flat Tree Diam. Dist.",NA,"acceptable",5,"Probable Failure","Flat Tree Diam. Dist.","Prob. Failure 
+ Ash as Subcan."
+"GETT",10,"Tree BA",NA,"nonsign",5,"Probable Failure","Tree BA","Prob. Failure 
+ Ash as Subcan."
+"GETT",11,"Tree Density",NA,"nonsign",5,"Probable Failure","Tree Density","Prob. Failure 
+ Ash as Subcan."
+"GETT",12,"Sapling BA",NA,"nonsign",5,"Probable Failure","Sapling BA","Prob. Failure 
+ Ash as Subcan."
+"GETT",13,"Sapling Density",NA,"nonsign",5,"Probable Failure","Sapling Density","Prob. Failure 
+ Ash as Subcan."
+"GETT",14,"Seedling Density",NA,"nonsign",5,"Probable Failure","Seedling Density","Prob. Failure 
+ Ash as Subcan."
+"GETT",15,"Stocking Index",NA,"nonsign",5,"Probable Failure","Stocking Index","Prob. Failure 
+ Ash as Subcan."
+"GETT",16,"Tree BA",NA,"signdec_bad",5,"Probable Failure","Tree BA","Prob. Failure 
+ Ash as Subcan."
+"GETT",17,"Tree Density",NA,"nonsign",5,"Probable Failure","Tree Density","Prob. Failure 
+ Ash as Subcan."
+"GETT",18,"Sapling BA",NA,"signinc_good",5,"Probable Failure","Sapling BA","Prob. Failure 
+ Ash as Subcan."
+"GETT",19,"Sapling Density",NA,"signinc_good",5,"Probable Failure","Sapling Density","Prob. Failure 
+ Ash as Subcan."
+"GETT",20,"Seedling Density",NA,"signinc_good",5,"Probable Failure","Seedling Density","Prob. Failure 
+ Ash as Subcan."
+"GETT",21,"Tree BA",NA,"notmod",5,"Probable Failure","Tree BA","Prob. Failure 
+ Ash as Subcan."
+"GETT",22,"Tree Density",NA,"notmod",5,"Probable Failure","Tree Density","Prob. Failure 
+ Ash as Subcan."
+"GETT",23,"Sapling BA",NA,"signinc_bad",5,"Probable Failure","Sapling BA","Prob. Failure 
+ Ash as Subcan."
+"GETT",24,"Sapling Density",NA,"nonsign",5,"Probable Failure","Sapling Density","Prob. Failure 
+ Ash as Subcan."
+"GETT",25,"Seedling Density",NA,"nonsign",5,"Probable Failure","Seedling Density","Prob. Failure 
+ Ash as Subcan."
