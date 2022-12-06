@@ -1,0 +1,411 @@
+"Plot_Name","Unit_Code","Unit_Group","Subunit_Code","Cycle","Panel","Frame","Sample_Year","Date","TaxonCode","Latin_Name","Host_Tree_Tag","Host_TSN","Host_Latin_Name","Host_Status","Condition","Exotic"
+"WEFA-001","WEFA","WEFA",NA,"1",2,"NETN",2007,"20070704",NA,"Unknown species",8,19487,"Betula lenta","Alive","Vines in the crown",0
+"ROVA-013","ROVA","ROVA_VAMA","VAMA","1",2,"NETN",2007,"20070626",NA,"Unknown species",1,183289,"Picea abies","Alive","Vines in the crown",1
+"MORR-001","MORR","MORR_NJ_Brigade","NJ Brigade","1",2,"NETN",2007,"20070611",NA,"Unknown species",2,19487,"Betula lenta","Alive","Vines in the crown",0
+"SARA-008","SARA","SARA",NA,"1",1,"NETN",2006,"20060810",NA,"Unknown species",8,32931,"Fraxinus americana","Alive","Vines in the crown",0
+"ROVA-013","ROVA","ROVA_VAMA","VAMA","1",2,"NETN",2007,"20070626",NA,"Unknown species",19,183289,"Picea abies","Alive","Vines in the crown",1
+"ROVA-031","ROVA","ROVA_HOFR_West","ELRO/HOFR","3",4,"NETN",2017,"20170606",NA,"Unknown species",20,28731,"Acer saccharum","Alive Leaning","Vines in the crown",0
+"MIMA-008","MIMA","MIMA_Battle_Road",NA,"1",1,"NETN",2006,"20060720",NA,"Unknown species",13,28728,"Acer rubrum","Alive","Vines in the crown",0
+"ROVA-017","ROVA","ROVA_HOFR_East","ELRO/HOFR","1",2,"NETN",2007,"20070628",NA,"Unknown species",2,32929,"Fraxinus pennsylvanica","Alive","Vines in the crown",0
+"ROVA-013","ROVA","ROVA_VAMA","VAMA","1",2,"NETN",2007,"20070626",NA,"Unknown species",22,183289,"Picea abies","Alive","Vines in the crown",1
+"MIMA-013","MIMA","MIMA_Battle_Road",NA,"1",3,"NETN",2008,"20080624",NA,"Unknown species",14,19447,"Quercus velutina","Alive","Vines in the crown",0
+"SARA-010","SARA","SARA",NA,"1",1,"NETN",2006,"20060814",NA,"Unknown species",10,19049,"Ulmus americana","Alive","Vines in the crown",0
+"MORR-001","MORR","MORR_NJ_Brigade","NJ Brigade","1",2,"NETN",2007,"20070611",NA,"Unknown species",5,32931,"Fraxinus americana","Alive","Vines in the crown",0
+"ROVA-007","ROVA","ROVA_VAMA","VAMA","1",2,"NETN",2007,"20070625",NA,"Unknown species",10,19290,"Quercus alba","Alive","Vines in the crown",0
+"MORR-006","MORR","MORR_Jockey_Hollow",NA,"2",2,"NETN",2011,"20110523",NA,"Unknown species",4,32931,"Fraxinus americana","Alive Standing","Vines in the crown",0
+"ROVA-019","ROVA","ROVA_ELRO","ELRO/HOFR","1",2,"NETN",2007,"20070627",NA,"Unknown species",2,19511,"Ostrya virginiana","Alive","Vines in the crown",0
+"ROVA-028","ROVA","ROVA_VAMA","VAMA","1",4,"NETN",2009,"20090608",NA,"Unknown species",5,19227,"Carya cordiformis","Alive","Vines in the crown",0
+"MIMA-012","MIMA","MIMA_Battle_Road",NA,"1",3,"NETN",2008,"20080624",NA,"Unknown species",1,28728,"Acer rubrum","Alive","Vines in the crown",0
+"MIMA-020","MIMA","MIMA_Battle_Road",NA,"1",3,"NETN",2008,"20080626",NA,"Unknown species",4,22524,"Salix discolor","Alive","Vines in the crown",0
+"MORR-006","MORR","MORR_Jockey_Hollow",NA,"1",2,"NETN",2007,"20070612",NA,"Unknown species",8,32931,"Fraxinus americana","Alive","Vines in the crown",0
+"MIMA-002","MIMA","MIMA_Battle_Road",NA,"1",1,"NETN",2006,"20060716",NA,"Unknown species",6,28728,"Acer rubrum","Alive","Vines in the crown",0
+"MIMA-015","MIMA","MIMA_Battle_Road",NA,"1",3,"NETN",2008,"20080625",NA,"Unknown species",18,24764,"Prunus serotina","Alive","Vines in the crown",0
+"MORR-006","MORR","MORR_Jockey_Hollow",NA,"1",2,"NETN",2007,"20070612",NA,"Unknown species",5,18086,"Liriodendron tulipifera","Alive","Vines in the crown",0
+"MIMA-002","MIMA","MIMA_Battle_Road",NA,"1",1,"NETN",2006,"20060716",NA,"Unknown species",7,183389,"Pinus sylvestris","Alive","Vines in the crown",1
+"MORR-012","MORR","MORR_Jockey_Hollow",NA,"1",2,"NETN",2007,"20070614",NA,"Unknown species",14,19247,"Carya tomentosa","Alive","Vines in the crown",0
+"MORR-001","MORR","MORR_NJ_Brigade","NJ Brigade","1",2,"NETN",2007,"20070611",NA,"Unknown species",13,19447,"Quercus velutina","Alive","Vines in the crown",0
+"MIMA-011","MIMA","MIMA_North_Bridge",NA,"1",3,"NETN",2008,"20080623",NA,"Unknown species",2,28728,"Acer rubrum","Alive","Vines in the crown",0
+"SARA-020","SARA","SARA",NA,"3",3,"NETN",2016,"20160531",NA,"Unknown species",22,28573,"Rhamnus cathartica","Alive Standing","Vines in the crown",1
+"ROVA-031","ROVA","ROVA_HOFR_West","ELRO/HOFR","3",4,"NETN",2017,"20170606",NA,"Unknown species",16,28731,"Acer saccharum","Alive Standing","Vines in the crown",0
+"MIMA-011","MIMA","MIMA_North_Bridge",NA,"1",3,"NETN",2008,"20080623",NA,"Unknown species",3,28728,"Acer rubrum","Alive","Vines in the crown",0
+"WEFA-004","WEFA","WEFA",NA,"1",2,"NETN",2007,"20070705",NA,"Unknown species",11,19242,"Carya ovata","Alive","Vines in the crown",0
+"SARA-001","SARA","SARA",NA,"1",1,"NETN",2006,"20060808",NA,"Unknown species",4,19049,"Ulmus americana","Alive","Vines in the crown",0
+"ROVA-010","ROVA","ROVA_VAMA","VAMA","1",2,"NETN",2007,"20070626",NA,"Unknown species",11,28731,"Acer saccharum","Alive","Vines in the crown",0
+"ROVA-023","ROVA","ROVA_HOFR_West","ELRO/HOFR","1",4,"NETN",2009,"20090603",NA,"Unknown species",9,24764,"Prunus serotina","Alive","Vines in the crown",0
+"MIMA-004","MIMA","MIMA_Battle_Road",NA,"4",1,"NETN",2018,"20180618",NA,"Unknown species",8,32931,"Fraxinus americana","Alive Leaning","Vines in the crown",0
+"WEFA-007","WEFA","WEFA",NA,"1",4,"NETN",2009,"20090616",NA,"Unknown species",13,19481,"Betula alleghaniensis","Alive","Vines in the crown",0
+"MIMA-018","MIMA","MIMA_Battle_Road",NA,"1",3,"NETN",2008,"20080626",NA,"Unknown species",12,28728,"Acer rubrum","Alive","Vines in the crown",0
+"ROVA-016","ROVA","ROVA_HOFR_East","ELRO/HOFR","1",2,"NETN",2007,"20070628",NA,"Unknown species",15,19408,"Quercus rubra","Alive","Vines in the crown",0
+"MIMA-020","MIMA","MIMA_Battle_Road",NA,"1",3,"NETN",2008,"20080626",NA,"Unknown species",6,19497,"Betula populifolia","Alive","Vines in the crown",0
+"ROVA-013","ROVA","ROVA_VAMA","VAMA","1",2,"NETN",2007,"20070626",NA,"Unknown species",9,183289,"Picea abies","Alive","Vines in the crown",1
+"ROVA-031","ROVA","ROVA_HOFR_West","ELRO/HOFR","3",4,"NETN",2017,"20170606",NA,"Unknown species",13,28731,"Acer saccharum","Alive Standing","Vines in the crown",0
+"WEFA-004","WEFA","WEFA",NA,"1",2,"NETN",2007,"20070705",NA,"Unknown species",4,19487,"Betula lenta","Alive","Vines in the crown",0
+"ROVA-031","ROVA","ROVA_HOFR_West","ELRO/HOFR","3",4,"NETN",2017,"20170606",NA,"Unknown species",14,28731,"Acer saccharum","Alive Standing","Vines in the crown",0
+"MIMA-020","MIMA","MIMA_Battle_Road",NA,"1",3,"NETN",2008,"20080626",NA,"Unknown species",8,19497,"Betula populifolia","Alive","Vines in the crown",0
+"MORR-001","MORR","MORR_NJ_Brigade","NJ Brigade","1",2,"NETN",2007,"20070611",NA,"Unknown species",1,32931,"Fraxinus americana","Alive","Vines in the crown",0
+"MORR-024","MORR","MORR_NJ_Brigade","NJ Brigade","1",4,"NETN",2009,"20090528",NA,"Unknown species",5,18086,"Liriodendron tulipifera","Alive","Vines in the crown",0
+"MIMA-002","MIMA","MIMA_Battle_Road",NA,"1",1,"NETN",2006,"20060716",NA,"Unknown species",4,28728,"Acer rubrum","Alive","Vines in the crown",0
+"SARA-009","SARA","SARA",NA,"1",1,"NETN",2006,"20060814",NA,"Unknown species",2,183385,"Pinus strobus","Alive","Vines in the crown",0
+"MIMA-018","MIMA","MIMA_Battle_Road",NA,"1",3,"NETN",2008,"20080626",NA,"Unknown species",1,19049,"Ulmus americana","Alive","Vines in the crown",0
+"MIMA-008","MIMA","MIMA_Battle_Road",NA,"1",1,"NETN",2006,"20060720",NA,"Unknown species",12,28728,"Acer rubrum","Alive","Vines in the crown",0
+"MORR-001","MORR","MORR_NJ_Brigade","NJ Brigade","1",2,"NETN",2007,"20070611",NA,"Unknown species",3,18086,"Liriodendron tulipifera","Alive","Vines in the crown",0
+"MORR-006","MORR","MORR_Jockey_Hollow",NA,"1",2,"NETN",2007,"20070612",NA,"Unknown species",4,32931,"Fraxinus americana","Alive","Vines in the crown",0
+"ROVA-032","ROVA","ROVA_HOFR_West","ELRO/HOFR","2",4,"NETN",2013,"20130605",NA,"Unknown species",6,19231,"Carya glabra","Alive Standing","Vines in the crown",0
+"MIMA-002","MIMA","MIMA_Battle_Road",NA,"1",1,"NETN",2006,"20060716",NA,"Unknown species",5,28728,"Acer rubrum","Alive","Vines in the crown",0
+"MIMA-011","MIMA","MIMA_North_Bridge",NA,"1",3,"NETN",2008,"20080623",NA,"Unknown species",6,19300,"Quercus bicolor","Alive","Vines in the crown",0
+"MORR-001","MORR","MORR_NJ_Brigade","NJ Brigade","1",2,"NETN",2007,"20070611",NA,"Unknown species",12,19447,"Quercus velutina","Alive","Vines in the crown",0
+"MORR-017","MORR","MORR_Jockey_Hollow",NA,"1",4,"NETN",2009,"20090526",NA,"Unknown species",4,18158,"Sassafras albidum","Alive","Vines in the crown",0
+"SAGA-014","SAGA","SAGA",NA,"1",3,"NETN",2008,"20080618",NA,"Unknown species",16,19487,"Betula lenta","Alive","Vines in the crown",0
+"MORR-017","MORR","MORR_Jockey_Hollow",NA,"1",4,"NETN",2009,"20090526",NA,"Unknown species",2,504804,"Robinia pseudoacacia","Alive","Vines in the crown",1
+"ROVA-031","ROVA","ROVA_HOFR_West","ELRO/HOFR","3",4,"NETN",2017,"20170606",NA,"Unknown species",17,28731,"Acer saccharum","Alive Standing","Vines in the crown",0
+"ROVA-016","ROVA","ROVA_HOFR_East","ELRO/HOFR","1",2,"NETN",2007,"20070628",NA,"Unknown species",14,32931,"Fraxinus americana","Alive","Vines in the crown",0
+"MORR-012","MORR","MORR_Jockey_Hollow",NA,"1",2,"NETN",2007,"20070614",NA,"Unknown species",5,19487,"Betula lenta","Alive","Vines in the crown",0
+"ROVA-031","ROVA","ROVA_HOFR_West","ELRO/HOFR","3",4,"NETN",2017,"20170606",NA,"Unknown species",15,28731,"Acer saccharum","Alive Standing","Vines in the crown",0
+"MORR-017","MORR","MORR_Jockey_Hollow",NA,"1",4,"NETN",2009,"20090526",NA,"Unknown species",3,504804,"Robinia pseudoacacia","Alive","Vines in the crown",1
+"MIMA-018","MIMA","MIMA_Battle_Road",NA,"1",3,"NETN",2008,"20080626",NA,"Unknown species",11,28728,"Acer rubrum","Alive","Vines in the crown",0
+"MABI-017","MABI","MABI",NA,"1",3,"NETN",2008,"20080616",NA,"Unknown species",18,19462,"Fagus grandifolia","Alive","Vines in the crown",0
+"MIMA-002","MIMA","MIMA_Battle_Road",NA,"4",1,"NETN",2018,"20180619",NA,"Unknown species",4,28728,"Acer rubrum","Alive Standing","Vines in the crown",0
+"MIMA-002","MIMA","MIMA_Battle_Road",NA,"1",1,"NETN",2006,"20060716",NA,"Unknown species",23,28728,"Acer rubrum","Alive","Vines in the crown",0
+"ROVA-001","ROVA","ROVA_HOFR_West","ELRO/HOFR","1",2,"NETN",2007,"20070620",NA,"Unknown species",4,28731,"Acer saccharum","Alive","Vines in the crown",0
+"MORR-001","MORR","MORR_NJ_Brigade","NJ Brigade","1",2,"NETN",2007,"20070611",NA,"Unknown species",11,27806,"Cornus florida","Alive","Vines in the crown",0
+"SARA-028","SARA","SARA",NA,"1",3,"NETN",2008,"20080605",NA,"Unknown species",7,19242,"Carya ovata","Alive","Vines in the crown",0
+"MORR-012","MORR","MORR_Jockey_Hollow",NA,"1",2,"NETN",2007,"20070614",NA,"Unknown species",10,19487,"Betula lenta","Alive","Vines in the crown",0
+"WEFA-009","WEFA","WEFA",NA,"1",4,"NETN",2009,"20090615",NA,"Unknown species",9,19487,"Betula lenta","Alive","Vines in the crown",0
+"MIMA-002","MIMA","MIMA_Battle_Road",NA,"1",1,"NETN",2006,"20060716",NA,"Unknown species",3,28728,"Acer rubrum","Alive","Vines in the crown",0
+"MORR-001","MORR","MORR_NJ_Brigade","NJ Brigade","1",2,"NETN",2007,"20070611",NA,"Unknown species",4,32931,"Fraxinus americana","Alive","Vines in the crown",0
+"SARA-014","SARA","SARA",NA,"1",1,"NETN",2006,"20060819",NA,"Unknown species",11,19049,"Ulmus americana","Alive","Vines in the crown",0
+"MORR-001","MORR","MORR_NJ_Brigade","NJ Brigade","1",2,"NETN",2007,"20070611",NA,"Unknown species",7,28755,"Acer platanoides","Alive","Vines in the crown",1
+"WEFA-007","WEFA","WEFA",NA,"3",4,"NETN",2017,"20170612",NA,"Unknown species",7,28728,"Acer rubrum","Alive Standing","Vines in the crown",0
+"MIMA-015","MIMA","MIMA_Battle_Road",NA,"1",3,"NETN",2008,"20080625",NA,"Unknown species",21,24764,"Prunus serotina","Alive","Vines in the crown",0
+"WEFA-010","WEFA","WEFA",NA,"1",4,"NETN",2009,"20090617",NA,"Unknown species",7,32931,"Fraxinus americana","Alive","Vines in the crown",0
+"SARA-008","SARA","SARA",NA,"1",1,"NETN",2006,"20060810",NA,"Unknown species",11,19049,"Ulmus americana","Alive","Vines in the crown",0
+"MIMA-020","MIMA","MIMA_Battle_Road",NA,"1",3,"NETN",2008,"20080626",NA,"Unknown species",7,19497,"Betula populifolia","Alive","Vines in the crown",0
+"ROVA-013","ROVA","ROVA_VAMA","VAMA","1",2,"NETN",2007,"20070626",NA,"Unknown species",7,183289,"Picea abies","Alive","Vines in the crown",1
+"SARA-008","SARA","SARA",NA,"1",1,"NETN",2006,"20060810",NA,"Unknown species",13,183385,"Pinus strobus","Alive","Vines in the crown",0
+"MORR-001","MORR","MORR_NJ_Brigade","NJ Brigade","1",2,"NETN",2007,"20070611",NA,"Unknown species",6,32931,"Fraxinus americana","Alive","Vines in the crown",0
+"ROVA-013","ROVA","ROVA_VAMA","VAMA","1",2,"NETN",2007,"20070626",NA,"Unknown species",6,183289,"Picea abies","Alive","Vines in the crown",1
+"ROVA-028","ROVA","ROVA_VAMA","VAMA","1",4,"NETN",2009,"20090608",NA,"Unknown species",8,19487,"Betula lenta","Alive","Vines in the crown",0
+"ROVA-032","ROVA","ROVA_HOFR_West","ELRO/HOFR","2",4,"NETN",2013,"20130605",NA,"Unknown species",7,28731,"Acer saccharum","Alive Standing","Vines in the crown",0
+"MIMA-020","MIMA","MIMA_Battle_Road",NA,"1",3,"NETN",2008,"20080626",NA,"Unknown species",2,32931,"Fraxinus americana","Alive","Vines in the crown",0
+"ROVA-017","ROVA","ROVA_HOFR_East","ELRO/HOFR","1",2,"NETN",2007,"20070628",NA,"Unknown species",1,19300,"Quercus bicolor","Alive","Vines in the crown",0
+"WEFA-004","WEFA","WEFA",NA,"1",2,"NETN",2007,"20070705",NA,"Unknown species",5,19242,"Carya ovata","Alive","Vines in the crown",0
+"WEFA-007","WEFA","WEFA",NA,"3",4,"NETN",2017,"20170612",NA,"Unknown species",21,28728,"Acer rubrum","Alive Standing","Vines in the crown",0
+"ROVA-013","ROVA","ROVA_VAMA","VAMA","1",2,"NETN",2007,"20070626",NA,"Unknown species",3,183289,"Picea abies","Alive","Vines in the crown",1
+"ROVA-007","ROVA","ROVA_VAMA","VAMA","1",2,"NETN",2007,"20070625",NA,"Unknown species",16,28731,"Acer saccharum","Alive","Vines in the crown",0
+"ROVA-029","ROVA","ROVA_VAMA","VAMA","1",4,"NETN",2009,"20090608",NA,"Parthenocissus",15,28731,"Acer saccharum","Alive","Vines in the crown",0
+"MORR-017","MORR","MORR_Jockey_Hollow",NA,"2",4,"NETN",2013,"20130528",NA,"Parthenocissus quinquefolia",2,504804,"Robinia pseudoacacia","Alive Leaning","Vines in the crown",1
+"SARA-002","SARA","SARA",NA,"4",1,"NETN",2018,"20180604",NA,"Parthenocissus quinquefolia",17,183385,"Pinus strobus","Recruit Standing","Vines in the crown",0
+"MORR-019","MORR","MORR_Jockey_Hollow",NA,"2",4,"NETN",2013,"20130529",NA,"Parthenocissus quinquefolia",11,504804,"Robinia pseudoacacia","Alive Fallen","Vines in the crown",1
+"MIMA-005","MIMA","MIMA_Battle_Road",NA,"3",1,"NETN",2014,"20140617",NA,"Parthenocissus quinquefolia",20,504804,"Robinia pseudoacacia","Recruit Standing","Vines in the crown",1
+"SARA-004","SARA","SARA",NA,"4",1,"NETN",2018,"20180529",NA,"Parthenocissus quinquefolia",3,183385,"Pinus strobus","Alive Standing","Vines in the crown",0
+"WEFA-004","WEFA","WEFA",NA,"4",2,"NETN",2019,"20190612",NA,"Parthenocissus quinquefolia",4,19487,"Betula lenta","Alive Standing","Vines in the crown",0
+"SARA-031","SARA","SARA",NA,"2",3,"NETN",2012,"20120531",NA,"Parthenocissus quinquefolia",14,19049,"Ulmus americana","Alive Broken","Vines in the crown",0
+"ROVA-008","ROVA","ROVA_VAMA","VAMA","4",2,"NETN",2019,"20190528",NA,"Parthenocissus quinquefolia",11,28731,"Acer saccharum","Alive Standing","Vines in the crown",0
+"MORR-017","MORR","MORR_Jockey_Hollow",NA,"3",4,"NETN",2017,"20170524",NA,"Parthenocissus quinquefolia",2,504804,"Robinia pseudoacacia","Alive Leaning","Vines in the crown",1
+"MIMA-005","MIMA","MIMA_Battle_Road",NA,"2",1,"NETN",2010,"20100622",NA,"Parthenocissus quinquefolia",10,504804,"Robinia pseudoacacia","Alive Standing","Vines in the crown",1
+"WEFA-007","WEFA","WEFA",NA,"1",4,"NETN",2009,"20090616",NA,"Parthenocissus quinquefolia",1,28728,"Acer rubrum","Alive","Vines in the crown",0
+"MIMA-004","MIMA","MIMA_Battle_Road",NA,"4",1,"NETN",2018,"20180618",NA,"Parthenocissus quinquefolia",13,32931,"Fraxinus americana","Alive Standing","Vines in the crown",0
+"SARA-009","SARA","SARA",NA,"2",1,"NETN",2010,"20100608",NA,"Parthenocissus quinquefolia",2,183385,"Pinus strobus","Alive Standing","Vines in the crown",0
+"ROVA-016","ROVA","ROVA_HOFR_East","ELRO/HOFR","4",2,"NETN",2019,"20190604",NA,"Parthenocissus quinquefolia",14,32931,"Fraxinus americana","Alive Standing","Vines in the crown",0
+"MIMA-005","MIMA","MIMA_Battle_Road",NA,"4",1,"NETN",2018,"20180618",NA,"Parthenocissus quinquefolia",10,504804,"Robinia pseudoacacia","Alive Standing","Vines in the crown",1
+"MIMA-005","MIMA","MIMA_Battle_Road",NA,"1",1,"NETN",2006,"20060719",NA,"Parthenocissus quinquefolia",6,504804,"Robinia pseudoacacia","Alive","Vines in the crown",1
+"MIMA-005","MIMA","MIMA_Battle_Road",NA,"1",1,"NETN",2006,"20060719",NA,"Parthenocissus quinquefolia",9,504804,"Robinia pseudoacacia","Alive","Vines in the crown",1
+"SARA-010","SARA","SARA",NA,"4",1,"NETN",2018,"20180529",NA,"Parthenocissus quinquefolia",37,28573,"Rhamnus cathartica","Alive Standing","Vines in the crown",1
+"WEFA-004","WEFA","WEFA",NA,"2",2,"NETN",2011,"20110613",NA,"Parthenocissus quinquefolia",4,19487,"Betula lenta","Alive Standing","Vines in the crown",0
+"MIMA-006","MIMA","MIMA_Battle_Road",NA,"4",1,"NETN",2018,"20180618",NA,"Parthenocissus quinquefolia",28,24764,"Prunus serotina","Recruit Standing","Vines in the crown",0
+"SARA-010","SARA","SARA",NA,"4",1,"NETN",2018,"20180529",NA,"Parthenocissus quinquefolia",38,28573,"Rhamnus cathartica","Alive Standing","Vines in the crown",1
+"WEFA-004","WEFA","WEFA",NA,"2",2,"NETN",2011,"20110613",NA,"Parthenocissus quinquefolia",7,28728,"Acer rubrum","Alive Standing","Vines in the crown",0
+"ROVA-016","ROVA","ROVA_HOFR_East","ELRO/HOFR","3",2,"NETN",2015,"20150604",NA,"Parthenocissus quinquefolia",14,32931,"Fraxinus americana","Alive Standing","Vines in the crown",0
+"SARA-031","SARA","SARA",NA,"3",3,"NETN",2016,"20160531",NA,"Parthenocissus quinquefolia",14,19049,"Ulmus americana","Alive Standing","Vines in the crown",0
+"SARA-027","SARA","SARA",NA,"2",3,"NETN",2012,"20120601",NA,"Parthenocissus quinquefolia",4,19049,"Ulmus americana","Alive Standing","Vines in the crown",0
+"ROVA-016","ROVA","ROVA_HOFR_East","ELRO/HOFR","2",2,"NETN",2011,"20110608",NA,"Parthenocissus quinquefolia",14,32931,"Fraxinus americana","Alive Standing","Vines in the crown",0
+"WEFA-007","WEFA","WEFA",NA,"2",4,"NETN",2013,"20130617",NA,"Parthenocissus quinquefolia",7,28728,"Acer rubrum","Alive Standing","Vines in the crown",0
+"MIMA-004","MIMA","MIMA_Battle_Road",NA,"4",1,"NETN",2018,"20180618",NA,"Parthenocissus quinquefolia",2,19254,"Juglans nigra","Alive Standing","Vines in the crown",0
+"SARA-010","SARA","SARA",NA,"3",1,"NETN",2014,"20140529",NA,"Parthenocissus quinquefolia",39,28573,"Rhamnus cathartica","Recruit Standing","Vines in the crown",1
+"SARA-010","SARA","SARA",NA,"3",1,"NETN",2014,"20140529",NA,"Parthenocissus quinquefolia",37,28573,"Rhamnus cathartica","Recruit Standing","Vines in the crown",1
+"MIMA-005","MIMA","MIMA_Battle_Road",NA,"1",1,"NETN",2006,"20060719",NA,"Parthenocissus quinquefolia",10,504804,"Robinia pseudoacacia","Alive","Vines in the crown",1
+"MORR-020","MORR","MORR_Jockey_Hollow",NA,"1",4,"NETN",2009,"20090526",NA,"Vitis",4,32931,"Fraxinus americana","Alive","Vines in the crown",0
+"MORR-029","MORR","MORR_Jockey_Hollow",NA,"1",4,"NETN",2009,"20090601",NA,"Vitis",9,19487,"Betula lenta","Alive","Vines in the crown",0
+"MIMA-011","MIMA","MIMA_North_Bridge",NA,"2",3,"NETN",2012,"20120621",NA,"Vitis",1,28728,"Acer rubrum","Alive Standing","Vines in the crown",0
+"SARA-024","SARA","SARA",NA,"3",3,"NETN",2016,"20160602",NA,"Vitis",4,32931,"Fraxinus americana","Alive Leaning","Vines in the crown",0
+"ROVA-001","ROVA","ROVA_HOFR_West","ELRO/HOFR","4",2,"NETN",2019,"20190529",NA,"Vitis",4,28731,"Acer saccharum","Alive Standing","Vines in the crown",0
+"ROVA-032","ROVA","ROVA_HOFR_West","ELRO/HOFR","1",4,"NETN",2009,"20090603",NA,"Vitis",12,19487,"Betula lenta","Alive","Vines in the crown",0
+"ROVA-031","ROVA","ROVA_HOFR_West","ELRO/HOFR","1",4,"NETN",2009,"20090603",NA,"Vitis",15,28731,"Acer saccharum","Alive","Vines in the crown",0
+"ROVA-039","ROVA","ROVA_HOFR_East","ELRO/HOFR","2",4,"NETN",2013,"20130613",NA,"Vitis",16,183375,"Pinus resinosa","Alive Standing","Vines in the crown",0
+"ROVA-032","ROVA","ROVA_HOFR_West","ELRO/HOFR","2",4,"NETN",2013,"20130605",NA,"Vitis",18,28731,"Acer saccharum","Alive Missed","Vines in the crown",0
+"MORR-006","MORR","MORR_Jockey_Hollow",NA,"3",2,"NETN",2015,"20150527",NA,"Vitis",4,32931,"Fraxinus americana","Alive Standing","Vines in the crown",0
+"MORR-020","MORR","MORR_Jockey_Hollow",NA,"1",4,"NETN",2009,"20090526",NA,"Vitis",6,32931,"Fraxinus americana","Alive","Vines in the crown",0
+"ROVA-027","ROVA","ROVA_VAMA","VAMA","2",4,"NETN",2013,"20130627",NA,"Vitis",1,19290,"Quercus alba","Alive Standing","Vines in the crown",0
+"ROVA-025","ROVA","ROVA_VAMA","VAMA","1",4,"NETN",2009,"20090604",NA,"Vitis",6,19290,"Quercus alba","Alive","Vines in the crown",0
+"ROVA-031","ROVA","ROVA_HOFR_West","ELRO/HOFR","1",4,"NETN",2009,"20090603",NA,"Vitis",14,28731,"Acer saccharum","Alive","Vines in the crown",0
+"ROVA-001","ROVA","ROVA_HOFR_West","ELRO/HOFR","2",2,"NETN",2011,"20110602",NA,"Vitis",4,28731,"Acer saccharum","Alive Standing","Vines in the crown",0
+"ROVA-027","ROVA","ROVA_VAMA","VAMA","3",4,"NETN",2017,"20170607",NA,"Vitis",1,19290,"Quercus alba","Alive Standing","Vines in the crown",0
+"MORR-012","MORR","MORR_Jockey_Hollow",NA,"4",2,"NETN",2019,"20190521",NA,"Vitis",5,19487,"Betula lenta","Alive Standing","Vines in the crown",0
+"ROVA-039","ROVA","ROVA_HOFR_East","ELRO/HOFR","3",4,"NETN",2017,"20170530",NA,"Vitis",16,183375,"Pinus resinosa","Alive Standing","Vines in the crown",0
+"WEFA-005","WEFA","WEFA",NA,"4",2,"NETN",2019,"20190610",NA,"Vitis",8,28728,"Acer rubrum","Alive Standing","Vines in the crown",0
+"WEFA-007","WEFA","WEFA",NA,"1",4,"NETN",2009,"20090616",NA,"Vitis",21,28728,"Acer rubrum","Alive","Vines in the crown",0
+"MIMA-012","MIMA","MIMA_Battle_Road",NA,"3",3,"NETN",2016,"20160620",NA,"Vitis",12,28728,"Acer rubrum","Recruit Standing","Vines in the crown",0
+"MORR-023","MORR","MORR_Jockey_Hollow",NA,"1",4,"NETN",2009,"20090527",NA,"Vitis",7,19231,"Carya glabra","Alive","Vines in the crown",0
+"MORR-001","MORR","MORR_NJ_Brigade","NJ Brigade","4",2,"NETN",2019,"20190522",NA,"Vitis",2,19487,"Betula lenta","Alive Standing","Vines in the crown",0
+"MORR-001","MORR","MORR_NJ_Brigade","NJ Brigade","4",2,"NETN",2019,"20190522",NA,"Vitis",14,19379,"Quercus montana","Alive Standing","Vines in the crown",0
+"ROVA-022","ROVA","ROVA_HOFR_West","ELRO/HOFR","1",4,"NETN",2009,"20090603",NA,"Vitis",5,28731,"Acer saccharum","Alive","Vines in the crown",0
+"MORR-027","MORR","MORR_Jockey_Hollow",NA,"1",4,"NETN",2009,"20090601",NA,"Vitis",11,19447,"Quercus velutina","Alive","Vines in the crown",0
+"SARA-020","SARA","SARA",NA,"3",3,"NETN",2016,"20160531",NA,"Vitis",2,183385,"Pinus strobus","Alive Standing","Vines in the crown",0
+"SARA-025","SARA","SARA",NA,"3",3,"NETN",2016,"20160602",NA,"Vitis",6,19447,"Quercus velutina","Alive Standing","Vines in the crown",0
+"SARA-005","SARA","SARA",NA,"2",1,"NETN",2010,"20100603",NA,"Vitis",18,183385,"Pinus strobus","Alive Standing","Vines in the crown",0
+"MIMA-018","MIMA","MIMA_Battle_Road",NA,"3",3,"NETN",2016,"20160620",NA,"Vitis",14,28728,"Acer rubrum","Alive Standing","Vines in the crown",0
+"ROVA-028","ROVA","ROVA_VAMA","VAMA","2",4,"NETN",2013,"20130604",NA,"Vitis",2,28731,"Acer saccharum","Alive Standing","Vines in the crown",0
+"MORR-004","MORR","MORR_Jockey_Hollow",NA,"3",2,"NETN",2015,"20150528",NA,"Vitis",1,19462,"Fagus grandifolia","Alive Standing","Vines in the crown",0
+"MORR-022","MORR","MORR_Jockey_Hollow",NA,"1",4,"NETN",2009,"20090527",NA,"Vitis",7,19408,"Quercus rubra","Alive","Vines in the crown",0
+"ROVA-031","ROVA","ROVA_HOFR_West","ELRO/HOFR","1",4,"NETN",2009,"20090603",NA,"Vitis",18,28731,"Acer saccharum","Alive","Vines in the crown",0
+"MORR-029","MORR","MORR_Jockey_Hollow",NA,"1",4,"NETN",2009,"20090601",NA,"Vitis",8,18086,"Liriodendron tulipifera","Alive","Vines in the crown",0
+"MIMA-012","MIMA","MIMA_Battle_Road",NA,"3",3,"NETN",2016,"20160620",NA,"Vitis",1,28728,"Acer rubrum","Alive Standing","Vines in the crown",0
+"MORR-012","MORR","MORR_Jockey_Hollow",NA,"4",2,"NETN",2019,"20190521",NA,"Vitis",6,19487,"Betula lenta","Alive Standing","Vines in the crown",0
+"MIMA-011","MIMA","MIMA_North_Bridge",NA,"3",3,"NETN",2016,"20160621",NA,"Vitis",6,19300,"Quercus bicolor","Alive Standing","Vines in the crown",0
+"MIMA-018","MIMA","MIMA_Battle_Road",NA,"3",3,"NETN",2016,"20160620",NA,"Vitis",12,28728,"Acer rubrum","Alive Standing","Vines in the crown",0
+"SARA-010","SARA","SARA",NA,"3",1,"NETN",2014,"20140529",NA,"Vitis",35,28573,"Rhamnus cathartica","Alive Missed","Vines in the crown",1
+"WEFA-005","WEFA","WEFA",NA,"4",2,"NETN",2019,"20190610",NA,"Vitis",10,19487,"Betula lenta","Alive Standing","Vines in the crown",0
+"MORR-012","MORR","MORR_Jockey_Hollow",NA,"3",2,"NETN",2015,"20150526",NA,"Vitis",5,19487,"Betula lenta","Alive Standing","Vines in the crown",0
+"MORR-017","MORR","MORR_Jockey_Hollow",NA,"2",4,"NETN",2013,"20130528",NA,"Vitis",13,28728,"Acer rubrum","Alive Standing","Vines in the crown",0
+"MIMA-018","MIMA","MIMA_Battle_Road",NA,"3",3,"NETN",2016,"20160620",NA,"Vitis",3,19049,"Ulmus americana","Alive Standing","Vines in the crown",0
+"MORR-022","MORR","MORR_Jockey_Hollow",NA,"2",4,"NETN",2013,"20130529",NA,"Vitis",7,19408,"Quercus rubra","Alive Standing","Vines in the crown",0
+"SARA-005","SARA","SARA",NA,"4",1,"NETN",2018,"20180529",NA,"Vitis",17,183385,"Pinus strobus","Alive Standing","Vines in the crown",0
+"MORR-023","MORR","MORR_Jockey_Hollow",NA,"2",4,"NETN",2013,"20130528",NA,"Vitis",9,19231,"Carya glabra","Alive Standing","Vines in the crown",0
+"ROVA-028","ROVA","ROVA_VAMA","VAMA","1",4,"NETN",2009,"20090608",NA,"Vitis",6,28728,"Acer rubrum","Alive","Vines in the crown",0
+"ROVA-039","ROVA","ROVA_HOFR_East","ELRO/HOFR","2",4,"NETN",2013,"20130613",NA,"Vitis",17,28731,"Acer saccharum","Alive Standing","Vines in the crown",0
+"MIMA-003","MIMA","MIMA_Battle_Road",NA,"2",1,"NETN",2010,"20100621",NA,"Vitis",24,28728,"Acer rubrum","Alive Standing","Vines in the crown",0
+"MORR-017","MORR","MORR_Jockey_Hollow",NA,"2",4,"NETN",2013,"20130528",NA,"Vitis",2,504804,"Robinia pseudoacacia","Alive Leaning","Vines in the crown",1
+"MORR-019","MORR","MORR_Jockey_Hollow",NA,"1",4,"NETN",2009,"20090526",NA,"Vitis",2,32931,"Fraxinus americana","Alive","Vines in the crown",0
+"SARA-024","SARA","SARA",NA,"2",3,"NETN",2012,"20120531",NA,"Vitis",1,183385,"Pinus strobus","Alive Standing","Vines in the crown",0
+"ROVA-028","ROVA","ROVA_VAMA","VAMA","2",4,"NETN",2013,"20130604",NA,"Vitis",1,28728,"Acer rubrum","Alive Broken","Vines in the crown",0
+"MIMA-018","MIMA","MIMA_Battle_Road",NA,"3",3,"NETN",2016,"20160620",NA,"Vitis",7,27821,"Nyssa sylvatica","Alive Standing","Vines in the crown",0
+"MIMA-011","MIMA","MIMA_North_Bridge",NA,"3",3,"NETN",2016,"20160621",NA,"Vitis",3,28728,"Acer rubrum","Alive Standing","Vines in the crown",0
+"SARA-022","SARA","SARA",NA,"3",3,"NETN",2016,"20160602",NA,"Vitis",5,183385,"Pinus strobus","Alive Standing","Vines in the crown",0
+"MORR-012","MORR","MORR_Jockey_Hollow",NA,"4",2,"NETN",2019,"20190521",NA,"Vitis",10,19487,"Betula lenta","Alive Standing","Vines in the crown",0
+"MORR-001","MORR","MORR_NJ_Brigade","NJ Brigade","3",2,"NETN",2015,"20150529",NA,"Vitis",13,19447,"Quercus velutina","Alive Standing","Vines in the crown",0
+"MORR-001","MORR","MORR_NJ_Brigade","NJ Brigade","2",2,"NETN",2011,"20110524",NA,"Vitis",13,19447,"Quercus velutina","Alive Standing","Vines in the crown",0
+"SARA-019","SARA","SARA",NA,"2",3,"NETN",2012,"20120530",NA,"Vitis",11,24764,"Prunus serotina","Alive Standing","Vines in the crown",0
+"MORR-012","MORR","MORR_Jockey_Hollow",NA,"4",2,"NETN",2019,"20190521",NA,"Vitis",7,18086,"Liriodendron tulipifera","Alive Standing","Vines in the crown",0
+"SARA-020","SARA","SARA",NA,"3",3,"NETN",2016,"20160531",NA,"Vitis",1,24764,"Prunus serotina","Alive Fallen","Vines in the crown",0
+"MORR-002","MORR","MORR_NJ_Brigade","NJ Brigade","3",2,"NETN",2015,"20150528",NA,"Vitis",2,19462,"Fagus grandifolia","Alive Standing","Vines in the crown",0
+"MORR-006","MORR","MORR_Jockey_Hollow",NA,"4",2,"NETN",2019,"20190520",NA,"Vitis",14,28728,"Acer rubrum","Alive Standing","Vines in the crown",0
+"SARA-024","SARA","SARA",NA,"3",3,"NETN",2016,"20160602",NA,"Vitis",1,183385,"Pinus strobus","Alive Standing","Vines in the crown",0
+"MORR-016","MORR","MORR_Jockey_Hollow",NA,"3",4,"NETN",2017,"20170524",NA,"Vitis",14,18086,"Liriodendron tulipifera","Alive Standing","Vines in the crown",0
+"MORR-024","MORR","MORR_NJ_Brigade","NJ Brigade","3",4,"NETN",2017,"20170525",NA,"Vitis",8,18086,"Liriodendron tulipifera","Alive Standing","Vines in the crown",0
+"MORR-012","MORR","MORR_Jockey_Hollow",NA,"2",2,"NETN",2011,"20110525",NA,"Vitis",10,19487,"Betula lenta","Alive Standing","Vines in the crown",0
+"MORR-021","MORR","MORR_Jockey_Hollow",NA,"1",4,"NETN",2009,"20090526",NA,"Vitis",6,18086,"Liriodendron tulipifera","Alive","Vines in the crown",0
+"MORR-029","MORR","MORR_Jockey_Hollow",NA,"1",4,"NETN",2009,"20090601",NA,"Vitis",6,18086,"Liriodendron tulipifera","Alive","Vines in the crown",0
+"ROVA-039","ROVA","ROVA_HOFR_East","ELRO/HOFR","3",4,"NETN",2017,"20170530",NA,"Vitis",18,183375,"Pinus resinosa","Alive Standing","Vines in the crown",0
+"MORR-023","MORR","MORR_Jockey_Hollow",NA,"2",4,"NETN",2013,"20130528",NA,"Vitis",7,19231,"Carya glabra","Alive Broken","Vines in the crown",0
+"ROVA-031","ROVA","ROVA_HOFR_West","ELRO/HOFR","2",4,"NETN",2013,"20130606",NA,"Vitis",16,28731,"Acer saccharum","Alive Standing","Vines in the crown",0
+"ROVA-025","ROVA","ROVA_VAMA","VAMA","1",4,"NETN",2009,"20090604",NA,"Vitis",15,28731,"Acer saccharum","Alive","Vines in the crown",0
+"MIMA-018","MIMA","MIMA_Battle_Road",NA,"3",3,"NETN",2016,"20160620",NA,"Vitis",9,28728,"Acer rubrum","Alive Standing","Vines in the crown",0
+"MORR-023","MORR","MORR_Jockey_Hollow",NA,"1",4,"NETN",2009,"20090527",NA,"Vitis",1,19231,"Carya glabra","Alive","Vines in the crown",0
+"MORR-024","MORR","MORR_NJ_Brigade","NJ Brigade","2",4,"NETN",2013,"20130530",NA,"Vitis",3,18086,"Liriodendron tulipifera","Alive Standing","Vines in the crown",0
+"MORR-029","MORR","MORR_Jockey_Hollow",NA,"2",4,"NETN",2013,"20130528",NA,"Vitis",9,19487,"Betula lenta","Alive Standing","Vines in the crown",0
+"SARA-008","SARA","SARA",NA,"2",1,"NETN",2010,"20100601",NA,"Vitis",13,183385,"Pinus strobus","Alive Standing","Vines in the crown",0
+"MORR-023","MORR","MORR_Jockey_Hollow",NA,"3",4,"NETN",2017,"20170524",NA,"Vitis",1,19231,"Carya glabra","Alive Standing","Vines in the crown",0
+"ROVA-025","ROVA","ROVA_VAMA","VAMA","1",4,"NETN",2009,"20090604",NA,"Vitis",1,19408,"Quercus rubra","Alive","Vines in the crown",0
+"MORR-029","MORR","MORR_Jockey_Hollow",NA,"2",4,"NETN",2013,"20130528",NA,"Vitis",7,18086,"Liriodendron tulipifera","Alive Standing","Vines in the crown",0
+"MIMA-003","MIMA","MIMA_Battle_Road",NA,"2",1,"NETN",2010,"20100621",NA,"Vitis",3,28728,"Acer rubrum","Alive Leaning","Vines in the crown",0
+"MORR-023","MORR","MORR_Jockey_Hollow",NA,"2",4,"NETN",2013,"20130528",NA,"Vitis",3,19408,"Quercus rubra","Alive Standing","Vines in the crown",0
+"MORR-006","MORR","MORR_Jockey_Hollow",NA,"4",2,"NETN",2019,"20190520",NA,"Vitis",4,32931,"Fraxinus americana","Alive Standing","Vines in the crown",0
+"SARA-004","SARA","SARA",NA,"2",1,"NETN",2010,"20100603",NA,"Vitis",3,183385,"Pinus strobus","Alive Standing","Vines in the crown",0
+"MORR-021","MORR","MORR_Jockey_Hollow",NA,"2",4,"NETN",2013,"20130529",NA,"Vitis",10,19049,"Ulmus americana","Alive Standing","Vines in the crown",0
+"SARA-008","SARA","SARA",NA,"3",1,"NETN",2014,"20140528",NA,"Vitis",7,32931,"Fraxinus americana","Alive Standing","Vines in the crown",0
+"ROVA-019","ROVA","ROVA_ELRO","ELRO/HOFR","2",2,"NETN",2011,"20110609",NA,"Vitis",2,19511,"Ostrya virginiana","Alive Standing","Vines in the crown",0
+"ROVA-025","ROVA","ROVA_VAMA","VAMA","1",4,"NETN",2009,"20090604",NA,"Vitis",3,28731,"Acer saccharum","Alive","Vines in the crown",0
+"MORR-022","MORR","MORR_Jockey_Hollow",NA,"3",4,"NETN",2017,"20170523",NA,"Vitis",7,19408,"Quercus rubra","Alive Standing","Vines in the crown",0
+"MIMA-018","MIMA","MIMA_Battle_Road",NA,"3",3,"NETN",2016,"20160620",NA,"Vitis",8,28728,"Acer rubrum","Alive Standing","Vines in the crown",0
+"MIMA-018","MIMA","MIMA_Battle_Road",NA,"3",3,"NETN",2016,"20160620",NA,"Vitis",1,19049,"Ulmus americana","Alive Standing","Vines in the crown",0
+"MORR-024","MORR","MORR_NJ_Brigade","NJ Brigade","1",4,"NETN",2009,"20090528",NA,"Vitis",1,18086,"Liriodendron tulipifera","Alive","Vines in the crown",0
+"MORR-012","MORR","MORR_Jockey_Hollow",NA,"2",2,"NETN",2011,"20110525",NA,"Vitis",5,19487,"Betula lenta","Alive Standing","Vines in the crown",0
+"MORR-021","MORR","MORR_Jockey_Hollow",NA,"2",4,"NETN",2013,"20130529",NA,"Vitis",9,18158,"Sassafras albidum","Alive Standing","Vines in the crown",0
+"MORR-006","MORR","MORR_Jockey_Hollow",NA,"3",2,"NETN",2015,"20150527",NA,"Vitis",14,28728,"Acer rubrum","Alive Standing","Vines in the crown",0
+"SARA-020","SARA","SARA",NA,"3",3,"NETN",2016,"20160531",NA,"Vitis",17,28573,"Rhamnus cathartica","Alive Leaning","Vines in the crown",1
+"MORR-001","MORR","MORR_NJ_Brigade","NJ Brigade","4",2,"NETN",2019,"20190522",NA,"Vitis",6,32931,"Fraxinus americana","Alive Standing","Vines in the crown",0
+"SARA-005","SARA","SARA",NA,"3",1,"NETN",2014,"20140602",NA,"Vitis",18,183385,"Pinus strobus","Alive Standing","Vines in the crown",0
+"MORR-001","MORR","MORR_NJ_Brigade","NJ Brigade","3",2,"NETN",2015,"20150529",NA,"Vitis",7,28755,"Acer platanoides","Alive Standing","Vines in the crown",1
+"MORR-004","MORR","MORR_Jockey_Hollow",NA,"3",2,"NETN",2015,"20150528",NA,"Vitis",2,19462,"Fagus grandifolia","Alive Standing","Vines in the crown",0
+"SARA-008","SARA","SARA",NA,"2",1,"NETN",2010,"20100601",NA,"Vitis",4,32931,"Fraxinus americana","Alive Standing","Vines in the crown",0
+"ROVA-032","ROVA","ROVA_HOFR_West","ELRO/HOFR","3",4,"NETN",2017,"20170531",NA,"Vitis",7,28731,"Acer saccharum","Alive Standing","Vines in the crown",0
+"MORR-001","MORR","MORR_NJ_Brigade","NJ Brigade","2",2,"NETN",2011,"20110524",NA,"Vitis",2,19487,"Betula lenta","Alive Standing","Vines in the crown",0
+"ROVA-033","ROVA","ROVA_VAMA","VAMA","1",4,"NETN",2009,"20090604",NA,"Vitis",19,19408,"Quercus rubra","Alive","Vines in the crown",0
+"ROVA-031","ROVA","ROVA_HOFR_West","ELRO/HOFR","2",4,"NETN",2013,"20130606",NA,"Vitis",13,28731,"Acer saccharum","Alive Standing","Vines in the crown",0
+"ROVA-031","ROVA","ROVA_HOFR_West","ELRO/HOFR","1",4,"NETN",2009,"20090603",NA,"Vitis",13,28731,"Acer saccharum","Alive","Vines in the crown",0
+"MORR-021","MORR","MORR_Jockey_Hollow",NA,"1",4,"NETN",2009,"20090526",NA,"Vitis",9,18158,"Sassafras albidum","Alive","Vines in the crown",0
+"MIMA-011","MIMA","MIMA_North_Bridge",NA,"2",3,"NETN",2012,"20120621",NA,"Vitis",2,28728,"Acer rubrum","Alive Standing","Vines in the crown",0
+"ROVA-033","ROVA","ROVA_VAMA","VAMA","3",4,"NETN",2017,"20170601",NA,"Vitis",19,19408,"Quercus rubra","Alive Standing","Vines in the crown",0
+"SAGA-014","SAGA","SAGA",NA,"2",3,"NETN",2012,"20120613",NA,"Vitis",14,19462,"Fagus grandifolia","Alive Standing","Vines in the crown",0
+"ROVA-028","ROVA","ROVA_VAMA","VAMA","3",4,"NETN",2017,"20170601",NA,"Vitis",2,28731,"Acer saccharum","Alive Standing","Vines in the crown",0
+"MORR-001","MORR","MORR_NJ_Brigade","NJ Brigade","3",2,"NETN",2015,"20150529",NA,"Vitis",12,19447,"Quercus velutina","Alive Standing","Vines in the crown",0
+"MORR-027","MORR","MORR_Jockey_Hollow",NA,"1",4,"NETN",2009,"20090601",NA,"Vitis",1,19247,"Carya tomentosa","Alive","Vines in the crown",0
+"ROVA-010","ROVA","ROVA_VAMA","VAMA","2",2,"NETN",2011,"20110531",NA,"Vitis",12,183397,"Tsuga canadensis","Alive Standing","Vines in the crown",0
+"SARA-028","SARA","SARA",NA,"3",3,"NETN",2016,"20160603",NA,"Vitis",7,19242,"Carya ovata","Alive Standing","Vines in the crown",0
+"MORR-024","MORR","MORR_NJ_Brigade","NJ Brigade","2",4,"NETN",2013,"20130530",NA,"Vitis",2,18086,"Liriodendron tulipifera","Alive Standing","Vines in the crown",0
+"ROVA-031","ROVA","ROVA_HOFR_West","ELRO/HOFR","2",4,"NETN",2013,"20130606",NA,"Vitis",15,28731,"Acer saccharum","Alive Standing","Vines in the crown",0
+"ROVA-028","ROVA","ROVA_VAMA","VAMA","1",4,"NETN",2009,"20090608",NA,"Vitis",2,28731,"Acer saccharum","Alive","Vines in the crown",0
+"MIMA-011","MIMA","MIMA_North_Bridge",NA,"3",3,"NETN",2016,"20160621",NA,"Vitis",1,28728,"Acer rubrum","Alive Standing","Vines in the crown",0
+"WEFA-005","WEFA","WEFA",NA,"3",2,"NETN",2015,"20150616",NA,"Vitis",10,19487,"Betula lenta","Alive Leaning","Vines in the crown",0
+"MORR-004","MORR","MORR_Jockey_Hollow",NA,"2",2,"NETN",2011,"20110524",NA,"Vitis",2,19462,"Fagus grandifolia","Alive Standing","Vines in the crown",0
+"SAGA-014","SAGA","SAGA",NA,"2",3,"NETN",2012,"20120613",NA,"Vitis",16,19487,"Betula lenta","Alive Standing","Vines in the crown",0
+"MORR-023","MORR","MORR_Jockey_Hollow",NA,"1",4,"NETN",2009,"20090527",NA,"Vitis",8,19487,"Betula lenta","Alive","Vines in the crown",0
+"MORR-001","MORR","MORR_NJ_Brigade","NJ Brigade","3",2,"NETN",2015,"20150529",NA,"Vitis",14,19379,"Quercus montana","Alive Standing","Vines in the crown",0
+"ROVA-019","ROVA","ROVA_ELRO","ELRO/HOFR","3",2,"NETN",2015,"20150610",NA,"Vitis",2,19511,"Ostrya virginiana","Alive Standing","Vines in the crown",0
+"SARA-008","SARA","SARA",NA,"2",1,"NETN",2010,"20100601",NA,"Vitis",8,32931,"Fraxinus americana","Alive Leaning","Vines in the crown",0
+"SARA-008","SARA","SARA",NA,"3",1,"NETN",2014,"20140528",NA,"Vitis",13,183385,"Pinus strobus","Alive Standing","Vines in the crown",0
+"MORR-024","MORR","MORR_NJ_Brigade","NJ Brigade","2",4,"NETN",2013,"20130530",NA,"Vitis",8,18086,"Liriodendron tulipifera","Alive Standing","Vines in the crown",0
+"MIMA-003","MIMA","MIMA_Battle_Road",NA,"2",1,"NETN",2010,"20100621",NA,"Vitis",21,28728,"Acer rubrum","Alive Standing","Vines in the crown",0
+"MORR-023","MORR","MORR_Jockey_Hollow",NA,"3",4,"NETN",2017,"20170524",NA,"Vitis",8,19487,"Betula lenta","Alive Standing","Vines in the crown",0
+"MORR-001","MORR","MORR_NJ_Brigade","NJ Brigade","4",2,"NETN",2019,"20190522",NA,"Vitis",7,28755,"Acer platanoides","Alive Standing","Vines in the crown",1
+"MIMA-011","MIMA","MIMA_North_Bridge",NA,"3",3,"NETN",2016,"20160621",NA,"Vitis",2,28728,"Acer rubrum","Alive Broken","Vines in the crown",0
+"MIMA-012","MIMA","MIMA_Battle_Road",NA,"2",3,"NETN",2012,"20120619",NA,"Vitis",1,28728,"Acer rubrum","Alive Standing","Vines in the crown",0
+"MORR-023","MORR","MORR_Jockey_Hollow",NA,"1",4,"NETN",2009,"20090527",NA,"Vitis",9,19231,"Carya glabra","Alive","Vines in the crown",0
+"MORR-004","MORR","MORR_Jockey_Hollow",NA,"4",2,"NETN",2019,"20190522",NA,"Vitis",1,19462,"Fagus grandifolia","Alive Standing","Vines in the crown",0
+"MORR-012","MORR","MORR_Jockey_Hollow",NA,"4",2,"NETN",2019,"20190521",NA,"Vitis",14,19247,"Carya tomentosa","Alive Standing","Vines in the crown",0
+"ROVA-025","ROVA","ROVA_VAMA","VAMA","2",4,"NETN",2013,"20130604",NA,"Vitis",1,19408,"Quercus rubra","Alive Standing","Vines in the crown",0
+"MORR-001","MORR","MORR_NJ_Brigade","NJ Brigade","4",2,"NETN",2019,"20190522",NA,"Vitis",13,19447,"Quercus velutina","Alive Standing","Vines in the crown",0
+"MORR-012","MORR","MORR_Jockey_Hollow",NA,"3",2,"NETN",2015,"20150526",NA,"Vitis",14,19247,"Carya tomentosa","Alive Standing","Vines in the crown",0
+"SARA-008","SARA","SARA",NA,"3",1,"NETN",2014,"20140528",NA,"Vitis",4,32931,"Fraxinus americana","Alive Standing","Vines in the crown",0
+"SARA-008","SARA","SARA",NA,"2",1,"NETN",2010,"20100601",NA,"Vitis",12,32931,"Fraxinus americana","Alive Standing","Vines in the crown",0
+"ROVA-027","ROVA","ROVA_VAMA","VAMA","1",4,"NETN",2009,"20090608",NA,"Vitis",1,19290,"Quercus alba","Alive","Vines in the crown",0
+"ROVA-039","ROVA","ROVA_HOFR_East","ELRO/HOFR","1",4,"NETN",2009,"20090609",NA,"Vitis",16,183375,"Pinus resinosa","Alive","Vines in the crown",0
+"SARA-028","SARA","SARA",NA,"3",3,"NETN",2016,"20160603",NA,"Vitis",14,19242,"Carya ovata","Alive Leaning","Vines in the crown",0
+"ROVA-028","ROVA","ROVA_VAMA","VAMA","2",4,"NETN",2013,"20130604",NA,"Vitis",8,19487,"Betula lenta","Alive Standing","Vines in the crown",0
+"MORR-001","MORR","MORR_NJ_Brigade","NJ Brigade","3",2,"NETN",2015,"20150529",NA,"Vitis",11,27806,"Cornus florida","Alive Broken","Vines in the crown",0
+"MORR-027","MORR","MORR_Jockey_Hollow",NA,"1",4,"NETN",2009,"20090601",NA,"Vitis",2,28728,"Acer rubrum","Alive","Vines in the crown",0
+"MORR-004","MORR","MORR_Jockey_Hollow",NA,"2",2,"NETN",2011,"20110524",NA,"Vitis",1,19462,"Fagus grandifolia","Alive Standing","Vines in the crown",0
+"SAGA-014","SAGA","SAGA",NA,"2",3,"NETN",2012,"20120613",NA,"Vitis",4,19487,"Betula lenta","Alive Standing","Vines in the crown",0
+"ROVA-001","ROVA","ROVA_HOFR_West","ELRO/HOFR","3",2,"NETN",2015,"20150602",NA,"Vitis",4,28731,"Acer saccharum","Alive Standing","Vines in the crown",0
+"ROVA-031","ROVA","ROVA_HOFR_West","ELRO/HOFR","2",4,"NETN",2013,"20130606",NA,"Vitis",17,28731,"Acer saccharum","Alive Standing","Vines in the crown",0
+"MORR-024","MORR","MORR_NJ_Brigade","NJ Brigade","2",4,"NETN",2013,"20130530",NA,"Vitis",1,18086,"Liriodendron tulipifera","Alive Standing","Vines in the crown",0
+"SARA-005","SARA","SARA",NA,"2",1,"NETN",2010,"20100603",NA,"Vitis",17,183385,"Pinus strobus","Alive Standing","Vines in the crown",0
+"MORR-001","MORR","MORR_NJ_Brigade","NJ Brigade","2",2,"NETN",2011,"20110524",NA,"Vitis",11,27806,"Cornus florida","Alive Standing","Vines in the crown",0
+"SARA-001","SARA","SARA",NA,"4",1,"NETN",2018,"20180604",NA,"Vitis",15,32931,"Fraxinus americana","Recruit Standing","Vines in the crown",0
+"MORR-023","MORR","MORR_Jockey_Hollow",NA,"3",4,"NETN",2017,"20170524",NA,"Vitis",9,19231,"Carya glabra","Alive Standing","Vines in the crown",0
+"ROVA-033","ROVA","ROVA_VAMA","VAMA","2",4,"NETN",2013,"20130605",NA,"Vitis",19,19408,"Quercus rubra","Alive Standing","Vines in the crown",0
+"MORR-001","MORR","MORR_NJ_Brigade","NJ Brigade","3",2,"NETN",2015,"20150529",NA,"Vitis",2,19487,"Betula lenta","Alive Standing","Vines in the crown",0
+"ROVA-031","ROVA","ROVA_HOFR_West","ELRO/HOFR","2",4,"NETN",2013,"20130606",NA,"Vitis",20,28731,"Acer saccharum","Alive Leaning","Vines in the crown",0
+"MIMA-003","MIMA","MIMA_Battle_Road",NA,"2",1,"NETN",2010,"20100621",NA,"Vitis",17,19487,"Betula lenta","Alive Standing","Vines in the crown",0
+"SARA-008","SARA","SARA",NA,"2",1,"NETN",2010,"20100601",NA,"Vitis",7,32931,"Fraxinus americana","Alive Standing","Vines in the crown",0
+"MORR-029","MORR","MORR_Jockey_Hollow",NA,"1",4,"NETN",2009,"20090601",NA,"Vitis",7,18086,"Liriodendron tulipifera","Alive","Vines in the crown",0
+"ROVA-039","ROVA","ROVA_HOFR_East","ELRO/HOFR","2",4,"NETN",2013,"20130613",NA,"Vitis",18,183375,"Pinus resinosa","Alive Standing","Vines in the crown",0
+"ROVA-039","ROVA","ROVA_HOFR_East","ELRO/HOFR","1",4,"NETN",2009,"20090609",NA,"Vitis",31,28728,"Acer rubrum","Alive","Vines in the crown",0
+"ROVA-022","ROVA","ROVA_HOFR_West","ELRO/HOFR","1",4,"NETN",2009,"20090603",NA,"Vitis",3,28755,"Acer platanoides","Alive","Vines in the crown",1
+"MORR-024","MORR","MORR_NJ_Brigade","NJ Brigade","1",4,"NETN",2009,"20090528",NA,"Vitis",8,18086,"Liriodendron tulipifera","Alive","Vines in the crown",0
+"SARA-020","SARA","SARA",NA,"3",3,"NETN",2016,"20160531",NA,"Vitis",21,24764,"Prunus serotina","Alive Standing","Vines in the crown",0
+"MORR-023","MORR","MORR_Jockey_Hollow",NA,"2",4,"NETN",2013,"20130528",NA,"Vitis",8,19487,"Betula lenta","Alive Standing","Vines in the crown",0
+"SARA-008","SARA","SARA",NA,"3",1,"NETN",2014,"20140528",NA,"Vitis",8,32931,"Fraxinus americana","Alive Standing","Vines in the crown",0
+"MORR-023","MORR","MORR_Jockey_Hollow",NA,"2",4,"NETN",2013,"20130528",NA,"Vitis",1,19231,"Carya glabra","Alive Standing","Vines in the crown",0
+"MORR-023","MORR","MORR_Jockey_Hollow",NA,"3",4,"NETN",2017,"20170524",NA,"Vitis",7,19231,"Carya glabra","Alive Standing","Vines in the crown",0
+"MORR-012","MORR","MORR_Jockey_Hollow",NA,"2",2,"NETN",2011,"20110525",NA,"Vitis",14,19247,"Carya tomentosa","Alive Standing","Vines in the crown",0
+"MORR-006","MORR","MORR_Jockey_Hollow",NA,"4",2,"NETN",2019,"20190520",NA,"Vitis",15,28728,"Acer rubrum","Alive Standing","Vines in the crown",0
+"ROVA-039","ROVA","ROVA_HOFR_East","ELRO/HOFR","1",4,"NETN",2009,"20090609",NA,"Vitis",18,183375,"Pinus resinosa","Alive","Vines in the crown",0
+"MORR-019","MORR","MORR_Jockey_Hollow",NA,"2",4,"NETN",2013,"20130529",NA,"Vitis",2,32931,"Fraxinus americana","Alive Standing","Vines in the crown",0
+"ROVA-031","ROVA","ROVA_HOFR_West","ELRO/HOFR","2",4,"NETN",2013,"20130606",NA,"Vitis",18,28731,"Acer saccharum","Alive Standing","Vines in the crown",0
+"ROVA-025","ROVA","ROVA_VAMA","VAMA","3",4,"NETN",2017,"20170601",NA,"Vitis",1,19408,"Quercus rubra","Alive Standing","Vines in the crown",0
+"MORR-024","MORR","MORR_NJ_Brigade","NJ Brigade","3",4,"NETN",2017,"20170525",NA,"Vitis",1,18086,"Liriodendron tulipifera","Alive Standing","Vines in the crown",0
+"MIMA-018","MIMA","MIMA_Battle_Road",NA,"3",3,"NETN",2016,"20160620",NA,"Vitis",16,28728,"Acer rubrum","Alive Missed","Vines in the crown",0
+"SARA-008","SARA","SARA",NA,"3",1,"NETN",2014,"20140528",NA,"Vitis",12,32931,"Fraxinus americana","Alive Standing","Vines in the crown",0
+"MIMA-003","MIMA","MIMA_Battle_Road",NA,"2",1,"NETN",2010,"20100621",NA,"Vitis",23,19447,"Quercus velutina","Alive Standing","Vines in the crown",0
+"MIMA-003","MIMA","MIMA_Battle_Road",NA,"2",1,"NETN",2010,"20100621",NA,"Vitis",18,28728,"Acer rubrum","Alive Standing","Vines in the crown",0
+"ROVA-031","ROVA","ROVA_HOFR_West","ELRO/HOFR","1",4,"NETN",2009,"20090603",NA,"Vitis",17,28731,"Acer saccharum","Alive","Vines in the crown",0
+"MORR-021","MORR","MORR_Jockey_Hollow",NA,"1",4,"NETN",2009,"20090526",NA,"Vitis",10,19049,"Ulmus americana","Alive","Vines in the crown",0
+"MIMA-018","MIMA","MIMA_Battle_Road",NA,"3",3,"NETN",2016,"20160620",NA,"Vitis",11,28728,"Acer rubrum","Alive Standing","Vines in the crown",0
+"ROVA-022","ROVA","ROVA_HOFR_West","ELRO/HOFR","1",4,"NETN",2009,"20090603",NA,"Vitis",4,28731,"Acer saccharum","Alive","Vines in the crown",0
+"MIMA-018","MIMA","MIMA_Battle_Road",NA,"2",3,"NETN",2012,"20120619",NA,"Vitis labrusca",12,28728,"Acer rubrum","Alive Standing","Vines in the crown",0
+"MIMA-011","MIMA","MIMA_North_Bridge",NA,"2",3,"NETN",2012,"20120621",NA,"Vitis labrusca",3,28728,"Acer rubrum","Alive Standing","Vines in the crown",0
+"MIMA-011","MIMA","MIMA_North_Bridge",NA,"2",3,"NETN",2012,"20120621",NA,"Vitis labrusca",6,19300,"Quercus bicolor","Alive Standing","Vines in the crown",0
+"MIMA-018","MIMA","MIMA_Battle_Road",NA,"2",3,"NETN",2012,"20120619",NA,"Vitis labrusca",15,19447,"Quercus velutina","Recruit Standing","Vines in the crown",0
+"MIMA-018","MIMA","MIMA_Battle_Road",NA,"2",3,"NETN",2012,"20120619",NA,"Vitis labrusca",7,27821,"Nyssa sylvatica","Alive Standing","Vines in the crown",0
+"MIMA-020","MIMA","MIMA_Battle_Road",NA,"2",3,"NETN",2012,"20120620",NA,"Vitis labrusca",2,32931,"Fraxinus americana","Alive Standing","Vines in the crown",0
+"MIMA-018","MIMA","MIMA_Battle_Road",NA,"2",3,"NETN",2012,"20120619",NA,"Vitis labrusca",11,28728,"Acer rubrum","Alive Standing","Vines in the crown",0
+"MIMA-018","MIMA","MIMA_Battle_Road",NA,"2",3,"NETN",2012,"20120619",NA,"Vitis labrusca",14,28728,"Acer rubrum","Alive Standing","Vines in the crown",0
+"MIMA-018","MIMA","MIMA_Battle_Road",NA,"2",3,"NETN",2012,"20120619",NA,"Vitis labrusca",3,19049,"Ulmus americana","Alive Standing","Vines in the crown",0
+"MIMA-018","MIMA","MIMA_Battle_Road",NA,"2",3,"NETN",2012,"20120619",NA,"Vitis labrusca",8,28728,"Acer rubrum","Alive Standing","Vines in the crown",0
+"MIMA-011","MIMA","MIMA_North_Bridge",NA,"2",3,"NETN",2012,"20120621",NA,"Vitis labrusca",4,28728,"Acer rubrum","Alive Standing","Vines in the crown",0
+"WEFA-007","WEFA","WEFA",NA,"2",4,"NETN",2013,"20130617",NA,"Vitis labrusca",21,28728,"Acer rubrum","Alive Standing","Vines in the crown",0
+"MIMA-015","MIMA","MIMA_Battle_Road",NA,"2",3,"NETN",2012,"20120625",NA,"Vitis labrusca",18,24764,"Prunus serotina","Alive Standing","Vines in the crown",0
+"SARA-020","SARA","SARA",NA,"2",3,"NETN",2012,"20120531",NA,"Vitis riparia",12,28573,"Rhamnus cathartica","Recruit Leaning","Vines in the crown",1
+"SARA-028","SARA","SARA",NA,"2",3,"NETN",2012,"20120604",NA,"Vitis riparia",7,19242,"Carya ovata","Alive Standing","Vines in the crown",0
+"SARA-008","SARA","SARA",NA,"4",1,"NETN",2018,"20180531",NA,"Vitis riparia",12,32931,"Fraxinus americana","Alive Standing","Vines in the crown",0
+"SARA-008","SARA","SARA",NA,"4",1,"NETN",2018,"20180531",NA,"Vitis riparia",7,32931,"Fraxinus americana","Alive Standing","Vines in the crown",0
+"SARA-025","SARA","SARA",NA,"2",3,"NETN",2012,"20120605",NA,"Vitis riparia",6,19447,"Quercus velutina","Alive Standing","Vines in the crown",0
+"SARA-020","SARA","SARA",NA,"2",3,"NETN",2012,"20120531",NA,"Vitis riparia",24,24764,"Prunus serotina","Alive Missed","Vines in the crown",0
+"SARA-008","SARA","SARA",NA,"4",1,"NETN",2018,"20180531",NA,"Vitis riparia",4,32931,"Fraxinus americana","Alive Standing","Vines in the crown",0
+"SARA-020","SARA","SARA",NA,"2",3,"NETN",2012,"20120531",NA,"Vitis riparia",22,28573,"Rhamnus cathartica","Recruit Standing","Vines in the crown",1
+"SARA-020","SARA","SARA",NA,"2",3,"NETN",2012,"20120531",NA,"Vitis riparia",1,24764,"Prunus serotina","Alive Fallen","Vines in the crown",0
+"ROVA-017","ROVA","ROVA_HOFR_East","ELRO/HOFR","3",2,"NETN",2015,"20150604",NA,"Toxicodendron radicans",2,32929,"Fraxinus pennsylvanica","Alive Standing","Vines in the crown",0
+"MIMA-018","MIMA","MIMA_Battle_Road",NA,"3",3,"NETN",2016,"20160620",NA,"Toxicodendron radicans",9,28728,"Acer rubrum","Alive Standing","Vines in the crown",0
+"WEFA-008","WEFA","WEFA",NA,"1",4,"NETN",2009,"20090616",NA,"Toxicodendron radicans",4,28728,"Acer rubrum","Alive","Vines in the crown",0
+"WEFA-004","WEFA","WEFA",NA,"1",2,"NETN",2007,"20070705",NA,"Toxicodendron radicans",12,28728,"Acer rubrum","Alive","Vines in the crown",0
+"WEFA-008","WEFA","WEFA",NA,"1",4,"NETN",2009,"20090616",NA,"Toxicodendron radicans",8,19049,"Ulmus americana","Alive","Vines in the crown",0
+"MIMA-005","MIMA","MIMA_Battle_Road",NA,"4",1,"NETN",2018,"20180618",NA,"Toxicodendron radicans",7,504804,"Robinia pseudoacacia","Alive Standing","Vines in the crown",1
+"ROVA-014","ROVA","ROVA_VAMA","VAMA","1",2,"NETN",2007,"20070627",NA,"Toxicodendron radicans",21,18086,"Liriodendron tulipifera","Alive","Vines in the crown",0
+"WEFA-004","WEFA","WEFA",NA,"3",2,"NETN",2015,"20150615",NA,"Toxicodendron radicans",12,28728,"Acer rubrum","Alive Standing","Vines in the crown",0
+"WEFA-009","WEFA","WEFA",NA,"1",4,"NETN",2009,"20090615",NA,"Toxicodendron radicans",7,19242,"Carya ovata","Alive","Vines in the crown",0
+"WEFA-008","WEFA","WEFA",NA,"1",4,"NETN",2009,"20090616",NA,"Toxicodendron radicans",16,28728,"Acer rubrum","Alive","Vines in the crown",0
+"MIMA-005","MIMA","MIMA_Battle_Road",NA,"1",1,"NETN",2006,"20060719",NA,"Toxicodendron radicans",7,504804,"Robinia pseudoacacia","Alive","Vines in the crown",1
+"ROVA-017","ROVA","ROVA_HOFR_East","ELRO/HOFR","2",2,"NETN",2011,"20110608",NA,"Toxicodendron radicans",2,32929,"Fraxinus pennsylvanica","Alive Standing","Vines in the crown",0
+"MIMA-020","MIMA","MIMA_Battle_Road",NA,"2",3,"NETN",2012,"20120620",NA,"Toxicodendron radicans",2,32931,"Fraxinus americana","Alive Standing","Vines in the crown",0
+"MIMA-018","MIMA","MIMA_Battle_Road",NA,"3",3,"NETN",2016,"20160620",NA,"Toxicodendron radicans",8,28728,"Acer rubrum","Alive Standing","Vines in the crown",0
+"WEFA-008","WEFA","WEFA",NA,"1",4,"NETN",2009,"20090616",NA,"Toxicodendron radicans",14,28728,"Acer rubrum","Alive","Vines in the crown",0
+"MIMA-005","MIMA","MIMA_Battle_Road",NA,"4",1,"NETN",2018,"20180618",NA,"Toxicodendron radicans",5,504804,"Robinia pseudoacacia","Alive Standing","Vines in the crown",1
+"MIMA-005","MIMA","MIMA_Battle_Road",NA,"1",1,"NETN",2006,"20060719",NA,"Toxicodendron radicans",8,504804,"Robinia pseudoacacia","Alive","Vines in the crown",1
+"WEFA-008","WEFA","WEFA",NA,"1",4,"NETN",2009,"20090616",NA,"Toxicodendron radicans",5,32928,"Fraxinus","Dead","Vines in the crown",0
+"WEFA-004","WEFA","WEFA",NA,"2",2,"NETN",2011,"20110613",NA,"Toxicodendron radicans",12,28728,"Acer rubrum","Alive Standing","Vines in the crown",0
+"WEFA-008","WEFA","WEFA",NA,"1",4,"NETN",2009,"20090616",NA,"Toxicodendron radicans",7,28728,"Acer rubrum","Alive","Vines in the crown",0
+"WEFA-008","WEFA","WEFA",NA,"3",4,"NETN",2017,"20170612",NA,"Toxicodendron radicans",7,28728,"Acer rubrum","Alive Standing","Vines in the crown",0
+"WEFA-008","WEFA","WEFA",NA,"3",4,"NETN",2017,"20170612",NA,"Toxicodendron radicans",14,28728,"Acer rubrum","Alive Standing","Vines in the crown",0
+"MIMA-020","MIMA","MIMA_Battle_Road",NA,"3",3,"NETN",2016,"20160622",NA,"Toxicodendron radicans",8,19497,"Betula populifolia","Alive Leaning","Vines in the crown",0
+"MIMA-005","MIMA","MIMA_Battle_Road",NA,"4",1,"NETN",2018,"20180618",NA,"Toxicodendron radicans",8,504804,"Robinia pseudoacacia","Alive Standing","Vines in the crown",1
+"WEFA-004","WEFA","WEFA",NA,"4",2,"NETN",2019,"20190612",NA,"Toxicodendron radicans",12,28728,"Acer rubrum","Alive Standing","Vines in the crown",0
+"WEFA-008","WEFA","WEFA",NA,"3",4,"NETN",2017,"20170612",NA,"Toxicodendron radicans",8,19049,"Ulmus americana","Alive Standing","Vines in the crown",0
+"MIMA-018","MIMA","MIMA_Battle_Road",NA,"3",3,"NETN",2016,"20160620",NA,"Toxicodendron radicans",1,19049,"Ulmus americana","Alive Standing","Vines in the crown",0
+"MIMA-019","MIMA","MIMA_Battle_Road",NA,"2",3,"NETN",2012,"20120626",NA,"Smilax",18,183385,"Pinus strobus","Alive Standing","Vines in the crown",0
+"WEFA-001","WEFA","WEFA",NA,"2",2,"NETN",2011,"20110613",NA,"Smilax",13,183397,"Tsuga canadensis","Alive Standing","Vines in the crown",0
+"WEFA-001","WEFA","WEFA",NA,"3",2,"NETN",2015,"20150615",NA,"Smilax rotundifolia",13,183397,"Tsuga canadensis","Alive Standing","Vines in the crown",0
+"MORR-001","MORR","MORR_NJ_Brigade","NJ Brigade","4",2,"NETN",2019,"20190522",NA,"Celastrus orbiculatus",12,19447,"Quercus velutina","Alive Standing","Vines in the crown",0
+"MORR-006","MORR","MORR_Jockey_Hollow",NA,"3",2,"NETN",2015,"20150527",NA,"Celastrus orbiculatus",5,18086,"Liriodendron tulipifera","Alive Standing","Vines in the crown",0
+"WEFA-009","WEFA","WEFA",NA,"1",4,"NETN",2009,"20090615",NA,"Celastrus orbiculatus",7,19242,"Carya ovata","Alive","Vines in the crown",0
+"MIMA-002","MIMA","MIMA_Battle_Road",NA,"3",1,"NETN",2014,"20140617",NA,"Celastrus orbiculatus",4,28728,"Acer rubrum","Alive Standing","Vines in the crown",0
+"MORR-024","MORR","MORR_NJ_Brigade","NJ Brigade","1",4,"NETN",2009,"20090528",NA,"Celastrus orbiculatus",8,18086,"Liriodendron tulipifera","Alive","Vines in the crown",0
+"MIMA-002","MIMA","MIMA_Battle_Road",NA,"2",1,"NETN",2010,"20100622",NA,"Celastrus orbiculatus",23,28728,"Acer rubrum","Alive Standing","Vines in the crown",0
+"ROVA-028","ROVA","ROVA_VAMA","VAMA","3",4,"NETN",2017,"20170601",NA,"Celastrus orbiculatus",1,28728,"Acer rubrum","Alive Broken","Vines in the crown",0
+"MIMA-013","MIMA","MIMA_Battle_Road",NA,"2",3,"NETN",2012,"20120621",NA,"Celastrus orbiculatus",18,19049,"Ulmus americana","Recruit Standing","Vines in the crown",0
+"MORR-024","MORR","MORR_NJ_Brigade","NJ Brigade","1",4,"NETN",2009,"20090528",NA,"Celastrus orbiculatus",10,32931,"Fraxinus americana","Alive","Vines in the crown",0
+"MIMA-003","MIMA","MIMA_Battle_Road",NA,"2",1,"NETN",2010,"20100621",NA,"Celastrus orbiculatus",24,28728,"Acer rubrum","Alive Standing","Vines in the crown",0
+"MORR-024","MORR","MORR_NJ_Brigade","NJ Brigade","2",4,"NETN",2013,"20130530",NA,"Celastrus orbiculatus",8,18086,"Liriodendron tulipifera","Alive Standing","Vines in the crown",0
+"ROVA-028","ROVA","ROVA_VAMA","VAMA","2",4,"NETN",2013,"20130604",NA,"Celastrus orbiculatus",1,28728,"Acer rubrum","Alive Broken","Vines in the crown",0
+"MIMA-014","MIMA","MIMA_Battle_Road",NA,"3",3,"NETN",2016,"20160621",NA,"Celastrus orbiculatus",17,28728,"Acer rubrum","Alive Standing","Vines in the crown",0
+"MIMA-020","MIMA","MIMA_Battle_Road",NA,"2",3,"NETN",2012,"20120620",NA,"Celastrus orbiculatus",3,32931,"Fraxinus americana","Alive Standing","Vines in the crown",0
+"ROVA-028","ROVA","ROVA_VAMA","VAMA","1",4,"NETN",2009,"20090608",NA,"Celastrus orbiculatus",2,28731,"Acer saccharum","Alive","Vines in the crown",0
+"MIMA-003","MIMA","MIMA_Battle_Road",NA,"3",1,"NETN",2014,"20140616",NA,"Celastrus orbiculatus",24,28728,"Acer rubrum","Alive Standing","Vines in the crown",0
+"MORR-020","MORR","MORR_Jockey_Hollow",NA,"1",4,"NETN",2009,"20090526",NA,"Celastrus orbiculatus",4,32931,"Fraxinus americana","Alive","Vines in the crown",0
+"MORR-001","MORR","MORR_NJ_Brigade","NJ Brigade","2",2,"NETN",2011,"20110524",NA,"Celastrus orbiculatus",12,19447,"Quercus velutina","Alive Standing","Vines in the crown",0
+"MIMA-013","MIMA","MIMA_Battle_Road",NA,"2",3,"NETN",2012,"20120621",NA,"Celastrus orbiculatus",1,32929,"Fraxinus pennsylvanica","Alive Standing","Vines in the crown",0
+"MIMA-013","MIMA","MIMA_Battle_Road",NA,"3",3,"NETN",2016,"20160620",NA,"Celastrus orbiculatus",18,19049,"Ulmus americana","Alive Standing","Vines in the crown",0
+"ROVA-028","ROVA","ROVA_VAMA","VAMA","1",4,"NETN",2009,"20090608",NA,"Celastrus orbiculatus",1,28728,"Acer rubrum","Alive","Vines in the crown",0
+"WEFA-009","WEFA","WEFA",NA,"2",4,"NETN",2013,"20130617",NA,"Celastrus orbiculatus",7,19242,"Carya ovata","Alive Standing","Vines in the crown",0
+"MORR-024","MORR","MORR_NJ_Brigade","NJ Brigade","1",4,"NETN",2009,"20090528",NA,"Celastrus orbiculatus",1,18086,"Liriodendron tulipifera","Alive","Vines in the crown",0
+"MORR-020","MORR","MORR_Jockey_Hollow",NA,"3",4,"NETN",2017,"20170523",NA,"Celastrus orbiculatus",4,32931,"Fraxinus americana","Alive Standing","Vines in the crown",0
+"ROVA-028","ROVA","ROVA_VAMA","VAMA","3",4,"NETN",2017,"20170601",NA,"Celastrus orbiculatus",2,28731,"Acer saccharum","Alive Standing","Vines in the crown",0
+"MIMA-005","MIMA","MIMA_Battle_Road",NA,"2",1,"NETN",2010,"20100622",NA,"Celastrus orbiculatus",15,28728,"Acer rubrum","Alive Standing","Vines in the crown",0
+"WEFA-009","WEFA","WEFA",NA,"1",4,"NETN",2009,"20090615",NA,"Celastrus orbiculatus",6,19242,"Carya ovata","Alive","Vines in the crown",0
+"WEFA-009","WEFA","WEFA",NA,"3",4,"NETN",2017,"20170613",NA,"Celastrus orbiculatus",7,19242,"Carya ovata","Alive Standing","Vines in the crown",0
+"MIMA-002","MIMA","MIMA_Battle_Road",NA,"2",1,"NETN",2010,"20100622",NA,"Celastrus orbiculatus",7,183389,"Pinus sylvestris","Alive Standing","Vines in the crown",1
+"MIMA-003","MIMA","MIMA_Battle_Road",NA,"2",1,"NETN",2010,"20100621",NA,"Celastrus orbiculatus",23,19447,"Quercus velutina","Alive Standing","Vines in the crown",0
+"MORR-020","MORR","MORR_Jockey_Hollow",NA,"2",4,"NETN",2013,"20130529",NA,"Celastrus orbiculatus",4,32931,"Fraxinus americana","Alive Standing","Vines in the crown",0
+"MORR-001","MORR","MORR_NJ_Brigade","NJ Brigade","3",2,"NETN",2015,"20150529",NA,"Celastrus orbiculatus",7,28755,"Acer platanoides","Alive Standing","Vines in the crown",1
+"MIMA-005","MIMA","MIMA_Battle_Road",NA,"2",1,"NETN",2010,"20100622",NA,"Celastrus orbiculatus",16,28728,"Acer rubrum","Alive Standing","Vines in the crown",0
+"WEFA-009","WEFA","WEFA",NA,"2",4,"NETN",2013,"20130617",NA,"Celastrus orbiculatus",8,19487,"Betula lenta","Alive Standing","Vines in the crown",0
+"MORR-006","MORR","MORR_Jockey_Hollow",NA,"2",2,"NETN",2011,"20110523",NA,"Celastrus orbiculatus",5,18086,"Liriodendron tulipifera","Alive Standing","Vines in the crown",0
+"MORR-002","MORR","MORR_NJ_Brigade","NJ Brigade","4",2,"NETN",2019,"20190523",NA,"Celastrus orbiculatus",10,27806,"Cornus florida","Recruit Standing","Vines in the crown",0
+"MORR-024","MORR","MORR_NJ_Brigade","NJ Brigade","2",4,"NETN",2013,"20130530",NA,"Celastrus orbiculatus",1,18086,"Liriodendron tulipifera","Alive Standing","Vines in the crown",0
+"MORR-006","MORR","MORR_Jockey_Hollow",NA,"2",2,"NETN",2011,"20110523",NA,"Celastrus orbiculatus",6,28728,"Acer rubrum","Alive Standing","Vines in the crown",0
+"MORR-001","MORR","MORR_NJ_Brigade","NJ Brigade","3",2,"NETN",2015,"20150529",NA,"Celastrus orbiculatus",12,19447,"Quercus velutina","Alive Standing","Vines in the crown",0
+"MORR-017","MORR","MORR_Jockey_Hollow",NA,"3",4,"NETN",2017,"20170524",NA,"Celastrus orbiculatus",2,504804,"Robinia pseudoacacia","Alive Leaning","Vines in the crown",1
+"MORR-001","MORR","MORR_NJ_Brigade","NJ Brigade","4",2,"NETN",2019,"20190522",NA,"Celastrus orbiculatus",7,28755,"Acer platanoides","Alive Standing","Vines in the crown",1
+"MIMA-002","MIMA","MIMA_Battle_Road",NA,"2",1,"NETN",2010,"20100622",NA,"Celastrus orbiculatus",4,28728,"Acer rubrum","Alive Standing","Vines in the crown",0
+"MIMA-007","MIMA","MIMA_Battle_Road",NA,"4",1,"NETN",2018,"20180620",NA,"Celastrus orbiculatus",4,28728,"Acer rubrum","Alive Broken","Vines in the crown",0
+"MORR-006","MORR","MORR_Jockey_Hollow",NA,"4",2,"NETN",2019,"20190520",NA,"Celastrus orbiculatus",5,18086,"Liriodendron tulipifera","Alive Standing","Vines in the crown",0

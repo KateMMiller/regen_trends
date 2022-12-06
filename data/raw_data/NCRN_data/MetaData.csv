@@ -1,0 +1,12 @@
+ParkCode,ShortName,LongName,Network,TPlotNum,TPlotSize,SapPlotNum,SapPlotSize,SeedPlotNum,SeedPlotSize,ShrubPlotNum,ShrubPlotSize,ShSeedPlotNum,ShSeedPlotSize,VPlotNum,VPlotSize,HPlotNum,HPlotSize
+ANTI,Antieatm,Antietam National Battlefield,NCRN,1,706.86,3,28.27,12,1,3,28.27,12,1,1,706.86,12,1
+CATO,Catoctin,Catoctin Mountain Park,NCRN,1,706.86,3,28.27,12,1,3,28.27,12,1,1,706.86,12,1
+CHOH,C&O Canal,Chesapeake & Ohio Canal National Historical Park,NCRN,1,706.86,3,28.27,12,1,3,28.27,12,1,1,706.86,12,1
+GWMP,GW Parkway,George Washington Memorial Parkway,NCRN,1,706.86,3,28.27,12,1,3,28.27,12,1,1,706.86,12,1
+HAFE,Harpers Ferry,Harpers Ferry National Historical Park,NCRN,1,706.86,3,28.27,12,1,3,28.27,12,1,1,706.86,12,1
+MANA,Manassas,Manassas National Battlefield Park,NCRN,1,706.86,3,28.27,12,1,3,28.27,12,1,1,706.86,12,1
+MONO,Monocacy,Monocacy National Battlefield,NCRN,1,706.86,3,28.27,12,1,3,28.27,12,1,1,706.86,12,1
+NACE,Nat.Cap.Parks - East,National Captial Parks-East,NCRN,1,706.86,3,28.27,12,1,3,28.27,12,1,1,706.86,12,1
+PRWI,Prince William,Prince William Forest Park,NCRN,1,706.86,3,28.27,12,1,3,28.27,12,1,1,706.86,12,1
+ROCR,Rock Creek,Rock Creek Park,NCRN,1,706.86,3,28.27,12,1,3,28.27,12,1,1,706.86,12,1
+WOTR,Wolf Trap,Wolf Trap National Park for the Performing Arts,NCRN,1,706.86,3,28.27,12,1,3,28.27,12,1,1,706.86,12,1

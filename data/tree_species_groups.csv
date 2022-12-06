@@ -1,0 +1,222 @@
+Species,Canopy_Tree,Native
+Abies balsamea,1,1
+Acer,1,1
+Acer floridanum,1,1
+Acer negundo,1,1
+Acer nigrum,1,1
+Acer palmatum,0,0
+Acer pensylvanicum,0,1
+Acer platanoides,0,0
+Acer rubrum,1,1
+Acer saccharinum,1,1
+Acer saccharum,1,1
+Acer sp.,1,1
+Acer spicatum,0,1
+Aesculus flava,1,1
+Aesculus hippocastanum,0,0
+Ailanthus altissima,0,0
+Albizia julibrissin,1,0
+Alnus serrulata,0,1
+Amelanchier,0,1
+Amelanchier arborea,0,1
+Amelanchier canadensis,0,1
+Amelanchier laevis,0,1
+Amelanchier sp.,0,1
+Aralia elata,0,0
+Aralia spinosa,0,1
+Asimina triloba,0,1
+Betula,1,1
+Betula alleghaniensis,1,1
+Betula cordifolia,1,1
+Betula lenta,1,1
+Betula nigra,1,1
+Betula papyrifera,1,1
+Betula populifolia,1,1
+Betula sp.,1,1
+Betula X cearulea,1,1
+Betulaceae,1,1
+Carpinus caroliniana,0,1
+Carya,1,1
+Carya alba,1,1
+Carya cordiformis,1,1
+Carya glabra,1,1
+Carya laciniosa,1,1
+Carya ovalis,1,1
+Carya ovata,1,1
+Carya sp.,1,1
+Carya spp.,1,1
+Carya tomentosa,1,1
+Castanea dentata,0,1
+Castanea pumila,0,1
+Catalpa bignonioides,0,0
+Catalpa sp.,0,0
+Catalpa speciosa,0,0
+Celtis laevigata,1,1
+Celtis occidentalis,1,1
+Celtis sp.,1,1
+Cercis canadensis,0,1
+Chionanthus virginicus,0,1
+Cladrastis kentukea,1,1
+Cornus alternifolia,0,1
+Cornus florida,0,1
+Cornus sp.,0,1
+Cornus spp.,0,1
+Crataegus,0,0
+Crataegus crus-galli,0,0
+Crataegus macrosperma,0,1
+Crataegus sp.,0,0
+Crataegus sp. A,0,0
+Crataegus sp. B,0,0
+Diospyros virginiana,1,1
+Fabaceae,0,0
+Fagus grandifolia,1,1
+Fraxinus,0,1
+Fraxinus americana,0,1
+Fraxinus nigra,0,1
+Fraxinus pennsylvanica,0,1
+Fraxinus profunda,0,1
+Fraxinus sp.,0,1
+Fraxinus spp.,0,1
+Gleditsia triacanthos,0,1
+Gymnocladus dioicus,1,1
+Halesia tetraptera,1,1
+Ilex opaca,0,1
+Juglans,1,1
+Juglans cinerea,1,1
+Juglans nigra,1,1
+Juglans sp.,1,1
+Juniperus virginiana,0,1
+Larix decidua,0,0
+Larix laricina,1,1
+Larix sp.,0,0
+Ligustrum,0,0
+Liquidambar styraciflua,1,1
+Liriodendron tulipifera,1,1
+Maclura pomifera,1,1
+Magnolia acuminata,1,1
+Magnolia fraseri,1,1
+Magnolia grandiflora,1,1
+Magnolia tripetala,1,1
+Magnolia virginiana,1,1
+Malus,0,0
+Malus baccata,0,0
+Malus coronaria,0,0
+Malus prunifolia,0,0
+Malus sieboldii,0,0
+Malus sp.,0,0
+Malus spp.,0,0
+Morella cerifera,0,1
+Morus alba,0,0
+Morus rubra,0,1
+Nyssa biflora,1,1
+Nyssa sylvatica,1,1
+Ostrya virginiana,0,1
+Oxydendrum arboreum,0,1
+Paulownia tomentosa,0,0
+Persea,0,1
+Persea palustris,0,1
+Phellodendron lavallei,1,0
+Photinia villosa,0,0
+Picea,1,1
+Picea abies,0,0
+Picea glauca,1,1
+Picea mariana,1,1
+Picea rubens,1,1
+Pinus,1,1
+Pinus banksiana,1,1
+Pinus echinata,1,1
+Pinus pungens,1,1
+Pinus resinosa,1,1
+Pinus rigida,1,1
+Pinus sp.,1,1
+Pinus strobus,1,1
+Pinus sylvestris,0,0
+Pinus taeda,1,1
+Pinus virginiana,1,1
+Platanus occidentalis,1,1
+Populus,1,1
+Populus alba,1,0
+Populus deltoides,1,1
+Populus grandidentata,1,1
+Populus sp.,1,1
+Populus tremuloides,1,1
+Prunus,1,1
+Prunus americana,1,1
+Prunus avium,0,0
+Prunus cerasus,0,0
+Prunus pensylvanica,1,1
+Prunus serotina,1,1
+Prunus sp.,1,1
+Prunus spp.,1,1
+Prunus virginiana,1,1
+Pyrus,0,0
+Pyrus betulifolia,0,0
+Pyrus calleryana,0,0
+Pyrus communis,0,0
+Pyrus pyrifolia,0,0
+Pyrus sp.,0,0
+Pyrus spp.,0,0
+Quercus,1,1
+Quercus (Red group),1,1
+Quercus (White group),1,1
+Quercus alba,1,1
+Quercus bicolor,1,1
+Quercus coccinea,1,1
+Quercus falcata,1,1
+Quercus ilicifolia,0,1
+Quercus macrocarpa,1,1
+Quercus marilandica,1,1
+Quercus michauxii,1,1
+Quercus montana,1,1
+Quercus muehlenbergii,1,1
+Quercus nigra,1,1
+Quercus pagoda,1,1
+Quercus palustris,1,1
+Quercus phellos,1,1
+Quercus prinus,1,1
+Quercus rubra,1,1
+Quercus shumardii,1,1
+Quercus sp.,1,1
+Quercus spp.,1,1
+Quercus stellata,1,1
+Quercus velutina,1,1
+Quercus X benderi,1,1
+Quercus X bushii,1,1
+Quercus X fernowii,1,1
+Quercus X willdenowiana,1,1
+Rhamnus cathartica,0,0
+Rhus typhina,0,1
+Robinia pseudoacacia,0,1
+Rosaceae,0,1
+Salix,1,1
+Salix alba,0,0
+Salix discolor,1,1
+Sassafras albidum,0,1
+Sophora japonica,0,0
+Sorbus americana,0,1
+Thuja occidentalis,1,1
+Tilia americana,1,1
+Tsuga canadensis,1,1
+Ulmus,1,1
+Ulmus alata,1,1
+Ulmus americana,1,1
+Ulmus pumila,0,0
+Ulmus rubra,1,1
+Ulmus sp.,1,1
+Ulmus spp.,1,1
+Unknown Conifer,1,1
+Unknown Hardwood,1,1
+Unknown species,1,1
+Unknown Tree,1,1
+Unknown Tree ,1,1
+Unknown Tree - 01,1,1
+Unknown Tree - 02,1,1
+Unknown Tree - 04,1,1
+Viburnum prunifolium,0,1
+Castanea sp.,1,1
+Malus pumila,0,0
+Rhus sp.,0,1
+Rosaceae Family,0,1
+Salix nigra,1,1
+Salix sp.,0,1
+Taxus,0,0

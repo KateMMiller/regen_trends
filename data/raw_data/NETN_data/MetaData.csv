@@ -1,0 +1,9 @@
+ParkCode,ShortName,LongName,Network,TPlotNum,TPlotSize,SapPlotNum,SapPlotSize,SeedPlotNum,SeedPlotSize,ShrubPlotNum,ShrubPlotSize,ShSeedPlotNum,ShSeedPlotSize,VPlotNum,VPlotSize,HPlotNum,HPlotSize
+ACAD,Acadia,Acadia National Park,NETN,1,225,3,12.57,3,12.57,3,12.57,NA,NA,225,1,8,1
+MABI,Marsh-Billings-Rockefeller,Marsh-Billings-Rockefeller National Historical Park,NETN,1,400,3,12.57,3,12.57,3,12.57,NA,NA,400,1,8,1
+MIMA,Minute Man,Minute Man National Historical Park,NETN,1,400,3,12.57,3,12.57,3,12.57,NA,NA,400,1,8,1
+MORR,Morristown,Morristown National Historical Park,NETN,1,400,3,12.57,3,12.57,3,12.57,NA,NA,400,1,8,1
+ROVA,Roosevelt-Vanderbilt,Roosevelt-Vanderbilt National Historic Sites,NETN,1,400,3,12.57,3,12.57,3,12.57,NA,NA,400,1,8,1
+SAGA,Saint-Gaudens,Saint-Gaudens National Historic Site,NETN,1,400,3,12.57,3,12.57,3,12.57,NA,NA,400,1,8,1
+SARA,Saratoga,Saratoga National Historical Park,NETN,1,400,3,12.57,3,12.57,3,12.57,NA,NA,400,1,8,1
+WEFA,Weir Farm,Weir Farm National Historic Site,NETN,1,400,3,12.57,3,12.57,3,12.57,NA,NA,400,1,8,1
